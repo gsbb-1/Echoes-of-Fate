@@ -5,33 +5,33 @@ When an idea here gets decided on, move the decision into the right canon
 file (`manuscript/outline.md`, `characters/*.md`, `scenes/*.md`) and delete
 or strike it from this list. This file is for *maybe*, not for *settled*.
 
-## Possible connective mechanisms (the plot currently lacks one — see
-`TODO.md`)
+## Resolved (moved to canon, 2026-09-14)
 
-- Michael's search is *for* something tied to Jack's unsolved case — he
-  arrives in town already connected to it without knowing.
-- A single physical place all six pass through: a cafe, the park bench
-  Jack sits on, a town event or festival.
-- A shared point in the past: all six (or their families) were touched by
-  the same earlier incident in Willow Creek, before the story starts.
-- Emma's business is the common thread — she employs, funds, or is
-  investigated in connection with one or more of the others (Olivia as an
-  employee? Jack's case touching her company?).
+The connective mechanism, the Liam/Olivia relationship, and the story
+timeframe are now decided — see `characters/README.md`,
+`scenes/willow-creek.md`, and the individual `characters/*.md` files.
+Summary: Michael's brother Daniel disappeared from Willow Creek eighteen
+years ago; Jack never solved it; Emma's father buried evidence tied to it;
+Olivia was a teenage witness who stayed silent; Liam is Olivia's son and
+unknowingly surfaces the connection; Sarah has been painting the place
+Daniel was last seen without knowing why. Story spans six weeks in early
+autumn, climaxing at the town's Harvest Festival.
 
-## Possible identity for Liam/Olivia
+## Still open / loose ideas
 
-- Liam is Olivia's son — simplest reading of Ch. 4's summary, ties two
-  threads together for free, but needs Ch. 1 to hint at it (currently reads
-  as two unrelated households).
-- Liam is unrelated to Olivia, and "both him and his mother" in the Ch. 4
-  summary refers to a different mother not yet introduced — more work,
-  but keeps six independent threads longer before converging.
-
-## Other loose ideas
-
-- Chapter 1 could open on just one or two characters instead of all six, and
-  introduce the rest gradually across Chapters 1–4 as they're each about to
-  matter to the plot, rather than a single six-paragraph roll call.
-- Consider whether this is closer to a braided-narrative short novel (each
-  chapter one POV) vs. a true ensemble (multiple POVs per chapter) — affects
-  chapter structure going forward.
+- **Why does Sarah paint the lake/orchard?** Family connection, suppressed
+  memory, or something else — not yet decided. Flagged for the
+  character-development work.
+- **What is Jack's present-day case** that reopens Daniel's file? Needs a
+  concrete inciting incident (a body, an artifact, a confession, new
+  construction unearthing something) — flagged for plot research/design.
+- **Exact nature of the evidence Emma's father buried** — a document, a
+  payoff, something physical? Affects how it's eventually found.
+- Consider whether this is closer to a braided-narrative novel (each
+  chapter one POV) vs. a true ensemble (multiple POVs per chapter) — the
+  26-chapter outline currently assumes one POV per chapter; revisit if that
+  feels too rigid once drafting starts.
+- Possible title imagery: since "echoes" is in the title, consider whether
+  a recurring physical echo (the lake, an old song, a repeated phrase)
+  should tie the six threads together more explicitly, beyond plot
+  mechanics.

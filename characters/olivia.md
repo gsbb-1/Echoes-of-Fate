@@ -13,5 +13,8 @@
   - Ch. 4 — faces challenges providing for her son; her son's rebellious
     actions (see `liam.md`) cause unexpected consequences for both of them
   - Ch. 7 — forced into a life-changing decision for her son's sake
-- **Relationships:** possibly Liam's mother — **unconfirmed, see open
-  question in `README.md` and `TODO.md`**
+- **Relationships:** Liam's mother (confirmed).
+- **Plot thread (resolved 2026-09-14):** as a teenager, Olivia was one of
+  the last people to see Daniel (Michael's brother) before he disappeared
+  eighteen years ago. She's never told anyone what she saw. That silence,
+  not just financial strain, is the real weight she's carrying in Ch. 1.

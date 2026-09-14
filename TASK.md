@@ -7,21 +7,30 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status:** idle — no chapter actively being drafted.
+**Status:** two background agents in flight; main thread work for this
+cycle is done and committed.
 
-The repository was just reorganized (2026-09-14): raw ChatGPT session dumps
-moved to `archive/chatgpt-sessions/`, canonical outline moved to
-`manuscript/outline.md`, character notes split into `characters/*.md`,
-setting notes started in `scenes/`, craft research scaffolded in
-`research/`. Chapter 1 was copied as-is into `manuscript/chapters/` — it has
-not yet been rewritten.
+- A character-development agent is deepening `characters/*.md` (backstory,
+  voice, physical detail, flaws, cross-relationships).
+- A plot-research agent is writing `scenes/plot-map.md` (detailed
+  beat-by-beat mystery design) and two craft-research files
+  (`research/mystery-plotting.md`, `research/subplot-weaving.md`).
 
-**Next task to pick up:** the story decisions blocking further writing, at
-the top of `TODO.md` (Liam/Olivia relationship, connective mechanism,
-timeframe). Nothing else should be drafted until those are settled, per
-`PLAN.md`.
+**Next task to pick up (once both agents report back):** reconcile their
+output — check for contradictions between `scenes/plot-map.md` and the
+character files, resolve any newly-flagged open questions in
+`characters/README.md`, and fold answers into the remaining open items
+(Sarah's painting, Jack's present-day case). Then move to drafting: rewrite
+Chapter 1 (split into new Ch. 1-2) per `docs/workflows/scene-planning.md`
+and `docs/workflows/chapter-drafting.md`.
 
 ## History
 
 - 2026-09-14 — Repo reorganized; tracking files (`TODO.md`, `IDEA.md`,
   `PLAN.md`, `TASK.md`) and `AGENTS.md` created.
+- 2026-09-14 — Expanded goal to 26 chapters/~200 pages. Resolved the three
+  blocking story decisions (Liam/Olivia relationship, connective
+  mechanism, timeframe). Expanded `manuscript/outline.md` to 26 chapters.
+  Designed and documented core workflows in `docs/workflows/`. Built
+  `tests/test_manuscript.py` (15 checks, passing). Launched background
+  agents for craft research, character development, and plot research.

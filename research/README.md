@@ -25,3 +25,20 @@ references for multi-POV ensemble novels.
 Add findings/notes here as separate files (e.g. `show-dont-tell.md`,
 `multi-pov-structure.md`) as research is done, rather than growing this
 README indefinitely.
+
+## Research notes
+
+- [`show-dont-tell.md`](show-dont-tell.md) — techniques for dramatizing
+  internal conflict through action/dialogue/sensory detail, with a
+  before/after rewrite of a line from Chapter 1.
+- [`multi-pov-structure.md`](multi-pov-structure.md) — how ensemble novels
+  assign chapters to POV characters, how many POVs is manageable, and how
+  to keep six threads connected across 26 chapters.
+- [`voice-differentiation.md`](voice-differentiation.md) — practical levers
+  (sentence rhythm, diction, what each character notices) for giving each
+  of the six POV characters a distinguishable prose voice.
+- [`pacing-and-chapter-length.md`](pacing-and-chapter-length.md) —
+  chapter-length and pacing guidance for a ~200-page/26-chapter novel, and
+  how it maps onto the existing 6-part thematic structure.
+- [`dialogue-craft.md`](dialogue-craft.md) — techniques for naturalistic,
+  character-differentiated dialogue, since the current draft has none.

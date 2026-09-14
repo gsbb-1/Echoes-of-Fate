@@ -13,5 +13,9 @@
   - Ch. 4 — rebellious actions lead to unexpected consequences for himself
     and (possibly) his mother
   - Ch. 9 — his actions have far-reaching effects on people around him
-- **Relationships:** possibly Olivia's son — **unconfirmed, see open
-  question in `README.md` and `TODO.md`**
+- **Relationships:** Olivia's son (confirmed).
+- **Plot thread (resolved 2026-09-14):** doesn't know the town's history
+  around Daniel's disappearance. His digging around — curiosity, not
+  malice — is what eventually surfaces the connection between Michael,
+  Emma's family, and Olivia's silence, going public around Ch. 20 ("Liam's
+  Reckoning").

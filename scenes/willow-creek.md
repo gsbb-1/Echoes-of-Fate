@@ -12,16 +12,27 @@ The story's setting: a small town in the mountains.
   park with a bench, residential apartments on the outskirts (Olivia's)
 - Picturesque surface, but residents "harbored secrets and burdens"
 
-## Undefined — needs deciding
+## Resolved (2026-09-14)
 
-- Era / time period (contemporary, but what decade, what technology?)
-- Size and economy — what does the town actually run on? (tourism, a local
-  industry, a college?) This matters for Emma's business and for what kind
-  of "case" Jack could plausibly investigate.
-- Real-world region/analog, or fully invented geography?
-- A specific shared location where multiple characters' paths could
-  plausibly cross (see the "connective mechanism" open question in
-  `characters/README.md` and `TODO.md`) — a cafe, the park, a town event,
-  Emma's company, Michael's arrival point.
-- Season — affects mood and matches the unset story timeframe
-  (`TODO.md`).
+- **Timeframe:** roughly six weeks, early autumn.
+- **Shared convergence point:** Willow Creek's annual Harvest Festival, held
+  in the town square — the physical event all six characters attend, where
+  the climax (Ch. 23-24) plays out. Also, more quietly, the site where
+  Daniel (Michael's brother) was last seen eighteen years ago: a lake/
+  orchard on the town's edge that recurs in Sarah's paintings.
+- **Economy:** a small tourism/local-crafts economy (the cafes and shops
+  from the Ch. 1 draft) plus one larger local employer — Emma's family
+  real-estate/development company, which historically bought and developed
+  land around the town, including near the lake/orchard.
+- **The cold case:** eighteen years ago, Daniel — a young man — disappeared
+  from Willow Creek. Jack, then an active detective, worked the case and
+  never closed it. It's the case that still haunts him in Ch. 1.
+
+## Still undefined — needs deciding
+
+- Era / decade and level of technology (contemporary is assumed; exact year
+  and tech details like phone use not yet pinned down)
+- Real-world region/analog, or fully invented geography
+- Physical layout/map of the town beyond the locations already named
+  (studio apartments, business district, park, outskirts apartments, lake/
+  orchard, town square)

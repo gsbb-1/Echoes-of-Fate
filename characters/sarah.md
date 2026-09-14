@@ -16,3 +16,8 @@
   - Ch. 7 — relationship with Michael deepens as they navigate their pasts
   - Ch. 8 — must come to terms with the consequences of choices made
 - **Relationships:** Michael (love interest / catalyst)
+- **Plot thread (resolved 2026-09-14):** Sarah has been painting a
+  recurring, unexplained image of a lake/orchard she has no conscious
+  memory of visiting. It's the place Daniel was last seen. What in her past
+  connects her to it (family story? a suppressed early memory?) is still
+  open — flagged for the character-development pass.

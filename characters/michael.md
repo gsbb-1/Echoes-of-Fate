@@ -14,7 +14,7 @@
     intertwines their fates
   - Ch. 7 — relationship with Sarah deepens as they navigate their pasts
 - **Relationships:** Sarah (love interest / catalyst)
-- **Open question:** what is Michael actually searching for, and how does
-  it connect to why the town matters to the story's climax? Undecided —
-  this is likely the strongest candidate for the "connective mechanism"
-  the plot currently lacks (see `TODO.md`).
+- **Plot thread (resolved 2026-09-14):** Michael's older brother, Daniel,
+  disappeared from Willow Creek eighteen years ago and was never found —
+  Jack's unsolved case. Michael has come to town to find out what actually
+  happened, working from what little he knows of Daniel's last days there.
