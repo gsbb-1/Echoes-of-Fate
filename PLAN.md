@@ -31,9 +31,9 @@ The book was seeded through ChatGPT brainstorming sessions (archived in
   beat-by-beat mystery design) plus mystery-plotting/subplot-weaving craft
   notes in `research/`. Their output needs reconciling once both finish
   (check `TODO.md`).
-- **Craft research:** five notes written covering show-vs-tell, multi-POV
-  structure, voice differentiation, pacing/chapter length, and dialogue —
-  see `research/`.
+- **Craft research:** notes covering show-vs-tell, multi-POV structure,
+  voice differentiation, pacing/chapter length, dialogue, and mystery
+  plotting — see `research/`. Synthesized into `manuscript/style-guide.md`.
 - **Process design:** the recurring workflows (outline design, character
   development, plot design, scene planning, chapter drafting, continuity
   testing, publishing) are documented with diagrams in `docs/workflows/`.

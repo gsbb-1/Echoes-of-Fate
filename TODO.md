@@ -42,9 +42,8 @@ chapters, ~200 pages** (see `manuscript/outline.md`).
 - [ ] Research mystery-plotting and subplot-weaving technique
       (`research/mystery-plotting.md`, `research/subplot-weaving.md` — in
       progress via plot-research agent)
-- [ ] Write a short style guide (POV, tense, target chapter length) so
-      later chapters stay consistent — can mostly be assembled from
-      existing `research/` notes
+- [x] Write a short style guide (POV, tense, target chapter length) —
+      `manuscript/style-guide.md`, assembled from the `research/` notes
 - [ ] Deepen `characters/*.md` (backstory, voice, physical detail, flaw,
       internal vs. external want) — in progress via character-development
       agent

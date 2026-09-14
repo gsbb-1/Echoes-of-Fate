@@ -138,6 +138,23 @@ class TestChapterFiles(unittest.TestCase):
         self.assertTrue((MANUSCRIPT / "chapters" / "chapter-01.md").exists())
 
 
+class TestStyleGuide(unittest.TestCase):
+    def test_style_guide_exists(self):
+        self.assertTrue((MANUSCRIPT / "style-guide.md").exists())
+
+    def test_style_guide_covers_all_characters(self):
+        text = (MANUSCRIPT / "style-guide.md").read_text(encoding="utf-8")
+        for name in CHARACTER_NAMES:
+            with self.subTest(character=name):
+                self.assertIn(name.capitalize(), text)
+
+    def test_style_guide_states_core_conventions(self):
+        text = (MANUSCRIPT / "style-guide.md").read_text(encoding="utf-8")
+        for term in ("past tense", "close third", "1,900", "show"):
+            with self.subTest(term=term):
+                self.assertIn(term, text.lower())
+
+
 class TestTextEncoding(unittest.TestCase):
     """Regression test: README.md was once silently UTF-16 and unreadable
     as plain text. Make sure no tracked text file regresses to that."""

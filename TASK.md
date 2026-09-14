@@ -7,14 +7,16 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status:** two background agents in flight; main thread work for this
-cycle is done and committed.
+**Status:** two background agents still in flight; main thread has
+completed the style guide and is about to commit.
 
 - A character-development agent is deepening `characters/*.md` (backstory,
-  voice, physical detail, flaws, cross-relationships).
+  voice, physical detail, flaws, cross-relationships) — `sarah.md` done so
+  far.
 - A plot-research agent is writing `scenes/plot-map.md` (detailed
-  beat-by-beat mystery design) and two craft-research files
-  (`research/mystery-plotting.md`, `research/subplot-weaving.md`).
+  beat-by-beat mystery design) and two craft-research files —
+  `research/mystery-plotting.md` and `research/subplot-weaving.md` landed,
+  `scenes/plot-map.md` still pending.
 
 **Next task to pick up (once both agents report back):** reconcile their
 output — check for contradictions between `scenes/plot-map.md` and the
