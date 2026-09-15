@@ -7,10 +7,12 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status:** Chapters 1-4 drafted and committed. Chapter drafting is a
-steady loop now: scene plan (`scenes/chapter-NN.md`) → draft
-(`manuscript/chapters/chapter-NN.md`) → `tests/test_manuscript.py` →
-update `TODO.md` → commit.
+**Status: session paused, 2026-09-15.** Chapters 1-4 drafted and
+committed (of 26). Nothing in progress, working tree clean, all tests
+passing. Chapter drafting is a steady loop now: scene plan
+(`scenes/chapter-NN.md`) → draft (`manuscript/chapters/chapter-NN.md`) →
+`tests/test_manuscript.py` → update `TODO.md` → commit — repeat per
+`AGENTS.md`.
 
 **Next task to pick up:** Chapters 5-6 (Emma) — "The Ledger" (finds the
 inconsistency in her father's files) and "What Emma Won't Say" (nearly
@@ -31,3 +33,6 @@ she can and can't reveal at this reveal-tier.
 - 2026-09-15 — Drafted Chapters 1-2 (six real scenes replacing the old
   montage draft), added per-chapter word-count and stock-phrase regression
   tests.
+- 2026-09-15 — Drafted Chapters 3-4 (Sarah and Michael's first meeting,
+  first dialogue-heavy chapter). Session paused here for the user to read
+  Ch. 1-4 before more chapters are drafted.

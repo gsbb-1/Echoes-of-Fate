@@ -8,6 +8,11 @@ what's actively being worked on right now.
 Goal: expand from the original 13-chapter/~50-page draft to **26
 chapters, ~200 pages** (see `manuscript/outline.md`).
 
+**Session paused 2026-09-15 with 4 of 26 chapters drafted (Ch. 1-4).**
+All planning/design infrastructure below is done; only the "Writing"
+section has open items. See `TASK.md` for the exact resume point and
+`PLAN.md` for the full state of the project.
+
 ## Story decisions (were blocking further chapter writing)
 
 - [x] Decide whether Liam is Olivia's son — confirmed, yes
@@ -25,7 +30,7 @@ chapters, ~200 pages** (see `manuscript/outline.md`).
 - [x] Expand `manuscript/outline.md` to the 26-chapter/~200-page structure
 - [x] Design and document core workflows in `docs/workflows/`
 - [x] Build `tests/test_manuscript.py` automated consistency checks and get
-      them passing (15 checks, all green —
+      them passing (23 checks, all green —
       `python3 -m unittest discover -s tests`)
 - [x] Reconcile the character-development agent's and plot-research agent's
       output — found and fixed a real naming conflict (the plot-research
@@ -88,11 +93,13 @@ chapters, ~200 pages** (see `manuscript/outline.md`).
 - [ ] Ch. 25 — "What's Left Standing"
 - [ ] Ch. 26 — "Echoes of Fate"
 
-
 ## Publishing (`docs/`)
 
-- [ ] Once Chapter 1 is rewritten, update `docs/ch01.html` to match (or
-      switch to a generated approach — see `docs/workflows/publishing.md`)
+- [ ] Update `docs/ch01.html` (and add `docs/ch02.html`-`ch04.html`) to
+      match the drafted chapters — or switch to a generated approach, see
+      `docs/workflows/publishing.md`. Not urgent: deliberately left until
+      more chapters are drafted, per that workflow's own guidance not to
+      republish on every draft.
 - [ ] `docs/index.html` is a placeholder landing page — give it real
       content (title, blurb, chapter links) once there are a few chapters
       worth linking to
