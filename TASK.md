@@ -7,16 +7,16 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status:** Chapters 1-2 drafted and committed. Chapter drafting is now a
-steady loop: scene plan (`scenes/chapter-NN.md`) → draft
+**Status:** Chapters 1-4 drafted and committed. Chapter drafting is a
+steady loop now: scene plan (`scenes/chapter-NN.md`) → draft
 (`manuscript/chapters/chapter-NN.md`) → `tests/test_manuscript.py` →
 update `TODO.md` → commit.
 
-**Next task to pick up:** Chapters 3-4 — Sarah notices Michael around town
-(Ch. 3, Sarah POV) and they actually meet (Ch. 4, Michael POV). First
-chapters requiring dialogue; ground the meeting in
-`research/dialogue-craft.md`'s guidance (both characters want something
-out of the exchange beyond politeness, neither fully gets it).
+**Next task to pick up:** Chapters 5-6 (Emma) — "The Ledger" (finds the
+inconsistency in her father's files) and "What Emma Won't Say" (nearly
+tells someone, buries it again). First chapters in Emma's controlled,
+precise voice; see `characters/emma.md` and `scenes/plot-map.md` for what
+she can and can't reveal at this reveal-tier.
 
 ## History
 

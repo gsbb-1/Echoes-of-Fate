@@ -63,8 +63,8 @@ chapters, ~200 pages** (see `manuscript/outline.md`).
 - [x] Ch. 1 — "Six Lives, One Town" (rewritten as three real scenes —
       Sarah, Jack, Olivia — replacing the old six-paragraph montage)
 - [x] Ch. 2 — "What the Morning Hides" (Michael, Emma, Liam)
-- [ ] Ch. 3 — "The Artist and the Stranger"
-- [ ] Ch. 4 — "A Name Across the Room"
+- [x] Ch. 3 — "The Artist and the Stranger"
+- [x] Ch. 4 — "A Name Across the Room" (first dialogue-heavy chapter)
 - [ ] Ch. 5 — "The Ledger"
 - [ ] Ch. 6 — "What Emma Won't Say"
 - [ ] Ch. 7 — "Cold Case"

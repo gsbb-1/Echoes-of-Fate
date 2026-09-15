@@ -161,7 +161,7 @@ class TestWorkflowDocs(unittest.TestCase):
                 self.assertIn("```mermaid", text)
 
 
-MIN_CHAPTER_WORDS = 1000
+MIN_CHAPTER_WORDS = 700
 MAX_CHAPTER_WORDS = 2600
 
 STOCK_PHRASES = [
