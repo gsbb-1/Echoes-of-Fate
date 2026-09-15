@@ -60,8 +60,9 @@ chapters, ~200 pages** (see `manuscript/outline.md`).
 
 ## Writing — 26 chapters (see `manuscript/outline.md` for POV/summary per chapter)
 
-- [ ] Ch. 1 — "Six Lives, One Town" (rewrite existing draft — see below)
-- [ ] Ch. 2 — "What the Morning Hides"
+- [x] Ch. 1 — "Six Lives, One Town" (rewritten as three real scenes —
+      Sarah, Jack, Olivia — replacing the old six-paragraph montage)
+- [x] Ch. 2 — "What the Morning Hides" (Michael, Emma, Liam)
 - [ ] Ch. 3 — "The Artist and the Stranger"
 - [ ] Ch. 4 — "A Name Across the Room"
 - [ ] Ch. 5 — "The Ledger"
@@ -87,10 +88,6 @@ chapters, ~200 pages** (see `manuscript/outline.md`).
 - [ ] Ch. 25 — "What's Left Standing"
 - [ ] Ch. 26 — "Echoes of Fate"
 
-Old Chapter 1 draft (`manuscript/chapters/chapter-01.md`) is a
-six-paragraph introduction montage covering what's now split across
-Chapters 1-2 — it needs a full rewrite/split, not just a copy, per
-`docs/workflows/chapter-drafting.md`.
 
 ## Publishing (`docs/`)
 

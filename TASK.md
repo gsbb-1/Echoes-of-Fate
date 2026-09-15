@@ -7,36 +7,27 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status:** planning/design phase complete; about to start chapter
-drafting.
+**Status:** Chapters 1-2 drafted and committed. Chapter drafting is now a
+steady loop: scene plan (`scenes/chapter-NN.md`) → draft
+(`manuscript/chapters/chapter-NN.md`) → `tests/test_manuscript.py` →
+update `TODO.md` → commit.
 
-Both background agents (character-development, plot-research) finished and
-their output has been reconciled — see `PLAN.md`'s "naming conflict" note
-for what that involved. `scenes/plot-map.md` is now the ground truth for
-the mystery, all six `characters/*.md` files are fully fleshed out and
-consistent with it, and `manuscript/outline.md`'s 26 chapter summaries
-have been enriched with the concrete plot facts.
-
-**Next task to pick up:** rewrite the old Chapter 1 draft, split into the
-new Chapters 1-2, per `docs/workflows/scene-planning.md` and
-`docs/workflows/chapter-drafting.md`. Ground it in `scenes/plot-map.md`'s
-Introduction-tier rule: establish each character's private discomfort
-without naming the mystery yet.
+**Next task to pick up:** Chapters 3-4 — Sarah notices Michael around town
+(Ch. 3, Sarah POV) and they actually meet (Ch. 4, Michael POV). First
+chapters requiring dialogue; ground the meeting in
+`research/dialogue-craft.md`'s guidance (both characters want something
+out of the exchange beyond politeness, neither fully gets it).
 
 ## History
 
-- 2026-09-14 — Repo reorganized; tracking files (`TODO.md`, `IDEA.md`,
-  `PLAN.md`, `TASK.md`) and `AGENTS.md` created.
-- 2026-09-14 — Expanded goal to 26 chapters/~200 pages. Resolved the three
-  blocking story decisions. Expanded `manuscript/outline.md` to 26
-  chapters. Designed and documented core workflows in `docs/workflows/`.
-  Built `tests/test_manuscript.py`. Launched background agents for craft
-  research, character development, and plot research.
-- 2026-09-14 — Added `manuscript/style-guide.md`, synthesized from craft
-  research.
-- 2026-09-14/15 — Character-development and plot-research agents finished.
-  Reconciled a naming conflict between their independent output (Hale vs.
-  Whitfield, Daniel Voss vs. Daniel Cole) and a genuine backstory
-  contradiction on Sarah's family; folded plot-map facts into all six
-  character files' open questions and into the outline's chapter
-  summaries; added a regression test guarding against this drift.
+- 2026-09-14 — Repo reorganized; tracking files and `AGENTS.md` created.
+- 2026-09-14 — Expanded goal to 26 chapters/~200 pages; resolved the three
+  blocking story decisions; expanded the outline; documented workflows;
+  built the test suite; launched background research/character/plot agents.
+- 2026-09-14 — Added `manuscript/style-guide.md`.
+- 2026-09-14/15 — Reconciled the character-development and plot-research
+  agents' output (fixed a naming conflict and a Sarah backstory
+  contradiction); `scenes/plot-map.md` is now the mystery's ground truth.
+- 2026-09-15 — Drafted Chapters 1-2 (six real scenes replacing the old
+  montage draft), added per-chapter word-count and stock-phrase regression
+  tests.

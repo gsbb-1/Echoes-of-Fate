@@ -54,8 +54,8 @@ The 26 chapters are distributed across the original 6-part shape:
 
 | # | Title | POV | Status | Summary |
 |---|-------|-----|--------|---------|
-| 1 | Six Lives, One Town | Ensemble | Draft exists (needs rewrite — see TODO.md) | Glimpses of Sarah, Jack, and Olivia in Willow Creek at dawn; each carries a private weight. |
-| 2 | What the Morning Hides | Ensemble | Not started | Glimpses of Michael, Emma, and Liam; the town's picturesque surface starts to feel thin. |
+| 1 | Six Lives, One Town | Ensemble | Drafted | Glimpses of Sarah, Jack, and Olivia in Willow Creek at dawn; each carries a private weight. |
+| 2 | What the Morning Hides | Ensemble | Drafted | Glimpses of Michael, Emma, and Liam; the town's picturesque surface starts to feel thin. |
 | 3 | The Artist and the Stranger | Sarah | Not started | Sarah notices Michael around town before they speak; her current painting nags at her. |
 | 4 | A Name Across the Room | Michael | Not started | Michael and Sarah actually meet; he recognizes something in one of her paintings. |
 | 5 | The Ledger | Emma | Not started | Emma finds an inconsistency in her late father's old company files. |

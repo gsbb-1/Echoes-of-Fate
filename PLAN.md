@@ -48,10 +48,10 @@ planning/design work is done and the project is ready for chapter drafting:
 - **Automated checks:** `tests/test_manuscript.py` (21 checks) validates
   outline structure, character-file consistency, plot-map/character-file
   name consistency, and repo text encoding. All passing.
-- **Prose:** still only one chapter exists — the original ~470-word
-  Chapter 1 draft, now mapped to the new Chapters 1-2 and needing a full
-  rewrite/split rather than a copy. 25-26 chapters remain undrafted. This
-  is now the critical path — everything upstream of it is done.
+- **Prose:** Chapters 1-2 drafted (the old ~470-word montage rewritten as
+  six real scenes, three per chapter, ~1,950 words each). 24 chapters
+  remain undrafted. This is the critical path — everything upstream of it
+  is done.
 
 ## Working loop
 
@@ -65,16 +65,12 @@ the relevant `characters/*.md` file, and "test" means both
 
 ## Next steps (in order)
 
-1. Rewrite/split the old Chapter 1 draft into the new Chapters 1-2 (scene
-   plan first, per `docs/workflows/scene-planning.md`, grounded in
-   `scenes/plot-map.md`'s Introduction-tier reveal rules — no naming the
-   mystery yet, six separate people with six separate discomforts).
-2. Draft Chapters 3-4 (Sarah/Michael's first meeting) — first chapters
+1. Draft Chapters 3-4 (Sarah/Michael's first meeting) — first chapters
    needing real scene-writing and dialogue per `research/dialogue-craft.md`.
-3. Continue chapter-by-chapter per `manuscript/outline.md`, in roughly
+2. Continue chapter-by-chapter per `manuscript/outline.md`, in roughly
    outline order, running `tests/test_manuscript.py` and committing after
    each pass (or small batch of chapters).
-4. Sync `docs/` (GitHub Pages) once a handful of chapters are in a
+3. Sync `docs/` (GitHub Pages) once a handful of chapters are in a
    publishable state — not on every draft.
 
 ## Non-goals for now

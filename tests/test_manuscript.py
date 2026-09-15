@@ -161,9 +161,48 @@ class TestWorkflowDocs(unittest.TestCase):
                 self.assertIn("```mermaid", text)
 
 
+MIN_CHAPTER_WORDS = 1000
+MAX_CHAPTER_WORDS = 2600
+
+STOCK_PHRASES = [
+    "deep blue eyes",
+    "dark eyes",
+    "carefully constructed facade",
+]
+
+
 class TestChapterFiles(unittest.TestCase):
     def test_chapter_01_exists(self):
         self.assertTrue((MANUSCRIPT / "chapters" / "chapter-01.md").exists())
+
+    def _chapter_files(self):
+        return sorted((MANUSCRIPT / "chapters").glob("chapter-*.md"))
+
+    def test_drafted_chapters_meet_minimum_length(self):
+        for path in self._chapter_files():
+            word_count = len(path.read_text(encoding="utf-8").split())
+            with self.subTest(chapter=path.name):
+                self.assertGreaterEqual(
+                    word_count,
+                    MIN_CHAPTER_WORDS,
+                    f"{path.name} is {word_count} words, below the "
+                    f"{MIN_CHAPTER_WORDS}-word floor (the original Chapter 1 "
+                    "draft was ~470 words and was a summary, not a scene — "
+                    "this check exists to catch that regression)",
+                )
+                self.assertLessEqual(
+                    word_count,
+                    MAX_CHAPTER_WORDS,
+                    f"{path.name} is {word_count} words, above the "
+                    f"{MAX_CHAPTER_WORDS}-word ceiling",
+                )
+
+    def test_no_stock_phrases_in_drafted_chapters(self):
+        for path in self._chapter_files():
+            text = path.read_text(encoding="utf-8").lower()
+            for phrase in STOCK_PHRASES:
+                with self.subTest(chapter=path.name, phrase=phrase):
+                    self.assertNotIn(phrase, text)
 
 
 class TestStyleGuide(unittest.TestCase):
