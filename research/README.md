@@ -42,3 +42,9 @@ README indefinitely.
   how it maps onto the existing 6-part thematic structure.
 - [`dialogue-craft.md`](dialogue-craft.md) — techniques for naturalistic,
   character-differentiated dialogue, since the current draft has none.
+- [`mystery-plotting.md`](mystery-plotting.md) — clue placement, fair-play
+  plotting, red herrings, and foreshadowing-without-telegraphing for the
+  slow-reveal Daniel mystery underlying all six POV threads.
+- [`subplot-weaving.md`](subplot-weaving.md) — braiding six character
+  subplots around one central secret while keeping each satisfying on its
+  own terms before they converge.

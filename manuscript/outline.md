@@ -33,8 +33,9 @@ See [characters/](../characters/) for full per-character profiles. Summary:
 
 What happened to Daniel eighteen years ago is the connective mechanism
 tying all six threads together — see `characters/README.md` for the
-decided facts and `scenes/plot-map.md` (once written) for the detailed
-beat-by-beat reveal design.
+decided facts and `scenes/plot-map.md` for the detailed beat-by-beat
+reveal design (ground truth: an accident, not a murder, followed by a
+cover-up — see that file before drafting any reveal-heavy chapter).
 
 ## Story structure (6-part thematic shape)
 
@@ -59,25 +60,25 @@ The 26 chapters are distributed across the original 6-part shape:
 | 4 | A Name Across the Room | Michael | Not started | Michael and Sarah actually meet; he recognizes something in one of her paintings. |
 | 5 | The Ledger | Emma | Not started | Emma finds an inconsistency in her late father's old company files. |
 | 6 | What Emma Won't Say | Emma | Not started | Emma's discovery nearly surfaces in conversation with someone close to her; she buries it again. |
-| 7 | Cold Case | Jack | Not started | A present-day incident lands on Jack's desk (informally — he's retired) and echoes Daniel's file. |
-| 8 | Echoes of the Unsolved | Jack | Not started | Jack reopens his old case notes; the new incident and the old one start to rhyme. |
-| 9 | Two Jobs, One Boy | Olivia | Not started | Olivia's grinding routine; friction with Liam, who's asking questions about the town's past. |
-| 10 | The Notebook | Liam | Not started | Liam's curiosity (a school project or online rabbit hole) turns up something about Daniel. |
+| 7 | Cold Case | Jack | Not started | Michael brings Jack the postcard Daniel mailed home days before he vanished; the case reopens informally. |
+| 8 | Echoes of the Unsolved | Jack | Not started | Jack reopens his old case notes; the postcard's line about Hale "not going to like" something starts to rhyme with old details. |
+| 9 | Two Jobs, One Boy | Olivia | Not started | Olivia's grinding routine; friction with Liam, who's started digitizing old newspaper archives for community service. |
+| 10 | The Notebook | Liam | Not started | Between the archive work and a box of his mother's old photos, Liam turns up two things about Daniel that don't yet mean anything to him. |
 | 11 | Six Crossings | Ensemble | Not started | Each character faces a first real decision point; the town feels smaller than usual. |
 | 12 | Paths That Shouldn't Cross | Sarah | Not started | Sarah and Michael's paths keep crossing; coincidence starts to feel like something else. |
 | 13 | Digging Deeper | Jack | Not started | Jack starts asking around; his questions unsettle people who thought this was long closed. |
 | 14 | What the File Says | Emma | Not started | Jack's questions reach Emma's company; she has to decide how much to reveal. |
 | 15 | Closer | Sarah & Michael | Not started | Sarah and Michael grow closer; Michael's real reason for being in town starts to leak through. |
-| 16 | The Line Olivia Won't Cross | Olivia | Not started | Olivia is pushed toward the choice she's avoided for eighteen years. |
-| 17 | What Sarah Finds Out | Sarah | Not started | Sarah learns what her recurring painted image actually is — and what it might mean. |
-| 18 | The Weight of It | Emma & Jack | Not started | Emma is confronted (by Jack, or by consequence); Jack has to decide how far to push. |
-| 19 | Webs | Ensemble | Not started | The reader (and the characters, partially) can now see how all six threads connect. |
-| 20 | Liam's Reckoning | Liam | Not started | Liam's digging becomes public knowledge, forcing everyone's hand faster than they wanted. |
-| 21 | Alliances | Michael | Not started | Characters choose sides / band together as the Harvest Festival approaches. |
-| 22 | Fault Lines | Olivia | Not started | Trust is tested; Olivia and Emma's paths finally cross directly. |
-| 23 | The Gathering Storm | Ensemble | Not started | The Harvest Festival — all six characters are in the same place at once. |
-| 24 | Reckoning | Ensemble | Not started | The climactic confrontation: the truth about Daniel comes out. |
-| 25 | What's Left Standing | Ensemble | Not started | Fallout; each character reckons with the consequences of the truth and their own choices. |
+| 16 | The Line Olivia Won't Cross | Olivia | Not started | Groundbreaking on the long-stalled lakeside parcel is announced; Olivia is pushed toward the choice she's avoided for eighteen years. |
+| 17 | What Sarah Finds Out | Sarah | Not started | Sarah learns what her recurring painted image actually is — a real place her own family sold away. |
+| 18 | The Weight of It | Emma & Jack | Not started | Grading equipment turns up remains at the site; Emma is confronted by consequence, Jack by an official reopening. |
+| 19 | Webs | Ensemble | Not started | The reader (and the characters, partially) can now see how all six threads connect — Daniel is dead, but not yet how or by whom. |
+| 20 | Liam's Reckoning | Liam | Not started | Not grasping what he actually has, Liam posts the old archive photo beside his mother's family photo — it reaches Michael within a day. |
+| 21 | Alliances | Michael | Not started | Michael sees Liam's post; characters choose sides / band together as the Harvest Festival approaches. |
+| 22 | Fault Lines | Olivia | Not started | Trust is tested; Olivia and Emma's paths finally cross directly (Olivia cleans Emma's offices two nights a week — neither has known). |
+| 23 | The Gathering Storm | Ensemble | Not started | The Harvest Festival — all six characters are in the same place at once; Emma brings the folder to Jack before it can be found independently. |
+| 24 | Reckoning | Ensemble | Not started | Olivia confesses what she saw, believing it's a confession to murder; the folder and her account together reveal the truth — accident, not murder — to everyone at once, Olivia included. |
+| 25 | What's Left Standing | Ensemble | Not started | Fallout; each character's own reckoning, distinct from the shared reveal (see `research/subplot-weaving.md`). |
 | 26 | Echoes of Fate | Ensemble | Not started | Resolution and reflection on fate, choice, and interconnectedness; final image. |
 
 ## Design workflow

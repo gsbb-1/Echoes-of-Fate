@@ -7,32 +7,36 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status:** two background agents still in flight; main thread has
-completed the style guide and is about to commit.
+**Status:** planning/design phase complete; about to start chapter
+drafting.
 
-- A character-development agent is deepening `characters/*.md` (backstory,
-  voice, physical detail, flaws, cross-relationships) — `sarah.md` done so
-  far.
-- A plot-research agent is writing `scenes/plot-map.md` (detailed
-  beat-by-beat mystery design) and two craft-research files —
-  `research/mystery-plotting.md` and `research/subplot-weaving.md` landed,
-  `scenes/plot-map.md` still pending.
+Both background agents (character-development, plot-research) finished and
+their output has been reconciled — see `PLAN.md`'s "naming conflict" note
+for what that involved. `scenes/plot-map.md` is now the ground truth for
+the mystery, all six `characters/*.md` files are fully fleshed out and
+consistent with it, and `manuscript/outline.md`'s 26 chapter summaries
+have been enriched with the concrete plot facts.
 
-**Next task to pick up (once both agents report back):** reconcile their
-output — check for contradictions between `scenes/plot-map.md` and the
-character files, resolve any newly-flagged open questions in
-`characters/README.md`, and fold answers into the remaining open items
-(Sarah's painting, Jack's present-day case). Then move to drafting: rewrite
-Chapter 1 (split into new Ch. 1-2) per `docs/workflows/scene-planning.md`
-and `docs/workflows/chapter-drafting.md`.
+**Next task to pick up:** rewrite the old Chapter 1 draft, split into the
+new Chapters 1-2, per `docs/workflows/scene-planning.md` and
+`docs/workflows/chapter-drafting.md`. Ground it in `scenes/plot-map.md`'s
+Introduction-tier rule: establish each character's private discomfort
+without naming the mystery yet.
 
 ## History
 
 - 2026-09-14 — Repo reorganized; tracking files (`TODO.md`, `IDEA.md`,
   `PLAN.md`, `TASK.md`) and `AGENTS.md` created.
 - 2026-09-14 — Expanded goal to 26 chapters/~200 pages. Resolved the three
-  blocking story decisions (Liam/Olivia relationship, connective
-  mechanism, timeframe). Expanded `manuscript/outline.md` to 26 chapters.
-  Designed and documented core workflows in `docs/workflows/`. Built
-  `tests/test_manuscript.py` (15 checks, passing). Launched background
-  agents for craft research, character development, and plot research.
+  blocking story decisions. Expanded `manuscript/outline.md` to 26
+  chapters. Designed and documented core workflows in `docs/workflows/`.
+  Built `tests/test_manuscript.py`. Launched background agents for craft
+  research, character development, and plot research.
+- 2026-09-14 — Added `manuscript/style-guide.md`, synthesized from craft
+  research.
+- 2026-09-14/15 — Character-development and plot-research agents finished.
+  Reconciled a naming conflict between their independent output (Hale vs.
+  Whitfield, Daniel Voss vs. Daniel Cole) and a genuine backstory
+  contradiction on Sarah's family; folded plot-map facts into all six
+  character files' open questions and into the outline's chapter
+  summaries; added a regression test guarding against this drift.

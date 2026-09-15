@@ -1,6 +1,6 @@
 # PLAN — Echoes of Fate
 
-_Last reviewed: 2026-09-14_
+_Last reviewed: 2026-09-15_
 
 ## Goal
 
@@ -11,42 +11,47 @@ current chapter-by-chapter structure.
 ## Where the project stands
 
 The book was seeded through ChatGPT brainstorming sessions (archived in
-`archive/chatgpt-sessions/`), not written directly. As of this review:
+`archive/chatgpt-sessions/`), not written directly. As of this review, all
+planning/design work is done and the project is ready for chapter drafting:
 
 - **Outline:** expanded to 26 chapters across the original 6-part thematic
   shape (Introduction → Character Development → Rising Action → Midpoint
-  Revelations → Climax → Resolution). See `manuscript/outline.md`.
-- **Central mystery decided:** the connective mechanism blocking further
-  writing has been resolved — Michael's brother Daniel disappeared from
-  Willow Creek eighteen years ago; Jack never solved it; Emma's father
-  buried evidence tied to it; Olivia was a teenage witness who stayed
-  silent; Liam (confirmed as Olivia's son) unknowingly surfaces the
-  connection; Sarah has been unconsciously painting the place Daniel was
-  last seen. Story spans six weeks in early autumn, climaxing at the town's
-  Harvest Festival. Full detail in `characters/README.md`,
-  `scenes/willow-creek.md`, and each `characters/*.md` file.
-- **Character depth:** in progress. A character-development agent is
-  deepening backstory/voice/physical detail/flaws in `characters/*.md`,
-  and a plot-research agent is writing `scenes/plot-map.md` (the detailed
-  beat-by-beat mystery design) plus mystery-plotting/subplot-weaving craft
-  notes in `research/`. Their output needs reconciling once both finish
-  (check `TODO.md`).
+  Revelations → Climax → Resolution), with POV and a concrete summary per
+  chapter. See `manuscript/outline.md`.
+- **Central mystery fully designed:** ground truth is `scenes/plot-map.md` —
+  Daniel died accidentally, confronting foreman Hank Colby over an unfiled
+  safety report at an unstable pond embankment; Warren Hale (Emma's father)
+  covered it up. Every character's connection to it, the reveal order, one
+  fair-play red herring, and one foreshadowing plant are all fixed. All six
+  `characters/*.md` files have full backstory, voice, physical detail,
+  flaws, internal/external wants, and cross-character relationships, and
+  are reconciled against `scenes/plot-map.md` with no open questions
+  remaining.
+- **A naming conflict was found and fixed (2026-09-14):** the plot-research
+  and character-development agents ran concurrently and invented different
+  names for the same facts (Whitfield/Gerald/"Daniel Cole" vs. the
+  established Hale/Warren/"Daniel Voss"), plus a genuine contradiction in
+  Sarah's family backstory. Both were reconciled by hand; `tests/
+  test_manuscript.py`'s `TestPlotMap` now guards against this recurring.
+  **Lesson for future parallel agent work:** when two agents can each
+  independently invent proper nouns for the same underlying facts, either
+  sequence them (one finishes and commits before the next starts) or give
+  the later one the earlier one's output as required reading — don't just
+  rely on reconciling afterward.
 - **Craft research:** notes covering show-vs-tell, multi-POV structure,
-  voice differentiation, pacing/chapter length, dialogue, and mystery
-  plotting — see `research/`. Synthesized into `manuscript/style-guide.md`.
+  voice differentiation, pacing/chapter length, dialogue, mystery plotting,
+  and subplot weaving — see `research/`. Synthesized into
+  `manuscript/style-guide.md`.
 - **Process design:** the recurring workflows (outline design, character
   development, plot design, scene planning, chapter drafting, continuity
   testing, publishing) are documented with diagrams in `docs/workflows/`.
-- **Automated checks:** `tests/test_manuscript.py` (15 checks) validates
-  outline structure, character-file consistency, and repo text encoding.
-  All passing.
+- **Automated checks:** `tests/test_manuscript.py` (21 checks) validates
+  outline structure, character-file consistency, plot-map/character-file
+  name consistency, and repo text encoding. All passing.
 - **Prose:** still only one chapter exists — the original ~470-word
   Chapter 1 draft, now mapped to the new Chapters 1-2 and needing a full
-  rewrite/split rather than a copy. 25-26 chapters remain undrafted.
-
-**Bottom line:** planning and design infrastructure for the 26-chapter
-expansion is in place; almost all of the actual prose still needs to be
-written.
+  rewrite/split rather than a copy. 25-26 chapters remain undrafted. This
+  is now the critical path — everything upstream of it is done.
 
 ## Working loop
 
@@ -60,19 +65,16 @@ the relevant `characters/*.md` file, and "test" means both
 
 ## Next steps (in order)
 
-1. Reconcile the character-development and plot-research agents' output
-   once they finish — resolve any contradictions, fold plot-map answers
-   into the character files' remaining open questions (Sarah's painting,
-   Jack's present-day case).
-2. Assemble a short style guide from the existing `research/` notes.
-3. Rewrite/split Chapter 1 into the new Chapters 1-2 (scene plan first, per
-   `docs/workflows/scene-planning.md`).
-4. Draft Chapters 3-4 (Sarah/Michael's meeting) — first chapters needing
-   real scene-writing and dialogue.
-5. Continue chapter-by-chapter per `manuscript/outline.md`, in roughly
+1. Rewrite/split the old Chapter 1 draft into the new Chapters 1-2 (scene
+   plan first, per `docs/workflows/scene-planning.md`, grounded in
+   `scenes/plot-map.md`'s Introduction-tier reveal rules — no naming the
+   mystery yet, six separate people with six separate discomforts).
+2. Draft Chapters 3-4 (Sarah/Michael's first meeting) — first chapters
+   needing real scene-writing and dialogue per `research/dialogue-craft.md`.
+3. Continue chapter-by-chapter per `manuscript/outline.md`, in roughly
    outline order, running `tests/test_manuscript.py` and committing after
-   each pass.
-6. Sync `docs/` (GitHub Pages) once a handful of chapters are in a
+   each pass (or small batch of chapters).
+4. Sync `docs/` (GitHub Pages) once a handful of chapters are in a
    publishable state — not on every draft.
 
 ## Non-goals for now

@@ -92,6 +92,34 @@ class TestSettingFile(unittest.TestCase):
         self.assertIn("six weeks", text.lower())
 
 
+class TestPlotMap(unittest.TestCase):
+    """scenes/plot-map.md is the ground truth for the mystery. It was
+    originally written by an agent working concurrently with (and without
+    seeing the final output of) the character-development agent, which
+    produced a real naming conflict (Whitfield/Gerald/"Daniel Cole" vs. the
+    character files' Hale/Warren/"Daniel Voss") — reconciled by hand on
+    2026-09-14. Guard against that class of drift recurring."""
+
+    def test_plot_map_exists(self):
+        self.assertTrue((SCENES / "plot-map.md").exists())
+
+    def test_no_superseded_placeholder_names(self):
+        stale_names = ["Whitfield", "Daniel Cole"]
+        for path in [SCENES / "plot-map.md"] + [
+            CHARACTERS / f"{n}.md" for n in CHARACTER_NAMES
+        ] + [CHARACTERS / "README.md"]:
+            text = path.read_text(encoding="utf-8")
+            for name in stale_names:
+                with self.subTest(file=path.name, name=name):
+                    self.assertNotIn(name, text)
+
+    def test_plot_map_uses_established_character_names(self):
+        text = (SCENES / "plot-map.md").read_text(encoding="utf-8")
+        for name in ("Daniel Voss", "Warren Hale", "Hale Development"):
+            with self.subTest(name=name):
+                self.assertIn(name, text)
+
+
 class TestTodoTracking(unittest.TestCase):
     def test_story_decisions_checked_off(self):
         text = (ROOT / "TODO.md").read_text(encoding="utf-8")

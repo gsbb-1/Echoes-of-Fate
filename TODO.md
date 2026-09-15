@@ -27,11 +27,19 @@ chapters, ~200 pages** (see `manuscript/outline.md`).
 - [x] Build `tests/test_manuscript.py` automated consistency checks and get
       them passing (15 checks, all green —
       `python3 -m unittest discover -s tests`)
-- [ ] Reconcile the character-development agent's and plot-research agent's
-      output into `characters/*.md`, `scenes/plot-map.md`, and
-      `manuscript/outline.md` once both finish (check for contradictions)
-- [ ] Resolve any new open questions those two agents raise in
-      `characters/README.md`
+- [x] Reconcile the character-development agent's and plot-research agent's
+      output — found and fixed a real naming conflict (the plot-research
+      agent independently invented "Whitfield/Gerald"/"Daniel Cole"; renamed
+      to match the character files' established "Hale/Warren"/"Daniel Voss"),
+      plus a genuine backstory conflict on Sarah's family (merged into one
+      consistent version). Updated all `characters/*.md` open-question notes,
+      `characters/README.md`, and enriched `manuscript/outline.md`'s chapter
+      summaries with the concrete plot-map facts. Added a regression test
+      (`TestPlotMap`) so this class of drift gets caught automatically next
+      time.
+- [x] Resolve any new open questions those two agents raise in
+      `characters/README.md` — all four resolved (Jack's case, what Olivia
+      saw, Sarah's fragment, Daniel's land-dispute rumor)
 
 ## Craft / research (ongoing)
 
@@ -39,14 +47,16 @@ chapters, ~200 pages** (see `manuscript/outline.md`).
       problems (`research/show-dont-tell.md`,
       `research/multi-pov-structure.md`, `research/voice-differentiation.md`,
       `research/pacing-and-chapter-length.md`, `research/dialogue-craft.md`)
-- [ ] Research mystery-plotting and subplot-weaving technique
-      (`research/mystery-plotting.md`, `research/subplot-weaving.md` — in
-      progress via plot-research agent)
+- [x] Research mystery-plotting and subplot-weaving technique —
+      `research/mystery-plotting.md`, `research/subplot-weaving.md`
 - [x] Write a short style guide (POV, tense, target chapter length) —
       `manuscript/style-guide.md`, assembled from the `research/` notes
-- [ ] Deepen `characters/*.md` (backstory, voice, physical detail, flaw,
-      internal vs. external want) — in progress via character-development
-      agent
+- [x] Deepen `characters/*.md` (backstory, voice, physical detail, flaw,
+      internal vs. external want, cross-character relationships) — done
+      for all six characters
+- [x] Design the mystery's beat-by-beat plot map — `scenes/plot-map.md`
+      (what happened to Daniel, the evidence, the reveal order, one red
+      herring, one foreshadowing plant)
 
 ## Writing — 26 chapters (see `manuscript/outline.md` for POV/summary per chapter)
 
