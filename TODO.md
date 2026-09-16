@@ -8,7 +8,7 @@ what's actively being worked on right now.
 Goal: expand from the original 13-chapter/~50-page draft to **26
 chapters, ~200 pages** (see `manuscript/outline.md`).
 
-**6 of 26 chapters drafted (Ch. 1-6) as of 2026-09-16.** All
+**8 of 26 chapters drafted (Ch. 1-8) as of 2026-09-16.** All
 planning/design infrastructure below is done; only the "Writing" section
 has open items. See `TASK.md` for the exact resume point and `PLAN.md`
 for the full state of the project.
@@ -72,8 +72,8 @@ for the full state of the project.
 - [x] Ch. 4 — "A Name Across the Room" (first dialogue-heavy chapter)
 - [x] Ch. 5 — "The Ledger"
 - [x] Ch. 6 — "What Emma Won't Say"
-- [ ] Ch. 7 — "Cold Case"
-- [ ] Ch. 8 — "Echoes of the Unsolved"
+- [x] Ch. 7 — "Cold Case"
+- [x] Ch. 8 — "Echoes of the Unsolved"
 - [ ] Ch. 9 — "Two Jobs, One Boy"
 - [ ] Ch. 10 — "The Notebook"
 - [ ] Ch. 11 — "Six Crossings"

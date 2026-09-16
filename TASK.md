@@ -7,23 +7,26 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status: 6 of 26 chapters drafted as of 2026-09-16.** Chapters 5-6 (Emma)
-drafted and committed: "The Ledger" (the night before the groundbreaking
-she reconciles the folder against her father's ledger and finds the buried
-pattern) and "What Emma Won't Say" (the near-tell with Priya at the
-ceremony; she buries it again). Working tree clean, all tests passing.
-Chapter drafting is a steady loop now: scene plan
-(`scenes/chapter-NN.md`) → draft (`manuscript/chapters/chapter-NN.md`) →
-`tests/test_manuscript.py` → update `TODO.md` → commit — repeat per
-`AGENTS.md`.
+**Status: 8 of 26 chapters drafted as of 2026-09-16.** Chapters 7-8 (Jack)
+drafted and committed: "Cold Case" (Michael brings Jack the full postcard —
+including the orchard line quoted in Ch. 2 — and the case reopens
+informally) and "Echoes of the Unsolved" (the no-work-order pond-bank
+regrade in Jack's old notes rhymed with the postcard's Hale line; he writes
+the first "Reopened" entry in six years). Procedural, cataloguing voice.
+Working tree otherwise clean, all tests passing. Chapter drafting is a
+steady loop now: scene plan (`scenes/chapter-NN.md`) → draft
+(`manuscript/chapters/chapter-NN.md`) → `tests/test_manuscript.py` →
+update `TODO.md` → commit — repeat per `AGENTS.md`.
 
-**Next task to pick up:** Chapters 7-8 (Jack) — "Cold Case" (Michael
-brings Jack the postcard Daniel mailed home days before he vanished; the
-case reopens informally) and "Echoes of the Unsolved" (Jack pulls his old
-case notes; the postcard's line about Hale "not going to like" something
-starts to rhyme with old details). First chapters in Jack's procedural,
-cataloguing voice; see `characters/jack.md` and `scenes/plot-map.md` for
-the two-stage reopening and the suspicion-tier information rules.
+**Next task to pick up:** Chapters 9-10 (Olivia/Liam) — "Two Jobs, One
+Boy" (Olivia's grinding routine; friction with Liam, who has started
+digitizing old newspaper archives for community service) and "The
+Notebook" (Liam, between the archive work and a box of his mother's old
+photos, turns up two things about Daniel that don't yet mean anything to
+him). Olivia and Liam are the last two POVs to get their own chapters;
+remember the loud-and-quiet mismatch (Liam posts; Olivia stays silent ~18
+years) and that neither knows what he/she is holding. See `characters/`
+and `scenes/plot-map.md` for what Liam "finds" without grasping.
 
 ## History
 
@@ -46,3 +49,7 @@ the two-stage reopening and the suspicion-tier information rules.
   ceremony). Reworded the outline's Ch. 16 beat ("groundbreaking is
   announced") so it stays consistent with Ch. 2's week-one groundbreaking.
   Working tree clean, all tests passing.
+- 2026-09-16 — Drafted Chapters 7-8 (Jack: Michael brings the postcard —
+  full text, including the orchard line — and the case reopens informally;
+  Jack's old regrade note finally rhymes with the Hale line). Working tree
+  clean, all tests passing.

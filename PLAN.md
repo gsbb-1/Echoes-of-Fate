@@ -48,12 +48,12 @@ planning/design work is done and the project is ready for chapter drafting:
 - **Automated checks:** `tests/test_manuscript.py` (21 checks) validates
   outline structure, character-file consistency, plot-map/character-file
   name consistency, and repo text encoding. All passing.
-- **Prose:** Chapters 1-6 drafted. Chs. 1-2 (the old ~470-word montage
-  rewritten as six real scenes, ~1,950 words each); Chs. 3-4 (Sarah and
-  Michael's first meeting, first dialogue-heavy chapters); Chs. 5-6 (Emma:
-  the ledger reconciliation the night before the groundbreaking, and the
-  near-tell at the ceremony — her controlled voice against the folder).
-  20 chapters remain undrafted. This is the critical path — everything
+- **Prose:** Chapters 1-8 drafted. Chs. 1-2 (the old ~470-word montage
+  rewritten as six real scenes); Chs. 3-4 (Sarah and Michael's first
+  meeting); Chs. 5-6 (Emma: the ledger reconciliation and the groundbreaking
+  near-tell); Chs. 7-8 (Jack: Michael brings the postcard and the case
+  reopens informally — his old regrade note rhymes with the Hale line).
+  18 chapters remain undrafted. This is the critical path — everything
   upstream of it is done. Note: Ch. 2 establishes the groundbreaking
   happening in week one; the outline's Ch. 16 beat was reworded
   accordingly (site work advancing toward the pond section) so it no
@@ -72,10 +72,12 @@ the relevant `characters/*.md` file, and "test" means both
 
 ## Next steps (in order)
 
-1. Draft Chapters 7-8 (Jack) — "Cold Case" and "Echoes of the Unsolved":
-   Michael brings Jack the postcard Daniel mailed home days before he
-   vanished; the case reopens informally. First chapters in Jack's
-   procedural, cataloguing voice.
+1. Draft Chapters 9-10 (Olivia/Liam) — "Two Jobs, One Boy" (Olivia's
+   grinding routine set against Liam starting the archive work) and "The
+   Notebook" (Liam turns up two things about Daniel — the search-line
+   photo and a photo of his teenage mother — without grasping what either
+   is). These give the last two POVs their own chapters and set up Parts
+   III-IV.
 2. Continue chapter-by-chapter per `manuscript/outline.md`, in roughly
    outline order, running `tests/test_manuscript.py` and committing after
    each pass (or small batch of chapters).
