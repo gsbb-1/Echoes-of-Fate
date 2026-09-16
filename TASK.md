@@ -7,38 +7,43 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status: 20 of 26 chapters drafted as of 2026-09-16.** Chapters 19-20
-drafted and committed: "Webs" (Ensemble — the morning after the discovery
-reads the web forming; Sarah hands Michael the Hollis ground; Jack crosses
-the county line and Hank Colby, in the light at last, gives up the whole
-shape: the unfiled inspection, the argument at the pond, the bank giving
-way in the dark, the panicked call, Hale's truck and machine and "erosion
-control," the severance, the leaving — an accident, not a murder, and a
-cover-up after it; Jack lays it for Michael, who resolves to go ask Hale's
-daughter himself) and "Liam's Reckoning" (Liam — the itch turns: he posts
-the search photo beside his mother's kept photo to the society's exhibit
-account; a comment names the man at the edge of her photograph; the click
-lands that his mother stood beside the missing man, and he has handed her
-to the town; he reaches to take it down and doesn't; the post is live and
-moving). The Colby confrontation scheduled way back in Ch. 13 is now
-written (Ch. 19) — the accident-and-cover-up shape exists in Jack and
-Michael's hands ahead of Emma's folder or Olivia's account, exactly per
-`scenes/plot-map.md`; the official record is still "pending identification."
-Working tree clean, all tests passing. Chapter drafting remains a steady
-loop: scene plan (`scenes/chapter-NN.md`) → draft
-(`manuscript/chapters/chapter-NN.md`) → `tests/test_manuscript.py` →
-update `TODO.md` → commit — repeat per `AGENTS.md`.
+**Status: 22 of 26 chapters drafted as of 2026-09-16.** Chapters 21-22
+drafted and committed: "Alliances" (Michael — the post reaches him within
+a day; his brother at the corner of someone else's kept photograph; Jack
+names the girl, Olivia Marsh, the witness he could never move; Michael
+goes where the ask sends him, to Emma as Daniel's brother with the polite
+denial and the tell he reads, and to the diner where Olivia gives him the
+flat no of an eighteen-year-old door; he leaves the truth on her table
+and the two women who hold the two ends of the same silence both know
+he's coming) and "Fault Lines" (Olivia — the town's version reaches her
+first, *she never mentioned it once*; at home Liam confesses and she
+gives him the sliver; on a cleaning night her path finally crosses Emma's
+in the corner office, two women at the two ends of the same eighteen
+years, neither knowing the other's shape; the wall holds — the drawer
+stays shut — but the crack has run, and for the first time she knows in
+her body, not her arithmetic, that she will not let it come for her boy).
+The Emma crossing that `characters/olivia.md` planned for Ch. 22 is
+written without folder contents or any spoken name. Working tree clean,
+all tests passing. Chapter drafting remains a steady loop: scene plan
+(`scenes/chapter-NN.md`) → draft (`manuscript/chapters/chapter-NN.md`) →
+`tests/test_manuscript.py` → update `TODO.md` → commit — repeat per
+`AGENTS.md`.
 
-**Next task to pick up:** Chapters 21-22 — "Alliances" (Michael — the post
-reaches Michael within a day; characters choose sides / band together as
-the Harvest Festival approaches) and "Fault Lines" (Olivia — trust is
-tested; Olivia and Emma's paths finally cross directly: Olivia cleans
-Emma's offices two nights a week, neither has known). Ch. 19's ending
-sends Michael to ask Emma directly — that's the bridge into 21-22. Keep
-the reveal discipline per `research/mystery-plotting.md`: no folder
-contents to anyone yet, no Olivia confession (Ch. 24), Emma's folder
-still in the study, the true shape confirmed only at the climax. See
-`manuscript/outline.md` and `scenes/plot-map.md`.
+**Next task to pick up:** Chapters 23-24, the climax pair — "The Gathering
+Storm" (Ensemble — the Harvest Festival; all six in one place at once;
+Emma brings the folder to Jack before it can be found independently) and
+"Reckoning" (Ensemble — Olivia confesses what she saw, believing it's a
+confession to murder; the folder and her account together reveal the
+truth — accident, not murder — to everyone at once, Olivia included).
+Hold for the climax, per `research/mystery-plotting.md` and
+`scenes/plot-map.md`: the three confirmations (Colby's account in Ch. 19,
+Emma's folder, Olivia's confession) converge here; the pocket watch
+recovered with Daniel's remains gets its payoff — Michael connects the
+unresolved glint in Sarah's Ch. 15 painting to the engraved watch from
+Ch. 18 — and the name cleared by dental records comes out of the dark.
+Keep the reveal discipline through the storm: no folder contents until
+Emma chooses to hand it over, no Olivia account until she walks toward
+Jack at the climax. See `manuscript/outline.md` and `scenes/plot-map.md`.
 
 ## History
 
@@ -101,3 +106,9 @@ still in the study, the true shape confirmed only at the climax. See
   the edge of his mother's photograph is named; he can't take it back).
   The scheduled Colby resolution is written. Working tree clean, all
   tests passing.
+- 2026-09-16 — Drafted Chapters 21-22 (Alliances — the post reaches
+  Michael, Jack names the girl, the Emma ask and the diner approach;
+  Fault Lines — the town's version first, Liam's confession and the
+  sliver, the Emma-Olivia crossing in the corner office). The planned
+  Ch. 22 Emma crossing is written; the wall holds, the crack has run.
+  22 of 26. Working tree clean, all tests passing.

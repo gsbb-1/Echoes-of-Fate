@@ -8,7 +8,7 @@ what's actively being worked on right now.
 Goal: expand from the original 13-chapter/~50-page draft to **26
 chapters, ~200 pages** (see `manuscript/outline.md`).
 
-**20 of 26 chapters drafted (Ch. 1-20) as of 2026-09-16.** All
+**22 of 26 chapters drafted (Ch. 1-22) as of 2026-09-16.** All
 planning/design infrastructure below is done; only the "Writing" section
 has open items. See `TASK.md` for the exact resume point and `PLAN.md`
 for the full state of the project.
@@ -86,8 +86,8 @@ for the full state of the project.
 - [x] Ch. 18 — "The Weight of It" (Emma & Jack: remains found in the old bank; Emma holds the folder, Jack reopens the case)
 - [x] Ch. 19 — "Webs" (Jack: the Colby confrontation — accident-and-cover-up shape given up in the light; Sarah hands Michael the Hollis ground)
 - [x] Ch. 20 — "Liam's Reckoning" (Liam: the two-photo post goes live; the edge man is named; it's already moving)
-- [ ] Ch. 21 — "Alliances"
-- [ ] Ch. 22 — "Fault Lines"
+- [x] Ch. 21 — "Alliances" (Michael: the post within a day; Jack names the girl; the Emma ask and the Olivia approach)
+- [x] Ch. 22 — "Fault Lines" (Olivia: the town's version first; Liam's confession, the sliver; the Emma crossing in the corner office)
 - [ ] Ch. 23 — "The Gathering Storm"
 - [ ] Ch. 24 — "Reckoning"
 - [ ] Ch. 25 — "What's Left Standing"

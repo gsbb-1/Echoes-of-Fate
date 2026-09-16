@@ -73,9 +73,16 @@ planning/design work is done and the project is ready for chapter drafting:
   accident-and-cover-up shape ahead of the folder or Olivia's account,
   Sarah hands Michael the Hollis ground, and Michael resolves to ask Emma;
   Liam's Reckoning — the two-photo post goes live and the man at the edge
-  of his mother's picture is named, too late to take back). The midpoint
-  of the mystery is reached and Part IV (Midpoint Revelations) has begun
-  to move. 6 chapters remain undrafted. This is the critical path —
+  of his mother's picture is named, too late to take back); Chs. 21-22
+  (Alliances — the post reaches Michael within a day, Jack names the girl
+  in the kept photograph, and Michael goes where the ask sends him: the
+  Emma denial he reads for its tell, and the diner table where he leaves
+  Olivia the truth; Fault Lines — the town's version reaches Olivia first,
+  Liam's confession and the sliver, and the long-planned crossing when her
+  path finally meets Emma's in the corner office; the wall holds but the
+  crack has run, and Olivia knows she will not let it come for her boy).
+  The midpoint of the mystery is reached, Part IV's climax is two chapters
+  out, and 4 chapters remain undrafted. This is the critical path —
   everything upstream of it is done.
 
 ## Working loop
@@ -90,15 +97,20 @@ the relevant `characters/*.md` file, and "test" means both
 
 ## Next steps (in order)
 
-1. Draft Chapters 21-22 — "Alliances" (Michael — the post reaches Michael
-   within a day of Ch. 20; characters choose sides / band together as the
-   Harvest Festival approaches) and "Fault Lines" (Olivia — trust is
-   tested; Olivia and Emma's paths finally cross directly: Olivia cleans
-   Emma's offices two nights a week, neither has known). Ch. 19's ending
-   sends Michael to ask Emma directly — that's the bridge. Keep the
-   reveal discipline: no folder contents to anyone yet, no Olivia
-   confession (Ch. 24), Emma's folder still at home, the true shape
-   confirmed only at the climax.
+1. Draft Chapters 23-24, the climax pair — "The Gathering Storm"
+   (Ensemble — the Harvest Festival; all six characters in one place at
+   once; Emma brings the folder to Jack before it can be found
+   independently) and "Reckoning" (Ensemble — Olivia confesses what she
+   saw, believing it's a confession to murder; the folder and her account
+   together reveal the truth — accident, not murder — to everyone at
+   once, Olivia included). The three confirmations converge here (Colby's
+   Ch. 19 account, Emma's folder, Olivia's confession), and the pocket
+   watch recovered with Daniel's remains gets its payoff — Michael
+   connects the unresolved glint in Sarah's Ch. 15 painting to the
+   engraved watch from Ch. 18 — with the name cleared by dental records
+   coming out of the dark. Keep the reveal discipline through the storm:
+   no folder contents until Emma chooses to hand it over, no Olivia
+   account until she walks toward Jack at the climax.
 2. Continue chapter-by-chapter per `manuscript/outline.md`, in roughly
    outline order, running `tests/test_manuscript.py` and committing after
    each pass (or small batch of chapters).
