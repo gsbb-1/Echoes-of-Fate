@@ -141,8 +141,12 @@ the relevant `characters/*.md` file, and "test" means both
    voice up to the ~1,900-2,200 band (1,870 / 1,867). Ch. 26 (~1,740)
    runs slightly light but is within the test-enforced range and fits a
    quiet closer; not padding it.
-3. Publish `docs/` (GitHub Pages) to the drafted manuscript per
-   `docs/workflows/publishing.md` — see the Publishing block of `TODO.md`.
+3. ~~Publish `docs/` (GitHub Pages)~~ — **done 2026-09-16.** Added
+   `tools/build_docs.py` (stdlib converter generating `docs/chNN.html` +
+   `docs/index.html` from `manuscript/chapters/`), regenerated all 26
+   chapters with a real landing page (title, blurb, chapter list), and
+   pointed GitHub Pages at `main` `/docs`. Live at
+   https://gsbb-1.github.io/Echoes-of-Fate/
 4. Keep polishing/beta-read as an ongoing activity once continuity is
    clean.
 

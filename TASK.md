@@ -7,16 +7,19 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status: WORD-COUNT SMOOTHING DONE as of 2026-09-16.** The 26-chapter
-first draft is complete, the full prose read-through has been applied and
-committed, and the word-count outliers in the opening act have been
-brought up to band: Ch. 3 expanded from ~800 to 1,870 words, Ch. 4 from
-~1,150 to 1,867 words — both now within the ~1,900-2,200 target band.
-All other chapters remain in range (700-2600). Tests all passing.
+**Status: MANUSCRIPT PUBLISHED as of 2026-09-16.** All 26 chapters are
+on the live site. The word-count outliers were smoothed in the previous
+session (Ch. 3 → 1,870, Ch. 4 → 1,867), and the site now serves the full
+book: `tools/build_docs.py` regenerates `docs/chNN.html` from
+`manuscript/chapters/` plus a real landing page (`docs/index.html`).
+Pages source was switched to `main` `/docs`. Live at
+https://gsbb-1.github.io/Echoes-of-Fate/
 
-**Next task to pick up:** publish `docs/` (GitHub Pages) to the drafted
-manuscript per `docs/workflows/publishing.md` — see the Publishing block
-of `TODO.md`. After that, beta-read and polish as ongoing activity.
+**Next task to pick up:** beta-read and ongoing polish. First revision
+pass (continuity) is committed; prose read-through committed; word counts
+in band; site published. The next real milestone is reader feedback on
+the published draft, or targeted polish of a flagged chapter — see
+`PLAN.md` next steps.
 
 ## History
 
@@ -128,3 +131,8 @@ tree clean, all tests passing.
   beat after Sarah's not-asking, and a coda under the bank awning. Both
   flagged local clunks fixed ("for exactly" ×3, "soft at the edges" echo).
   Committed, tests 23/23 passing.
+- 2026-09-16 — Site published: wrote `tools/build_docs.py` (stdlib
+  converter from `manuscript/chapters/` to `docs/chNN.html` + real
+  `docs/index.html` landing page), regenerated all 26 chapters, switched
+  GitHub Pages source to `main` `/docs`, pushed. Live at
+  https://gsbb-1.github.io/Echoes-of-Fate/

@@ -151,11 +151,10 @@ for the full state of the project.
 
 ## Publishing (`docs/`)
 
-- [ ] Update `docs/ch01.html` (and add `docs/ch02.html`-`ch04.html`) to
-      match the drafted chapters — or switch to a generated approach, see
-      `docs/workflows/publishing.md`. Not urgent: deliberately left until
-      more chapters are drafted, per that workflow's own guidance not to
-      republish on every draft.
-- [ ] `docs/index.html` is a placeholder landing page — give it real
-      content (title, blurb, chapter links) once there are a few chapters
-      worth linking to
+- [x] Publish the completed manuscript to GitHub Pages:
+      `tools/build_docs.py` generates all 26 `docs/chNN.html` from
+      `manuscript/chapters/` plus a real `docs/index.html` (title, blurb,
+      chapter list). Pages source switched to `main` `/docs`. Deployed
+      2026-09-16; live at https://gsbb-1.github.io/Echoes-of-Fate/
+- [x] `docs/index.html` is a real landing page — title, blurb, and links
+      to all 26 chapters

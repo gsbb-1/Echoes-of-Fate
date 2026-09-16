@@ -4,19 +4,24 @@ Syncing finished manuscript content to the GitHub Pages site.
 
 ```mermaid
 flowchart TD
-    A[manuscript/chapters/chapter-NN.md\nmarked Drafted or better] --> B[Convert to docs/chNN.html]
-    B --> C[Update docs/index.html\nchapter list/links]
-    C --> D[Commit + push to main]
-    D --> E[GitHub Pages serves\ngsbb-1.github.io/echoes-of-fate]
+    A[manuscript/chapters/chapter-NN.md\nmarked Drafted or better] --> B[python3 tools/build_docs.py\nregenerates docs/]
+    B --> C[Commit + push to main]
+    C --> D[GitHub Pages serves\ngsbb-1.github.io/Echoes-of-Fate]
 ```
 
-**Inputs:** a chapter in `manuscript/chapters/` that's past the "rough
+**Inputs:** chapters in `manuscript/chapters/` that are past the "rough
 draft" stage — not every draft needs to be published immediately.
 
-**Output:** `docs/chNN.html` (static HTML, matching the existing
-`docs/ch01.html` structure) and an updated `docs/index.html` linking to it.
+**How:** run `python3 tools/build_docs.py` from the repo root. It converts
+every chapter under `manuscript/chapters/` into `docs/chNN.html` and
+regenerates `docs/index.html`. The script lives in the repo so chapters
+can be republished whenever they change. Push to `main`; GitHub Pages
+serves from the `main` branch, `/docs` folder.
 
-**Rule:** `docs/` is hand-maintained, not auto-generated, and can lag
-behind `manuscript/` — don't republish placeholder or mid-revision text.
-Sync it deliberately, as its own TODO item, once a chapter is in a state
-worth a reader seeing.
+**Output:** `docs/chNN.html` (static HTML, self-contained with embedded
+CSS) and an updated `docs/index.html` with a chapter list linking to each
+one.
+
+**Rule:** publish deliberately, as its own TODO item — don't republish
+placeholder or mid-revision text. Once a chapter is in a state worth a
+reader seeing, run the generator and commit.
