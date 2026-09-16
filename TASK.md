@@ -7,43 +7,46 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status: 22 of 26 chapters drafted as of 2026-09-16.** Chapters 21-22
-drafted and committed: "Alliances" (Michael — the post reaches him within
-a day; his brother at the corner of someone else's kept photograph; Jack
-names the girl, Olivia Marsh, the witness he could never move; Michael
-goes where the ask sends him, to Emma as Daniel's brother with the polite
-denial and the tell he reads, and to the diner where Olivia gives him the
-flat no of an eighteen-year-old door; he leaves the truth on her table
-and the two women who hold the two ends of the same silence both know
-he's coming) and "Fault Lines" (Olivia — the town's version reaches her
-first, *she never mentioned it once*; at home Liam confesses and she
-gives him the sliver; on a cleaning night her path finally crosses Emma's
-in the corner office, two women at the two ends of the same eighteen
-years, neither knowing the other's shape; the wall holds — the drawer
-stays shut — but the crack has run, and for the first time she knows in
-her body, not her arithmetic, that she will not let it come for her boy).
-The Emma crossing that `characters/olivia.md` planned for Ch. 22 is
-written without folder contents or any spoken name. Working tree clean,
-all tests passing. Chapter drafting remains a steady loop: scene plan
-(`scenes/chapter-NN.md`) → draft (`manuscript/chapters/chapter-NN.md`) →
-`tests/test_manuscript.py` → update `TODO.md` → commit — repeat per
-`AGENTS.md`.
+**Status: 24 of 26 chapters drafted as of 2026-09-16.** The climax pair,
+Chapters 23-24, is drafted and committed: "The Gathering Storm" (the
+weeks between carry the storm in — dental takes its time but the town
+knows, the society's page climbs, the Harvest Festival finds the square
+already full of weather; the night before it, Emma takes her father's
+folder out of the locked drawer and carries it to Jack's kitchen table
+herself, and the written half of the cover-up settles against Colby's
+spoken account; festival morning assembles all six — the archive tent
+with the two photographs, Sarah's ground painting in the loan corner,
+Liam at the accession table, Olivia at the edge, Emma's booth, Michael
+and Jack passing the same ground; the county investigator draws Liam
+aside about the post, and Olivia crosses the tent floor and stops it
+herself, the eighteen-year wall coming down all at once) and "Reckoning"
+(Olivia confesses believing she is confessing to the aftermath of a
+murder; Jack sets her account against the folder with Colby's admission
+already in hand — an accident, a bank a report had already condemned, a
+company that buried it and paid the silence — and the wrong shape of
+eighteen years comes apart in her hands; afterwards Jack walks the
+recovered effects to Michael, and the engraved pocket watch — the nine
+words *to Daniel: the road is long* — brings the pale glint in Sarah's
+painting level at last with the last thing his brother touched; Michael
+lets the town hold him). The three confirmations converged exactly per
+`scenes/plot-map.md`; the watch payoff landed on-page as planned. Working
+tree clean, all tests passing. Chapter drafting remains a steady loop:
+scene plan (`scenes/chapter-NN.md`) → draft
+(`manuscript/chapters/chapter-NN.md`) → `tests/test_manuscript.py` →
+update `TODO.md` → commit — repeat per `AGENTS.md`.
 
-**Next task to pick up:** Chapters 23-24, the climax pair — "The Gathering
-Storm" (Ensemble — the Harvest Festival; all six in one place at once;
-Emma brings the folder to Jack before it can be found independently) and
-"Reckoning" (Ensemble — Olivia confesses what she saw, believing it's a
-confession to murder; the folder and her account together reveal the
-truth — accident, not murder — to everyone at once, Olivia included).
-Hold for the climax, per `research/mystery-plotting.md` and
-`scenes/plot-map.md`: the three confirmations (Colby's account in Ch. 19,
-Emma's folder, Olivia's confession) converge here; the pocket watch
-recovered with Daniel's remains gets its payoff — Michael connects the
-unresolved glint in Sarah's Ch. 15 painting to the engraved watch from
-Ch. 18 — and the name cleared by dental records comes out of the dark.
-Keep the reveal discipline through the storm: no folder contents until
-Emma chooses to hand it over, no Olivia account until she walks toward
-Jack at the climax. See `manuscript/outline.md` and `scenes/plot-map.md`.
+**Next task to pick up:** Chapters 25-26, the resolution pair — "What's
+Left Standing" (Ensemble — fallout; each character's own reckoning,
+distinct from the shared reveal, per `research/subplot-weaving.md`:
+Olivia's relationship with Liam and her own self-forgiveness; Emma's
+choice about the company and her father's memory now that hiding is no
+longer possible; Sarah reckoning with a family history she was never
+told; Jack finally closing the file; Michael and Sarah past the mystery
+that brought them together) and "Echoes of Fate" (Ensemble — resolution
+and reflection on fate, choice, and interconnectedness; final image).
+No reveal remains to spend; this pair is each character's internal
+aftermath plus the closing image. See `manuscript/outline.md`,
+`research/subplot-weaving.md`, and `characters/*.md`.
 
 ## History
 
@@ -112,3 +115,11 @@ Jack at the climax. See `manuscript/outline.md` and `scenes/plot-map.md`.
   sliver, the Emma-Olivia crossing in the corner office). The planned
   Ch. 22 Emma crossing is written; the wall holds, the crack has run.
   22 of 26. Working tree clean, all tests passing.
+- 2026-09-16 — Drafted Chapters 23-24, the climax pair (The Gathering
+  Storm — Emma carries the folder to Jack herself; the festival
+  assembles all six; Olivia stops the questioning on her own; Reckoning —
+  Olivia's confession set against the folder and Colby's account reveal
+  the accident; the pocket watch meets the glint in Sarah's painting).
+  The three confirmations converged and the watch payoff landed, per
+  `scenes/plot-map.md`; Ch. 24 trimmed to the ceiling (2593 words).
+  24 of 26. Working tree clean, all tests passing.

@@ -80,10 +80,18 @@ planning/design work is done and the project is ready for chapter drafting:
   Olivia the truth; Fault Lines — the town's version reaches Olivia first,
   Liam's confession and the sliver, and the long-planned crossing when her
   path finally meets Emma's in the corner office; the wall holds but the
-  crack has run, and Olivia knows she will not let it come for her boy).
-  The midpoint of the mystery is reached, Part IV's climax is two chapters
-  out, and 4 chapters remain undrafted. This is the critical path —
-  everything upstream of it is done.
+  crack has run, and Olivia knows she will not let it come for her boy);
+  Chs. 23-24, the climax pair (The Gathering Storm — Emma carries her
+  father's folder to Jack herself the night before the festival, and the
+  written half of the cover-up settles against Colby's spoken account;
+  festival morning assembles all six, and Olivia stops the county
+  man's questioning of Liam on her own, the wall down at last; Reckoning —
+  her confession set against the folder and Colby's account reveals the
+  accident to everyone at once, and the pocket watch recovered with
+  Daniel's remains brings the pale glint in Sarah's painting level with
+  the last thing he touched). The climax is complete. 2 chapters remain
+  undrafted. This is the critical path — everything upstream of it is
+  done.
 
 ## Working loop
 
@@ -97,20 +105,17 @@ the relevant `characters/*.md` file, and "test" means both
 
 ## Next steps (in order)
 
-1. Draft Chapters 23-24, the climax pair — "The Gathering Storm"
-   (Ensemble — the Harvest Festival; all six characters in one place at
-   once; Emma brings the folder to Jack before it can be found
-   independently) and "Reckoning" (Ensemble — Olivia confesses what she
-   saw, believing it's a confession to murder; the folder and her account
-   together reveal the truth — accident, not murder — to everyone at
-   once, Olivia included). The three confirmations converge here (Colby's
-   Ch. 19 account, Emma's folder, Olivia's confession), and the pocket
-   watch recovered with Daniel's remains gets its payoff — Michael
-   connects the unresolved glint in Sarah's Ch. 15 painting to the
-   engraved watch from Ch. 18 — with the name cleared by dental records
-   coming out of the dark. Keep the reveal discipline through the storm:
-   no folder contents until Emma chooses to hand it over, no Olivia
-   account until she walks toward Jack at the climax.
+1. Draft Chapters 25-26, the resolution pair — "What's Left Standing"
+   (Ensemble — fallout; each character's own reckoning, distinct from the
+   shared reveal, per `research/subplot-weaving.md`: Olivia's relationship
+   with Liam and her own self-forgiveness; Emma's choice about the company
+   and her father's memory now that hiding is no longer possible; Sarah
+   reckoning with a family history she was never told; Jack finally
+   closing the file; Michael and Sarah past the mystery that brought them
+   together) and "Echoes of Fate" (Ensemble — resolution and reflection
+   on fate, choice, and interconnectedness; final image). No reveal
+   remains to spend; this pair is each character's internal aftermath
+   plus the closing image.
 2. Continue chapter-by-chapter per `manuscript/outline.md`, in roughly
    outline order, running `tests/test_manuscript.py` and committing after
    each pass (or small batch of chapters).
