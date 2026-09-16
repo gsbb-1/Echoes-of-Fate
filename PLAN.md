@@ -136,12 +136,11 @@ the relevant `characters/*.md` file, and "test" means both
    thinning across ~20 chapters (Ch. 26's closing sweep reworked to
    include Emma). Deliberately left: Ch. 4 "told her nothing" (correct);
    "the whole of" kept as a book-wide motif.
-2. Word-count smoothing. `tests/test_manuscript.py` enforces 700-2600;
-   the aim is a tighter band (~1,900-2,200) across the book. True
-   outliers: Ch. 3 (~800) and Ch. 4 (~1,150) run far under the band,
-   Ch. 26 (~1,740) runs light. Decision made: expand Ch. 3-4 in the
-   established voice (folding in their flagged local notes), rather than
-   accepting a shorter opening.
+2. ~~Word-count smoothing~~ — **done 2026-09-16.** The outliers were Ch. 3
+   (~800) and Ch. 4 (~1,150), reopened and expanded in the established
+   voice up to the ~1,900-2,200 band (1,870 / 1,867). Ch. 26 (~1,740)
+   runs slightly light but is within the test-enforced range and fits a
+   quiet closer; not padding it.
 3. Publish `docs/` (GitHub Pages) to the drafted manuscript per
    `docs/workflows/publishing.md` — see the Publishing block of `TODO.md`.
 4. Keep polishing/beta-read as an ongoing activity once continuity is

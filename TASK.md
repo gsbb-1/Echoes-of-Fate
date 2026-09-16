@@ -7,21 +7,16 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status: PROSE READ-THROUGH DONE as of 2026-09-16.** The 26-chapter first
-draft is complete and the read-through pass has been applied: six parallel
-review passes, real fixes committed across ~20 chapters (typos — "one
-breathe", "owns and exits"; timeline slips — Ch. 21 "that summer", Ch. 24
-"eighteen years ago"; the engraving count is seven words, not nine —
-Ch. 24/25/outline; Ch. 20 photo-order comment; Ch. 21 closing button
-relabeled Michael & Olivia in the outline; POV scene breaks in Ch. 11; and
-systematic repetition thinning across Chs. 1-26). Deliberately left:
-Ch. 4's "told her nothing", "the whole of" as a book-wide motif, and a few
-regional read-alouds. Tests 23/23 passing.
+**Status: WORD-COUNT SMOOTHING DONE as of 2026-09-16.** The 26-chapter
+first draft is complete, the full prose read-through has been applied and
+committed, and the word-count outliers in the opening act have been
+brought up to band: Ch. 3 expanded from ~800 to 1,870 words, Ch. 4 from
+~1,150 to 1,867 words — both now within the ~1,900-2,200 target band.
+All other chapters remain in range (700-2600). Tests all passing.
 
-**Next task to pick up:** word-count smoothing — expand Ch. 3 (~800) and
-Ch. 4 (~1,150) to the ~1,900-2,200 band in the established voice, folding
-in their flagged local notes; Ch. 26 (~1,740) runs light only. Then
-publish `docs/` (GitHub Pages) per `docs/workflows/publishing.md`.
+**Next task to pick up:** publish `docs/` (GitHub Pages) to the drafted
+manuscript per `docs/workflows/publishing.md` — see the Publishing block
+of `TODO.md`. After that, beta-read and polish as ongoing activity.
 
 ## History
 
@@ -124,3 +119,12 @@ tree clean, all tests passing.
   closing button relabeled "Michael & Olivia" in `outline.md`, and
   repetition thinning across Chs. 1-26. Ch. 26 closing sweep reworked to
   include Emma. Working tree clean (about to commit), all tests passing.
+- 2026-09-16 — Word-count smoothing: expanded Ch. 3 (~800 → 1,870) and
+  Ch. 4 (~1,150 → 1,867) up to the ~1,900-2,200 band in the established
+  voice — Ch. 3 gains an opening beat, a deeper Owen negotiation (case
+  latches, "bring me one you're still nervous about", the mother's ghost),
+  a keener stranger read, and a longer walk-home button; Ch. 4 gains a
+  motel/postcard cold open, the café-counter exchange, a Michael-interior
+  beat after Sarah's not-asking, and a coda under the bank awning. Both
+  flagged local clunks fixed ("for exactly" ×3, "soft at the edges" echo).
+  Committed, tests 23/23 passing.

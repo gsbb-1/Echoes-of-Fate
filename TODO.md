@@ -138,11 +138,16 @@ for the full state of the project.
       left: Ch. 4 "told her nothing" (pre-reveal, correct), Ch. 7 "not by a
       long way", Ch. 9 "stung more than it used to", and "the whole of" as a
       book-wide motif. Tests 23/23 passing.
-- [ ] Word-count smoothing — the true outliers are Ch. 3 (~800 words) and
+- [x] Word-count smoothing — the true outliers were Ch. 3 (~800 words) and
       Ch. 4 (~1,150) vs the ~1,900-2,200 band; Ch. 26 runs light (~1,700).
       Decision (2026-09-16): expand Ch. 3-4, the opening pair, in the
       established voice, folding in their flagged local notes (Ch. 3
-      "for exactly" x2; Ch. 4 "soft at the edges" self-echo).
+      "for exactly" x2; Ch. 4 "soft at the edges" self-echo). Done
+      2026-09-16: Ch. 3 → 1,870 words, Ch. 4 → 1,867 words (both in
+      band); Ch. 3 gains an opening beat, a deeper Owen negotiation, a
+      keener read of the stranger, and a fuller walk-home button; Ch. 4
+      gains a motel/postcard cold open, the café-counter exchange, a
+      Michael-interior beat, and a bank-awning coda. Tests 23/23 passing.
 
 ## Publishing (`docs/`)
 
