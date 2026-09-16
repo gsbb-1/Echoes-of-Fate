@@ -62,8 +62,8 @@ The 26 chapters are distributed across the original 6-part shape:
 | 6 | What Emma Won't Say | Emma | Drafted | At the groundbreaking, her discovery nearly surfaces when Priya notices the gap in Colby's records; Emma pulls it back and buries it again — but the reader has seen the recognition. |
 | 7 | Cold Case | Jack | Drafted | Michael brings Jack the postcard Daniel mailed home days before he vanished; its full text includes a line about the old orchard ground; the case reopens informally. |
 | 8 | Echoes of the Unsolved | Jack | Drafted | Jack reopens his old case notes; the postcard's line about Hale "not going to like" something starts to rhyme with his one penciled note — the no-work-order regrade of the pond bank during the search week. |
-| 9 | Two Jobs, One Boy | Olivia | Not started | Olivia's grinding routine; friction with Liam, who's started digitizing old newspaper archives for community service. |
-| 10 | The Notebook | Liam | Not started | Between the archive work and a box of his mother's old photos, Liam turns up two things about Daniel that don't yet mean anything to him. |
+| 9 | Two Jobs, One Boy | Olivia | Drafted | Olivia's two-job grind (diner days, Hale Development offices at night); she carries the week-old sight of Jack Muldoon with a stranger, and Liam's innocent archive talk about the long-missing man nearly surfaces the fragment she never names. |
+| 10 | The Notebook | Liam | Drafted | Liam re-encounters the search-line photo at the archive and gets a half-minted blessing from Jack; in a box of his mother's old things he finds her as a teenager in the same orchard — he feels the two images align without grasping what either is; logs both, posts nothing. |
 | 11 | Six Crossings | Ensemble | Not started | Each character faces a first real decision point; the town feels smaller than usual. |
 | 12 | Paths That Shouldn't Cross | Sarah | Not started | Sarah and Michael's paths keep crossing; coincidence starts to feel like something else. |
 | 13 | Digging Deeper | Jack | Not started | Jack starts asking around; his questions unsettle people who thought this was long closed. |

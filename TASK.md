@@ -7,26 +7,28 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status: 8 of 26 chapters drafted as of 2026-09-16.** Chapters 7-8 (Jack)
-drafted and committed: "Cold Case" (Michael brings Jack the full postcard —
-including the orchard line quoted in Ch. 2 — and the case reopens
-informally) and "Echoes of the Unsolved" (the no-work-order pond-bank
-regrade in Jack's old notes rhymed with the postcard's Hale line; he writes
-the first "Reopened" entry in six years). Procedural, cataloguing voice.
-Working tree otherwise clean, all tests passing. Chapter drafting is a
-steady loop now: scene plan (`scenes/chapter-NN.md`) → draft
-(`manuscript/chapters/chapter-NN.md`) → `tests/test_manuscript.py` →
-update `TODO.md` → commit — repeat per `AGENTS.md`.
+**Status: 10 of 26 chapters drafted as of 2026-09-16.** Chapters 9-10
+(Olivia/Liam) drafted and committed: "Two Jobs, One Boy" (Olivia's diner +
+night-cleaning grind, the week-old sight of Jack with a stranger, and
+Liam's archive talk about the missing man brushing against the fragment she
+never names — she absorbs it and stays silent) and "The Notebook" (Liam
+re-logs the search-line photo, gets a half-minted blessing from Jack, and
+finds his mother as a teenager in the same orchard — he feels the two
+images align without grasping what either is; logs both, posts nothing).
+The loud-and-quiet mismatch (Liam will post in Ch. 20; Olivia has been
+silent ~18 years) is now set up from both sides. Working tree clean, all
+tests passing. Chapter drafting is a steady loop: scene plan
+(`scenes/chapter-NN.md`) → draft (`manuscript/chapters/chapter-NN.md`) →
+`tests/test_manuscript.py` → update `TODO.md` → commit — repeat per
+`AGENTS.md`.
 
-**Next task to pick up:** Chapters 9-10 (Olivia/Liam) — "Two Jobs, One
-Boy" (Olivia's grinding routine; friction with Liam, who has started
-digitizing old newspaper archives for community service) and "The
-Notebook" (Liam, between the archive work and a box of his mother's old
-photos, turns up two things about Daniel that don't yet mean anything to
-him). Olivia and Liam are the last two POVs to get their own chapters;
-remember the loud-and-quiet mismatch (Liam posts; Olivia stays silent ~18
-years) and that neither knows what he/she is holding. See `characters/`
-and `scenes/plot-map.md` for what Liam "finds" without grasping.
+**Next task to pick up:** Chapters 11-12 — "Six Crossings" (ensemble:
+each character faces a first real decision point) and "Paths That Shouldn't
+Cross" (Sarah). These end Part II and pull the six threads toward first
+actual crossings; keep the reveal discipline from `research/mystery-plotting.md`
+(no folder contents to others, no Olivia interpretation, Colby's departure
+stays the Ch. 13 red herring). See `manuscript/outline.md` and
+`scenes/plot-map.md`.
 
 ## History
 
@@ -53,3 +55,8 @@ and `scenes/plot-map.md` for what Liam "finds" without grasping.
   full text, including the orchard line — and the case reopens informally;
   Jack's old regrade note finally rhymes with the Hale line). Working tree
   clean, all tests passing.
+- 2026-09-16 — Drafted Chapters 9-10 (Olivia/Liam: the two last POVs get
+  their own chapters — Olivia's grind against the fragment she never names;
+  Liam holding two images that don't yet mean anything). Patched a
+  typo'd "Ma'am" ('course) out of the Ch. 10 draft. Working tree clean, all
+  tests passing.
