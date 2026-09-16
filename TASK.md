@@ -7,30 +7,37 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status: 12 of 26 chapters drafted as of 2026-09-16.** Chapters 11-12
-drafted and committed: "Six Crossings" (ensemble — Michael reads Emma's
-tell and stays/goes around her; Emma draws a real line under "not yet";
-Olivia takes the festival money and lets Liam keep digging; Sarah finds
-the place she paints is real at the parcel gate; Jack commits to walking
-the ground again; Liam makes the face at the photo's edge his project) and
-"Paths That Shouldn't Cross" (Sarah — coincidence tips into choice at the
-gate; she learns the place is real but NOT its family history, which stays
-reserved for Ch. 17; Michael stays first-name-only to her so the reader
-holds Ch. 7's irony). Working tree clean, all tests passing. Chapter
-drafting remains a steady loop: scene plan (`scenes/chapter-NN.md`) →
-draft (`manuscript/chapters/chapter-NN.md`) → `tests/test_manuscript.py`
-→ update `TODO.md` → commit — repeat per `AGENTS.md`.
+**Status: 14 of 26 chapters drafted as of 2026-09-16.** Chapters 13-14
+drafted and committed: "Digging Deeper" (Jack — county records confirm the
+north-bank regrade was never permitted and foreman Hank Colby has no county
+footprint after 2008; asking around unsettles the town; the town line names
+Colby's overnight departure; Jack learns Colby retired back into the valley
+and settles on confronting him) and "What the File Says" (Emma — Jack's
+pointed questions reach the company in person; she shows the safe binder
+layer, holds everything that points at her father, and keeps the 2008
+ledger as the one near-miss; she resolves to move the folder herself before
+it's found). Part III (Rising Action) opened. Working tree clean, all tests
+passing. Chapter drafting remains a steady loop: scene plan
+(`scenes/chapter-NN.md`) → draft (`manuscript/chapters/chapter-NN.md`) →
+`tests/test_manuscript.py` → update `TODO.md` → commit — repeat per
+`AGENTS.md`.
 
-**Next task to pick up:** Chapters 13-14 — "Digging Deeper" (Jack starts
-asking around; his questions unsettle people who thought this was long
-closed) and "What the File Says" (Emma — Jack's questions reach the
-company and she decides how much to reveal). This pair plants/cashes the
-Colby red herring (his abrupt end-of-season departure record — the raw
-material exists already via Priya's Ch. 6 find) and stages the Jack/Emma
-confrontation. Keep the reveal discipline per `research/mystery-plotting.md`:
-the folder's three pieces stay unread by anyone but Emma, Olivia's
-interpretation stays fragmentary, and the remains stay unrecovered until
-Ch. 18. See `manuscript/outline.md` and `scenes/plot-map.md`.
+**Open placement decision:** the Colby red herring is PLANTED in Ch. 13 but
+its resolution — Jack or Michael confronting Colby, who admits panic, the
+call to Hale, and silence bought with severance, giving Jack and Michael
+the accident-and-cover-up shape "ahead of Emma's folder or Olivia's
+confession" (`scenes/plot-map.md`) — still needs a home. Proposed: Ch. 19
+"Webs," after Ch. 18's remains discovery. Confirm against the outline when
+that pass is reached.
+
+**Next task to pick up:** Chapters 15-16 — "Closer" (Sarah & Michael:
+their relationship deepens; Michael's real reason for being in town starts
+to leak through) and "The Line Olivia Won't Cross" (Olivia: site work
+advances toward the old pond section and she's pushed toward the choice
+she's avoided for eighteen years). Keep the reveal discipline per
+`research/mystery-plotting.md`: no folder contents to anyone, no Olivia
+interpretation, remains unrecovered until Ch. 18, Colby confrontation
+deferred to ~Ch. 19. See `manuscript/outline.md` and `scenes/plot-map.md`.
 
 ## History
 
@@ -67,3 +74,8 @@ Ch. 18. See `manuscript/outline.md` and `scenes/plot-map.md`.
   place is real, Michael stays name-and-mission concealed so the reader
   holds the irony). Part II (Character Development) now complete.
   Working tree clean, all tests passing.
+- 2026-09-16 — Drafted Chapters 13-14 (Digging Deeper — unpermitted
+  regrade confirmed, Colby red herring planted with the confrontation
+  deferred to ~Ch. 19; What the File Says — Jack's questions reach the
+  company, the ledger stays the one near-miss). Part III (Rising Action)
+  opened. Working tree clean, all tests passing.
