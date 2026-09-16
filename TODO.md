@@ -8,7 +8,7 @@ what's actively being worked on right now.
 Goal: expand from the original 13-chapter/~50-page draft to **26
 chapters, ~200 pages** (see `manuscript/outline.md`).
 
-**18 of 26 chapters drafted (Ch. 1-18) as of 2026-09-16.** All
+**20 of 26 chapters drafted (Ch. 1-20) as of 2026-09-16.** All
 planning/design infrastructure below is done; only the "Writing" section
 has open items. See `TASK.md` for the exact resume point and `PLAN.md`
 for the full state of the project.
@@ -84,8 +84,8 @@ for the full state of the project.
 - [x] Ch. 16 — "The Line Olivia Won't Cross" (Olivia: site work staged to the pond notch; she stands at the line and does not cross)
 - [x] Ch. 17 — "What Sarah Finds Out" (Sarah: painting = Hollis ground sold to Hale the same autumn; the cabin fragment settles as a leaving)
 - [x] Ch. 18 — "The Weight of It" (Emma & Jack: remains found in the old bank; Emma holds the folder, Jack reopens the case)
-- [ ] Ch. 19 — "Webs"
-- [ ] Ch. 20 — "Liam's Reckoning"
+- [x] Ch. 19 — "Webs" (Jack: the Colby confrontation — accident-and-cover-up shape given up in the light; Sarah hands Michael the Hollis ground)
+- [x] Ch. 20 — "Liam's Reckoning" (Liam: the two-photo post goes live; the edge man is named; it's already moving)
 - [ ] Ch. 21 — "Alliances"
 - [ ] Ch. 22 — "Fault Lines"
 - [ ] Ch. 23 — "The Gathering Storm"

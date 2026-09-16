@@ -68,9 +68,15 @@ planning/design work is done and the project is ready for chapter drafting:
   Out — the identification lands, the fragment is said aloud, and the
   Hollis sale is opened at last; The Weight of It — the midpoint
   escalation: remains in the old bank, Emma holds the folder, Jack's case
-  reopens and he takes the news to the motel). Parts II-III and the
-  midpoint of the mystery are complete. 8 chapters remain undrafted. This
-  is the critical path — everything upstream of it is done.
+  reopens and he takes the news to the motel); Chs. 19-20 (Webs — the
+  Colby confrontation given up in the light gives Jack and Michael the
+  accident-and-cover-up shape ahead of the folder or Olivia's account,
+  Sarah hands Michael the Hollis ground, and Michael resolves to ask Emma;
+  Liam's Reckoning — the two-photo post goes live and the man at the edge
+  of his mother's picture is named, too late to take back). The midpoint
+  of the mystery is reached and Part IV (Midpoint Revelations) has begun
+  to move. 6 chapters remain undrafted. This is the critical path —
+  everything upstream of it is done.
 
 ## Working loop
 
@@ -84,16 +90,15 @@ the relevant `characters/*.md` file, and "test" means both
 
 ## Next steps (in order)
 
-1. Draft Chapters 19-20 — "Webs" (Ensemble — now that the remains are
-   found, the six threads start to show their connections; write the Colby
-   confrontation/admission here so it sets the accident-and-cover-up shape
-   ahead of Emma's folder or Olivia's confession) and "Liam's Reckoning"
-   (Liam — not grasping what he has, he posts the archive photo beside his
-   mother's family photo; it reaches Michael within a day). This pair
-   opens Part IV (Midpoint Revelations) and forces the pieces to move.
-   Keep the reveal discipline: no folder contents to anyone, no Olivia
-   interpretation, Emma's folder still at home, Olivia's account still
-   unspoken.
+1. Draft Chapters 21-22 — "Alliances" (Michael — the post reaches Michael
+   within a day of Ch. 20; characters choose sides / band together as the
+   Harvest Festival approaches) and "Fault Lines" (Olivia — trust is
+   tested; Olivia and Emma's paths finally cross directly: Olivia cleans
+   Emma's offices two nights a week, neither has known). Ch. 19's ending
+   sends Michael to ask Emma directly — that's the bridge. Keep the
+   reveal discipline: no folder contents to anyone yet, no Olivia
+   confession (Ch. 24), Emma's folder still at home, the true shape
+   confirmed only at the climax.
 2. Continue chapter-by-chapter per `manuscript/outline.md`, in roughly
    outline order, running `tests/test_manuscript.py` and committing after
    each pass (or small batch of chapters).
