@@ -46,5 +46,7 @@ the ground truth for the mystery; if a character file and `plot-map.md`
 ever disagree going forward, `plot-map.md` wins and the character file
 should be corrected.
 
-No open questions currently block chapter drafting. New ones raised during
-drafting should be logged here.
+The full 26-chapter first draft is complete (2026-09-16); arc lists and
+introduction points in each character file are reconciled against the
+drafted chapters. No open questions block the book. Continuity‑pass items
+and any new questions raised during revision are logged in `TODO.md`.

@@ -7,40 +7,21 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status: ALL 26 CHAPTERS DRAFTED as of 2026-09-16.** Chapters 25-26
-complete the manuscript: "What's Left Standing" (the town wakes the
-morning after the reckoning; each character's own gain, not the shared
-reveal — Jack files the box with his close-out line and walks in for the
-coffee, not the case; Emma turns the board call from spin into truth and
-gives the parcel to the town as memorial ground, her father's watch set
-down at last; Sarah and Diane make their first real sentence in front of
-Hollis ground; Michael puts down the guilt of the last phone call and
-calls his mother — *there's something new, Mom*; Liam trades the sliver
-for the whole true version and his mother releases him from the post) and
-"Echoes of Fate" (some weeks later, the same low gold light as the first
-morning, the same six in their same tracks and none the same: Sarah
-paints the glint deliberately for the first time, Olivia opens the bottom
-drawer and puts the bracelet down, Liam finishes the sixty-second box
-and finds the fifth chord, Emma keeps her own time with the drawer
-unlocked and empty, and Michael stands at the lakefront ground with Sarah
-and his brother's watch — *the road's not long anymore, Danny. It's
-home* — not anywhere he's just passing through). The full 26-chapter
-first draft is complete, every reveal landed per `scenes/plot-map.md`
-through Ch. 24 and the resolution pair closes each personal arc without
-new mystery material. Working tree clean, all tests passing. Chapter
-drafting per `AGENTS.md` is done.
+**Status: CONTINUITY PASS IN PROGRESS as of 2026-09-16.** The 26-chapter
+first draft is complete. The first continuity pass is underway and the
+known mismatches are fixed and committed: Olivia's age (Ch. 8 now
+seventeen), the `characters/*.md` Introduced/arc entries reconciled to
+the drafted book, Liam's archive count (Ch. 2 "twenty-one boxes left"),
+the postcard loop closed (Jack returns it in Ch. 25, Michael carries it
+home in Ch. 26), and Ch. 21's "had had" clunk. Watch/glint/postcard
+motifs walked and consistent. Tests all passing.
 
-**Next task to pick up:** The manuscript is drafted; the productive
-moves now are revision-first, not more drafting. Candidates, in
-suggested order: (1) a read-through/pass for continuity — the strongest
-known items are the Olivia 16/17 age mismatch (`manuscript/chapters/
-chapter-08.md` ~line 28 vs `characters/olivia.md` eighteen), and
-reconciling `characters/*.md` front-matter arc lists and any leftover
-"Not started"/Drafting status wording now that the book is complete; (2)
-batch/publish `docs/` (GitHub Pages) to the drafted manuscript per
-`docs/workflows/publishing.md` — see the Publishing block of `TODO.md`;
-(3) copy-pass on consistent word counts and prose smoothing across all
-26 chapters. See `PLAN.md` next steps.
+**Next task to pick up:** the prose read-through of all 26 chapters for
+first-draft clunk, plus a decision on word-count smoothing (Ch. 3 ~800 /
+Ch. 4 ~1,150 / Ch. 26 ~1,750 are the outliers vs the ~1,900-2,200 band)
+— see the "Revision / continuity pass" block of `TODO.md` and `PLAN.md`
+next steps. After that, publish `docs/` (GitHub Pages) per
+`docs/workflows/publishing.md`.
 
 ## History
 
@@ -127,4 +108,10 @@ batch/publish `docs/` (GitHub Pages) to the drafted manuscript per
   Michael stands at the lakefront ground with his brother's watch and
   decides to stay — *it's home*). **All 26 chapters drafted.** The first
   draft is complete. Next work is revision-first, not more drafting. Working
-  tree clean, all tests passing.
+tree clean, all tests passing.
+- 2026-09-16 — Continuity pass (batch 1): fixed Olivia's age (Ch. 8 →
+  seventeen), Daniel's age (→ twenty-two, per Ch. 15), Liam's archive box
+  count (Ch. 2 → twenty-one left), `characters/*.md` Introduced/arc
+  entries reconciled to the drafted book, postcard loop closed through
+  Chs. 25-26, Ch. 21 "had had" → "had kept". Watch/glint/postcard motifs
+  walked and consistent. Working tree clean, all tests passing.

@@ -43,15 +43,16 @@
   the thrill of finding something without registering what it might cost
   the people around him until it's already loose. It's exactly the
   mechanism by which his curiosity is going to surface his mother's secret.
-- **Introduced:** Chapter 1, in his room, headphones on, writing lyrics
+- **Introduced:** Chapter 2, at the archive scanner, box forty-one and the
+  Voss headline turning up off the system
 - **Arc** (chapter numbers per `manuscript/outline.md`'s 26-chapter table):
   - Ch. 2 — introduced, isolated in his room
   - Ch. 10 — the archive digitizing work and his mother's old photo box
     turn up something about Daniel ("The Notebook")
   - Ch. 20 — posts the connection publicly without understanding it
     ("Liam's Reckoning") — forces everyone's hand faster than they wanted
-  - Ch. 24 — his digging puts him in visible risk at the climax, which is
-    what finally makes Olivia speak
+  - Ch. 23 — the county investigator draws him aside at the festival,
+    which is finally what makes Olivia speak
   - Ch. 25 — resolution with Olivia
 - **Relationships:** Olivia's son (confirmed).
 - **Plot thread (resolved 2026-09-14):** doesn't know the town's history

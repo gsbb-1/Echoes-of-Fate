@@ -94,6 +94,36 @@ for the full state of the project.
 - [x] Ch. 25 — "What's Left Standing" (each character's own gain: Jack files the case, Emma gives the ground back, Sarah and Diane's first true sentence, Michael's last phone call, Liam and Olivia's whole version)
 - [x] Ch. 26 — "Echoes of Fate" (the same six, same tracks, carrying less; the deliberate glint; *it's home*)
 
+## Revision / continuity pass (begun 2026-09-16)
+
+- [x] Olivia's age: Ch. 8 file transcript said "sixteen"; canon is
+      seventeen (she was seventeen the autumn Daniel vanished — Chs. 22/24,
+      `characters/olivia.md`). Fixed.
+- [x] Reconcile `characters/*.md` with the drafted book: Introduced points
+      fixed (Michael/Emma/Liam are introduced in Ch. 2, not Ch. 1; Jack's
+      Ch. 1 scene is the diner + the box, not the park bench); Liam's
+      climax beat renumbered to Ch. 23 (where the investigator draws him
+      aside); Daniel's age fixed to twenty-two (Ch. 15's draft text, the
+      only on-page age); `characters/README.md` status updated for a
+      complete book.
+- [x] Liam's archive count: Ch. 2 said "eleven boxes left of sixty-two" but
+      he's on box 41 → corrected to "twenty-one" (Ch. 10 confirms box 41;
+      Ch. 26 confirms sixty-two total).
+- [x] Postcard loop closed: Ch. 7 left the card in Jack's file; Ch. 25 now
+      has Jack set it apart to walk back to Michael, and Ch. 26 has Michael
+      carrying it home beside the recovered watch.
+- [x] Watch/glint/postcard motifs walked through all 26 chapters —
+      consistent (broken digital watch at 4:47 on Michael's wrist; Emma's
+      father's watch set down in Ch. 25/26; pocket watch engraving
+      "To Daniel. The road is long. — M." recovering in Ch. 24; glint
+      resolving in Ch. 24 and painted deliberately in Ch. 26).
+- [ ] Prose read-through of all 26 chapters for first-draft clunk
+      (repetition, over-long sentences, register slips). Fixed so far:
+      "had had" → "had kept" (Ch. 21).
+- [ ] Word-count smoothing — the true outliers are Ch. 3 (~800 words) and
+      Ch. 4 (~1,150) vs the ~1,900-2,200 band; Ch. 26 runs light (~1,700).
+      Decide whether to expand Ch. 3-4 or accept a shorter opening pair.
+
 ## Publishing (`docs/`)
 
 - [ ] Update `docs/ch01.html` (and add `docs/ch02.html`-`ch04.html`) to

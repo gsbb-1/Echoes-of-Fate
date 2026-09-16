@@ -53,7 +53,8 @@
   rather than connection. It cost him his marriage once already, and it's
   exactly what risks happening again if he pushes Michael or Olivia before
   either is ready.
-- **Introduced:** Chapter 1, sitting on a park bench, watching children play
+- **Introduced:** Chapter 1, the box's system holding (not opening it),
+  coffee at the diner where the talk lands on the Hale parcel
 - **Arc** (chapter numbers per `manuscript/outline.md`'s 26-chapter table):
   - Ch. 1 — introduced, still haunted by the old case
   - Ch. 7 — Michael brings him Daniel's postcard; the case reopens

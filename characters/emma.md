@@ -36,7 +36,8 @@
   runs with the property. Voice test: "She had the number before he
   finished the question, which was itself the tell, if he'd known her well
   enough to read it."
-- **Introduced:** Chapter 1, at her desk, glancing at the clock
+- **Introduced:** Chapter 2, on a call at her desk, ledger reconciled, the
+  watch against her wrist
 - **Arc** (chapter numbers per `manuscript/outline.md`'s 26-chapter table):
   - Ch. 2 — introduced, anxious, hiding something
   - Ch. 5 — finds the inconsistency in her father's old files ("The Ledger")

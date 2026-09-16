@@ -135,6 +135,11 @@ something he's finished carrying. "The road's not long anymore, Danny,"
 he said, quietly, to the water, to the ground, to the town standing
 behind them in its golding light. "It's home."
 
+His other hand found the worn sleeve in his jacket without him telling it
+to — the postcard Jack had walked forward to him that week, back where
+he'd carried it the day he walked into town, the circle of it closed. Not
+a paper trail anymore. Just his mother's line, home again.
+
 He stood there a long while with the watch in his hand and Sarah beside
 him — the painter who had carried the glint for years without knowing
 what it was, and the man who had carried the boy it belonged to — and

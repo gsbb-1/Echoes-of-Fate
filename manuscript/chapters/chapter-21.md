@@ -33,7 +33,7 @@ knew the Voss boy had a girl in town.* And a woman whose profile picture
 was a dog: *wait. the fella at the edge of the first photo. that's him.
 the one they're looking for at the pond.*
 
-His brother had had a girl in town. The girl in the kept photograph — the
+His brother had kept a girl in town. The girl in the kept photograph — the
 woman whose son ran the society's page, the boy who'd caption something
 *my mom* like a boy leaving a note for a woman who'd never mentioned once
 a man who'd been standing three yards from her in a summer field. Whoever

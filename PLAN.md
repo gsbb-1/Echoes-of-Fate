@@ -133,9 +133,10 @@ the relevant `characters/*.md` file, and "test" means both
    postcard through all 26 chapters for consistency. Then a read-through
    for prose quality and any first-draft clunk across chapters.
 2. Word-count smoothing. `tests/test_manuscript.py` enforces 700-2600;
-   the aim is a tighter band (~1,900-2,200) across the book. Current
-   outliers to look at: none over the ceiling, but the finale (Ch. 26,
-   ~1,700) runs light.
+   the aim is a tighter band (~1,900-2,200) across the book. True
+   outliers: Ch. 3 (~800) and Ch. 4 (~1,150) run far under the band,
+   Ch. 26 (~1,750) runs light. Worth deciding whether the opening
+   chapters stay deliberately shorter before expanding them.
 3. Publish `docs/` (GitHub Pages) to the drafted manuscript per
    `docs/workflows/publishing.md` — see the Publishing block of `TODO.md`.
 4. Keep polishing/beta-read as an ongoing activity once continuity is

@@ -4,7 +4,7 @@
 - **Wants:** searching for something he can't yet put into words
 - **Obstacle:** a troubled past he keeps hidden behind a stoic facade
 - **Backstory:** Michael Voss was nineteen when his older brother Daniel,
-  twenty-three, took a seasonal harvest job at the Hale family's orchard and
+  twenty-two, took a seasonal harvest job at the Hale family's orchard and
   never called home again. The Voss family lived an hour away, in the next
   county. In family lore that nobody ever quite verified, Daniel had also
   started asking questions about an old boundary dispute tied to their
@@ -52,7 +52,8 @@
   people to extract what he needs, then withdraws before anything can be
   asked of him in return. It's exactly the instinct that will damage things
   with Sarah once she notices she's been, in part, a source.
-- **Introduced:** Chapter 1, walking the town's streets, scanning faces
+- **Introduced:** Chapter 2, walking Main Street, cataloguing exits and the
+  postcard in his jacket pocket
 - **Arc** (chapter numbers per `manuscript/outline.md`'s 26-chapter table):
   - Ch. 2 — introduced, new in town, searching for something
   - Ch. 4 — meets Sarah properly

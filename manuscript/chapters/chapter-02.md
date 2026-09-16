@@ -139,7 +139,7 @@ her screen before the other half could find a place to land.
 
 The archive room at the historical society smelled like a library that
 had given up trying to smell like anything else, and Liam had exactly
-eleven boxes left of the sixty-two his court date had turned into, and a
+twenty-one boxes left of the sixty-two his court date had turned into, and a
 system going: pull the folder, flatten the pages, run each one through
 the scanner, log it, next folder. It wasn't terrible. Nobody talked to
 him for two hours at a stretch, which suited him fine, and the scanner had

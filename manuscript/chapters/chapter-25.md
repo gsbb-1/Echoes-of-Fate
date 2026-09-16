@@ -24,8 +24,13 @@ wrote, and the word went down easy, the way the word had gone easy for
 Hank Colby on a porch over the county line, because it was finally the
 true one. Then he set the search log and the three witness statements and
 the photographs going soft at the corners into the box in their order,
-like a man putting tools to bed, and he stood in the hall with the lid in
-his hands a long moment.
+like a man putting tools to bed. And the one thing in the file that
+wasn't his to seal — the postcard in its sleeve, the card a mother had
+kept in a kitchen drawer for eighteen years and handed to a son to carry
+in — he took out and set on the closet shelf by his coat, to walk forward
+to the man who'd walked it in, the way you hand back a thing that was
+only ever borrowed. He stood in the hall with the lid in his hands a long
+moment.
 
 He had carried that box longer than some of the men who'd searched. He
 had taken it down at intervals over eighteen years the way other men went

@@ -25,7 +25,7 @@ to shoulder where the apple trees used to stand, the ground behind them
 still raw. The statements. Two men off the crew, who'd liked him, who'd
 said he'd been talking about staying on after the season, "talking about
 the land more than the work, lately"; and the other one, the girl, Olivia
-Marsh, sixteen, interviewed three times — one statement of record, the
+Marsh, seventeen, interviewed three times — one statement of record, the
 other two never formalized — who'd said she'd been walking home along
 the lake road and had seen nothing and heard nothing, and who had said
 it, all three times, in the particular flat way of a girl telling a
