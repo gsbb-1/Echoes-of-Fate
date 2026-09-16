@@ -9,8 +9,8 @@ dull and then interesting and then dull again, which was how he seemed
 to do everything lately, in waves that crested and went flat before he
 could ride either one.
 
-He didn't mean to pull up the picture. Mr. Okafor — Mrs. Okafor, nobody
-called her Mr., she was Mrs., the whole of it a small town rule he
+He didn't mean to pull up the picture. Mrs. Okafor — always Mrs., never
+first name, a small-town rule he
 respected the way he respected most small-town rules, by half-running
 them — had told him to log it if he moved it, weeks ago, and he hadn't
 logged it, he'd photographed it with his phone. The photo was still on
@@ -81,7 +81,7 @@ found he didn't want to defend it to this man, which was odd.
 decided to cross it, phone out, the photograph filling the frame, and
 the old man looked at it a long quiet while in the stale archive light.
 
-"Nineteen years," Jack said, and there was something in his voice like a
+"Eighteen years," Jack said, and there was something in his voice like a
 door being held open a crack. "Three weeks of lines through that orchard.
 I walked that ground every day for two of them." He looked up at Liam —
 not at the phone, at him. "You finding this on your own?"

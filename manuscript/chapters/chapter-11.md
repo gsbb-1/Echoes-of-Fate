@@ -11,8 +11,9 @@ turned against her palm so the man couldn't see it being handled like it
 mattered. "Michael Voss. I told him the historicals live at the county,
 but he asked for someone who'd actually know the parcel."
 
-The name went through Emma like a cold line drawing a seam across a
-surveyed field. Voss. She'd lived with the folder for a year and a half
+The name went through Emma like a number that didn't belong in a column,
+one that threw the whole ledger out. Voss. She'd lived with the folder
+for a year and a half
 and the folder had somehow never come with a family attached — because a
 folder with no victim in it was a folder a woman could keep. Here was the
 name that would have been the victim's, waiting politely in her lobby for
@@ -81,9 +82,10 @@ He climbed into the truck and did a thing he hadn't done since he was
 nineteen — thought of a town in the plural. He'd come to find a place.
 He'd found, instead, a ground, a case that had opened again, and a woman
 who knew something, and he was not going to be done with any of it by the
-end of the week. He sat with his hands on the wheel, let himself feel the
-particular discomfort of a man who had just committed to a place without
-deciding to, and drove to the county annex, because county records kept
+end of the week. He sat with his hands on the wheel and let the
+discomfort in — the specific weight of a man who had just committed to a
+place without deciding to — and drove to the county annex, because county
+records kept
 hours and the ones he wanted counted on his being patient.
 
 ---
@@ -126,6 +128,8 @@ she said. "Before my time, mostly." And carried the coffee pot on, because
 the floor wasn't going to fill itself, and Sarah let it go the way she let
 all things go, the ease of a person who'd learned young that the direct
 question got you the flat no.
+
+---
 
 Sarah paid and walked out, and you could have tracked her through the two
 blocks of Main and out the county road like a single unhurried line. She
@@ -203,7 +207,11 @@ but to keep the room behind it from getting the story going before either
 of them understood it. "Looking's the job. You keep looking."
 
 He walked home slower than the doctor liked, knee talking about weather
-that was still a day out. Behind him, Liam took the long way home along
+that was still a day out.
+
+---
+
+Behind him, Liam took the long way home along
 the county road and stopped once at the chained gate where a woman with a
 sketchbook had stood that morning, looked down the track at the equipment
 blinking its work-lights in the dusk, and decided he'd find the other

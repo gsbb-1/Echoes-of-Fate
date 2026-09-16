@@ -124,19 +124,24 @@ the relevant `characters/*.md` file, and "test" means both
 
 ## Next steps (in order)
 
-1. Continuity/revision pass over the full draft. Known items to start
-   with: the Olivia age mismatch (`chapter-08.md` says sixteen vs
-   `characters/olivia.md` eighteen — the Chs. 22/24 text says seventeen,
-   so the canon to reconcile toward is seventeen); reconcile
-   `characters/*.md` front-matter arc lists and status wording now that
-   the book is complete; walk the watch motif, the glint, and the
-   postcard through all 26 chapters for consistency. Then a read-through
-   for prose quality and any first-draft clunk across chapters.
+1. ~~Continuity/revision pass over the full draft~~ — **done 2026-09-16.**
+   Batch 1 fixed the Olivia age mismatch, reconciled `characters/*.md`
+   front-matter to the completed book, walked the watch/glint/postcard
+   motifs, and closed the postcard loop (Chs. 25-26). The read-through
+   then went all 26 chapters (six parallel passes): applied real fixes —
+   typos, the Ch. 21 photo-timeline slips, Ch. 24 "eighteen years ago",
+   the lost-watch engraving is **seven** words not nine (Chs. 24/25 +
+   outline), the Ch. 20 photo-order comment, Ch. 11 POV scene breaks, Ch.
+   21 relabeled "Michael & Olivia" for its closing button, and repetition
+   thinning across ~20 chapters (Ch. 26's closing sweep reworked to
+   include Emma). Deliberately left: Ch. 4 "told her nothing" (correct);
+   "the whole of" kept as a book-wide motif.
 2. Word-count smoothing. `tests/test_manuscript.py` enforces 700-2600;
    the aim is a tighter band (~1,900-2,200) across the book. True
    outliers: Ch. 3 (~800) and Ch. 4 (~1,150) run far under the band,
-   Ch. 26 (~1,750) runs light. Worth deciding whether the opening
-   chapters stay deliberately shorter before expanding them.
+   Ch. 26 (~1,740) runs light. Decision made: expand Ch. 3-4 in the
+   established voice (folding in their flagged local notes), rather than
+   accepting a shorter opening.
 3. Publish `docs/` (GitHub Pages) to the drafted manuscript per
    `docs/workflows/publishing.md` — see the Publishing block of `TODO.md`.
 4. Keep polishing/beta-read as an ongoing activity once continuity is

@@ -83,7 +83,7 @@ exhibit, the harvest fair, the town's goofy yellowed past, all of it
 safe. She made herself let her shoulders down. "What thing."
 
 "Missing person," Liam said. "This guy disappeared like forever ago.
-Nineteen years, twenty. There's this photo of the search — they looked
+There's this photo of the search — they looked
 through the old orchard—" He was scrolling his phone, and she watched his
 face the way she'd learned to watch his face, the held brightness of a
 kid on the verge of being the one who found out something, and she knew
@@ -95,12 +95,11 @@ in front of it with his fingers already under the latch.
 
 "Here," he said, turning the phone to her.
 
-The photo was gray and soft, the way everything old was soft. A long line
+The photo was gray and soft, the way old paper was soft. A long line
 of volunteers walking shoulder to shoulder through the bare rows of an
 orchard, heads down, spaced out across the frame like a fence being
-dragged. The trees. The low ground. The line of the treeline at the top,
-where the ground rose, and behind the line a sliver of water catching the
-day.
+dragged. The trees gone quiet. The low ground. The treeline at the top,
+and behind the line a sliver of water catching the day.
 
 She looked at it for maybe three seconds, with her hands flat on the
 table, and did what she'd done for eighteen years: she absorbed it inward,

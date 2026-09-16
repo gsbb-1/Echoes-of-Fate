@@ -7,21 +7,21 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status: CONTINUITY PASS IN PROGRESS as of 2026-09-16.** The 26-chapter
-first draft is complete. The first continuity pass is underway and the
-known mismatches are fixed and committed: Olivia's age (Ch. 8 now
-seventeen), the `characters/*.md` Introduced/arc entries reconciled to
-the drafted book, Liam's archive count (Ch. 2 "twenty-one boxes left"),
-the postcard loop closed (Jack returns it in Ch. 25, Michael carries it
-home in Ch. 26), and Ch. 21's "had had" clunk. Watch/glint/postcard
-motifs walked and consistent. Tests all passing.
+**Status: PROSE READ-THROUGH DONE as of 2026-09-16.** The 26-chapter first
+draft is complete and the read-through pass has been applied: six parallel
+review passes, real fixes committed across ~20 chapters (typos — "one
+breathe", "owns and exits"; timeline slips — Ch. 21 "that summer", Ch. 24
+"eighteen years ago"; the engraving count is seven words, not nine —
+Ch. 24/25/outline; Ch. 20 photo-order comment; Ch. 21 closing button
+relabeled Michael & Olivia in the outline; POV scene breaks in Ch. 11; and
+systematic repetition thinning across Chs. 1-26). Deliberately left:
+Ch. 4's "told her nothing", "the whole of" as a book-wide motif, and a few
+regional read-alouds. Tests 23/23 passing.
 
-**Next task to pick up:** the prose read-through of all 26 chapters for
-first-draft clunk, plus a decision on word-count smoothing (Ch. 3 ~800 /
-Ch. 4 ~1,150 / Ch. 26 ~1,750 are the outliers vs the ~1,900-2,200 band)
-— see the "Revision / continuity pass" block of `TODO.md` and `PLAN.md`
-next steps. After that, publish `docs/` (GitHub Pages) per
-`docs/workflows/publishing.md`.
+**Next task to pick up:** word-count smoothing — expand Ch. 3 (~800) and
+Ch. 4 (~1,150) to the ~1,900-2,200 band in the established voice, folding
+in their flagged local notes; Ch. 26 (~1,740) runs light only. Then
+publish `docs/` (GitHub Pages) per `docs/workflows/publishing.md`.
 
 ## History
 
@@ -115,3 +115,12 @@ tree clean, all tests passing.
   entries reconciled to the drafted book, postcard loop closed through
   Chs. 25-26, Ch. 21 "had had" → "had kept". Watch/glint/postcard motifs
   walked and consistent. Working tree clean, all tests passing.
+- 2026-09-16 — Prose read-through applied: six parallel review passes over
+  all 26 chapters; verified and fixed typos ("one breathe", "owns and
+  exits", "coppers"), timeline slips (Ch. 21 "the summer that picture was
+  taken" / "eighteen years of witness statements", Ch. 24 "eighteen years
+  ago"), engraving count → seven words (Ch. 24/25/outline), Ch. 20
+  photo-order comment, Ch. 11 POV scene breaks + register fixes, Ch. 21
+  closing button relabeled "Michael & Olivia" in `outline.md`, and
+  repetition thinning across Chs. 1-26. Ch. 26 closing sweep reworked to
+  include Emma. Working tree clean (about to commit), all tests passing.

@@ -28,7 +28,7 @@ eighteen years, and the room did the thing rooms do around a discovery
 that can't be walked around: it got very still.
 
 He read the comments then, sitting there with the small glow. *your mom??
-the girl in the second photo.* An old man who'd been a fireman here: *never
+the girl in the first photo.* An old man who'd been a fireman here: *never
 knew the Voss boy had a girl in town.* And a woman whose profile picture
 was a dog: *wait. the fella at the edge of the first photo. that's him.
 the one they're looking for at the pond.*
@@ -57,8 +57,8 @@ said, without looking up, "That's Olivia Marsh."
 "The girl in the photo."
 
 "That's her." Jack turned the phone a degree toward the light, the way
-he'd turned seventeen years of witness statements toward the light. "The
-summer before your brother went into that orchard, she was seventeen, and
+he'd turned eighteen years of witness statements toward the light. "The
+summer your brother was working that orchard, she was seventeen, and
 she was the last line of it, Michael — the only witness I could never get
 to move. I interviewed her three times. She told me less each time, not
 more, once she understood how much weight her answers could carry." He
@@ -157,8 +157,8 @@ against each other like two seasons of the same field.
 
 "Olivia Marsh." He said her name the way you place a thing on a scale.
 "I'm Michael Voss. The man at the edge of that kept photograph is my
-brother. Daniel. He disappeared from this town the summer after that
-picture was taken, eighteen years ago, and I've come a long way to find
+brother. Daniel. He disappeared from this town that summer, eighteen
+years ago, and I've come a long way to find
 out what happened to him."
 
 She didn't look at the phone. She looked at the wall above his head, the
@@ -169,7 +169,8 @@ different town's worth of years, before my time, mostly."
 
 "You're standing in that photograph." He said it plainly, a man stating a
 weight. "Seventeen, in a t-shirt, in a field my brother stood in the same
-summer he was found in. Your son posted it to the society's page this
+summer he went into that ground. Your son posted it to the society's page
+this
 afternoon, with a caption that says you never mentioned it once. I'm not
 here to accuse you of anything. I came to say this." He let the plainness
 carry the whole of it. "You're the last person alive I know of who knew
@@ -178,8 +179,8 @@ eventually — that's the way this closes, now that they've found him. And
 I'd rather you looked at his brother than at a badge."
 
 Silence did the thing silence does over a counter with a dead coffee pot
-between them. The woman with the two-job back stood very still, the way
-she stood very still — he saw it, the particular stillness of a woman
+between them. The woman with the two-job back stood very still — he saw
+it, the particular stillness of a woman
 counting the cost of a breath — and then she took the empty cup and
 turned to the sink with her back to the room, the way she'd kept her back
 to the room the morning the whole town talked about the remains, and said,

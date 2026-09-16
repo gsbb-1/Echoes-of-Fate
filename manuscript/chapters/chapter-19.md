@@ -17,7 +17,7 @@ people past the window who'd have walked on by a week ago.
 
 Eighteen years, and every strand led to the same place, and the only man
 left who'd been standing on that ground the night it happened had gone
-to ground over the county line the way he'd gone to ground eighteen years
+to ground over the county line the way he'd done eighteen years
 ago, days after the search went out. Jack set the coffee down and put a
 dollar on the counter. Today was going to be the question he'd been
 saving since the autumn, and before the old foreman heard about the
@@ -53,8 +53,9 @@ Before anyone had a name for what happened out there."
 
 He nodded once, a man taking the ground of a thing into his hands, and
 she saw him put it somewhere careful, not dropped, not yet spoken of —
-the way he handled the whole of his life, she was learning, in pieces he
-decided the weight of himself. "That makes it hers in a way," he said,
+the way he handled the whole of his life, she was learning, by taking
+every piece of it into his own hands and deciding its weight. "That makes
+it hers in a way," he said,
 finally, quiet. "The ground under the picture. It belonged to your family
 before it belonged to his death." He looked at her then, and the look
 was the plain one, the one with no door in it. "Thank you for telling me.

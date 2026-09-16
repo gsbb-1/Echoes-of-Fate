@@ -41,9 +41,9 @@ breaking the surface of it.
 He stood there long enough that a woman coming out with a coffee gave him
 the look people gave a man staring too hard at nothing. He kept walking.
 He didn't have a name for why his chest had gone tight looking at six
-square inches of somebody else's painting. He filed that too, the way he
-filed everything, and told himself he'd think about it later, which was
-what he told himself about most things.
+square inches of somebody else's painting. He filed that too, and told
+himself he'd think about it later, which was what he told himself about
+most things.
 
 He asked at the gas station again, a different clerk this time, younger,
 who at least knew what he meant when Michael said *the old orchard land,
@@ -144,8 +144,7 @@ system going: pull the folder, flatten the pages, run each one through
 the scanner, log it, next folder. It wasn't terrible. Nobody talked to
 him for two hours at a stretch, which suited him fine, and the scanner had
 a rhythm to it, a hum and a flash and a soft mechanical clunk, that he'd
-started hearing as a beat without meaning to, counting folders the way
-he'd count bars.
+started hearing as a beat, counting folders the way he'd count bars.
 
 Box forty-one was mostly obituaries, dull as anything, until it wasn't.
 

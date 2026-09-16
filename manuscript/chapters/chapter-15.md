@@ -80,7 +80,7 @@ somebody and had it not cost him his plans.
 "I'm not going to push." She said it carefully, the whole of her attention
 on the way the light was going across the bank. "But I'd find it out from
 the town, if I asked around, and I don't want to hear it from the town."
-She turned to him properly then, the cataloguing look, unhurried, the one
+She turned to him properly then, the measuring look, unhurried, the one
 she'd given him on the bench outside the hardware a month ago. "So if it's
 going to live between us, it should come from you."
 
@@ -144,9 +144,9 @@ with, quieter, "Come see it there. That's where I'll be."
 already filed, and he left the way he always left, along the county road,
 and she walked home in the dark with the finished canvas balanced against
 her hip like a passenger, and all the way home the old thing kept turning
-over inside her, the way a paint question does when you've undercoated
+over inside her the way a paint question does when you've undercoated
 your way into something real: she'd let the brother of the town's ghost
-into the one place she kept her own ghosts, and instead of feeling wrong,
+into the one place she kept her own ghosts, and instead of feeling wrong
 the way every other person would have made it feel, it felt like the most
 honest thing she'd done with her hands in years.
 

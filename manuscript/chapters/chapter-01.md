@@ -116,8 +116,8 @@ to come see what he was doing.
 The file was thinner than people probably imagined, when they imagined it
 at all. Eighteen years of a cold case looked, on paper, like less than a
 week of an active one — a search log, three witness statements he could
-still recite from memory, a handful of photographs going soft at the
-corners the way old photographs did no matter how carefully you kept
+still recite from memory, a handful of photographs worn soft at the
+corners the way old photographs wore no matter how carefully you kept
 them. He didn't take the statements out. He knew what was in them. He
 found instead the single sheet he'd actually come down here for, the
 plat map somebody at the county had given him back when this was still an
@@ -153,10 +153,9 @@ Her phone buzzed against the counter. Liam.
 She read it twice, which was one more time than it needed. It was nothing.
 He'd signed up for the community-service hours at the historical society
 weeks ago — some box of old newspapers nobody had gotten around to
-scanning — and staying late to actually finish something was, if anything,
-a good sign, the kind of thing she should have been glad about instead of
-turning over twice like a stone with something underneath it she couldn't
-name. She didn't have the fifteen seconds it would take to figure out why
+scanning — and staying late to actually finish something was the kind of
+thing she should have been glad about instead of turning over twice like a
+stone with something underneath it she couldn't name. She didn't have the fifteen seconds it would take to figure out why
 it snagged. She had eleven minutes and a pot that needed stirring and a
 son who, lately, told her less than he used to and expected her not to
 notice.

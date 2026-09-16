@@ -95,7 +95,7 @@ and the inside of her chest did a cold, quick thump, like the moment a
 line you've been painting from memory finally finds the object it was
 copying all along. The old orchard *was* the place. The gate, the
 treeline, the shine of the lake — the parcel everyone in town referred to
-as one fact, better than half of them had any cause to know it, was the
+as one fact — better than half of them had any cause to know it — was the
 ground she'd been painting with her eyes closed. And underneath it, the
 beater, the other pulse, went on: the cabin, the week, being carried,
 raised voices somewhere she couldn't see and the water that was everywhere
@@ -110,8 +110,8 @@ face-down, and went back to stretching the canvas she'd been avoiding all
 week.
 
 The gate didn't have a latch you could use from outside, which was the
-point of a gate, and the NO TRESPASSING sign had gone silver with age the
-way everything in this town went silver with age eventually, and Sarah
+point of a gate, and the NO TRESPASSING sign had gone silver the way
+everything in this town went eventually, and Sarah
 had learned to do her work in the margin of it — past the last fence
 post, on the county road's own weedy shoulder, where the sightline opened
 up over the track and the treeline and the long green bowl of the old
@@ -192,9 +192,9 @@ honest, to keep ending up in front of him.
 
 She worked until the light was gone and the study keyed itself together
 almost without her — water first, the streak of the bank where the grass
-had never taken, the pale long shine that was the lake and was, also,
-something else glinting she'd been rendering for years without being able
-to resolve it into an object, a question she'd learned to paint around
+had never taken, the pale long shine that was the lake and, glinting in
+its length, something she'd been rendering for years without resolving it
+into an object, a question she'd learned to paint around
 rather than into. She set her brush down in the dusk, and for the first
 time in three years she did not scrape it back to bare board.
 

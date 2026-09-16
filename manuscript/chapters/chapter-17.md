@@ -5,7 +5,7 @@ calling it a decision, and Sarah stood on a stool with the finished canvas
 balanced against her hip and her knees unsteady in a way that had nothing
 to do with the stool. The back wall of the café had been hers to claim for
 six weeks, and now the whole town was going to walk past the finished
-thing hung in the space she'd chosen so it would look inevitable.
+piece hung in the space she'd chosen so it would look inevitable.
 
 "Up a touch on the left," Owen said.
 
@@ -21,8 +21,8 @@ she tapped the nail a fourth time, for good measure, and climbed down and
 stood beside him looking at it. Water first, the streak of bank where the
 grass had never taken, the treeline coming down off the ridge, and the
 pale long shine at the far end that she'd rendered for years without ever
-learning to resolve it into an object — she'd learned, months ago, to
-paint around it instead — and there it sat, hung, in Owen's café, for
+resolving it into an object — she'd long since taught herself
+to paint around it instead — and there it sat, hung, in Owen's café, for
 anyone who cared to look.
 
 She'd told him only that afternoon, at the gate, that she'd see it hung.
@@ -66,7 +66,7 @@ knew your name."
 She'd known, in the way you know a door is about to open from the other
 side, and still the room did the thing rooms do when the floor moves — the
 café, the wall, the whole of the months of her life going still at once.
-She stood in front of the finished thing she'd made with her hands for
+She stood in front of the painting she'd made with her hands for
 years, the ground under the treeline, the place she'd been standing at for
 weeks, and let the sentence land and stay landed: the stranger who kept
 coming back to her painting, who kept ending up at the gate, had been
@@ -128,7 +128,7 @@ past the lake. The old orchard land. The one they're building on. What was
 that ground to our family?"
 
 The crease in the tape got longer, and the smooth machinery of the room
-went very quiet, and Diane Bennett sat a long moment with her hands flat
+went quiet a long moment, and Diane Bennett sat a long moment with her hands flat
 on the desk and did not look up, and Sarah watched her mother do the thing
 she'd done every time, for eighteen years — reach for the door to close on
 it — and then, for the first time she could remember, not quite close it.
@@ -142,8 +142,8 @@ still, when I was your age. I grew up in it half the summers."
 
 Sarah's hands had gone still on her knees. "The cabin on the lake."
 
-"You know about the cabin." It wasn't a question, and it was said with the
-almost of a woman realizing a door she'd kept shut had a key out all
+"You know about the cabin." It wasn't a question, and it was said with
+the pause of a woman realizing a door she'd kept shut had a key out all
 along.
 
 "I don't know anything about it. That's the part." Sarah heard her own
@@ -151,7 +151,7 @@ voice, and it was steady, and it surprised her. "I've been painting that
 ground for years, Mama. I can't stop painting it. And I never once knew
 it was real, and I never once knew it was ours."
 
-The room went very still for a long moment, and then her mother did the
+The room went still for a long moment, and then her mother did the
 thing she had done perhaps three times in Sarah's girlhood, maybe twice:
 she set the tape down, and she looked up. "It was a bad autumn," Diane
 said. "The year you were six. Your daddy and I were just married, and the
@@ -195,9 +195,10 @@ Sarah said, and she picked up her coat, and she stood in the door of the
 back office where she'd let herself for a lifetime, and she made herself
 say the whole of what she now knew out loud, the way she'd made herself
 stand in front of the finished thing and not run: "The man who went
-missing out there. His brother is in town. And he's been looking at the
-ground I paint his whole life, and I've been painting it his whole life,
-and it was our ground, and we sold it to the people at the center of it."
+missing out there. His brother is in town. And he's been looking at my
+painting his whole life, and the same ground's been coming out of my
+hands as long as I can hold a brush. And it was our ground, and we sold
+it to the people at the center of it."
 She looked at her mother across the small distance of the office. "I'm
 going to tell him. He has to know what that ground was to us. To all of
 us."

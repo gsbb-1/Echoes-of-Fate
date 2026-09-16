@@ -105,12 +105,12 @@ Daniel Voss's name was finally safe in public ground, in truth.
 
 She didn't wear her father's watch. She'd looked at it, on the corner of
 her desk, a half dozen times in the weeks since she'd set it down; and
-each time she'd made the ordinary, unremarkable decision to leave it
+each time she'd made the plain, unremarkable decision to leave it
 where it was and keep her own time. The company was hers now, not his
 shadow's — the folder gone to the county, the board standing behind her
 publicly, the lakefront ground given back to the town that had carried
 the story. She turned from the glass, and the afternoon went on about
-its ordinary business, and the bottom drawer of the credenza stayed as
+its unhurried business, and the drawer of the credenza stayed as
 she'd left it: unlocked, and empty.
 
 ---
@@ -130,7 +130,7 @@ found the place I was looking for." He took the pocket watch from inside
 his coat and held it up so the low light caught the face of it — the
 engraved watch his brother had carried, come up out of the water after a
 generation — and he looked at it, not with the careful distance of a man
-cataloguing an exit, but with the ordinary weight of a man holding
+cataloguing an exit, but with the settled weight of a man holding
 something he's finished carrying. "The road's not long anymore, Danny,"
 he said, quietly, to the water, to the ground, to the town standing
 behind them in its golding light. "It's home."
@@ -153,11 +153,12 @@ The evening came down over Willow Creek the way it had come down on the
 first evening, over the same six lives in their same tracks, the same
 square and the same lamps — and none of it was the same. Sarah's new
 canvas stood in her studio with its deliberate glint catching the last
-of the light. The diner settled into its ordinary hum, and the box sat
-sealed on a shelf under the winter coats, and the memorial stone waited
-in good ground. A mother and her son went in to an ordinary dinner. A
-girl who had painted the same place for years without knowing why set
-her brush down on purpose and let the light stand.
+of the light, the brush set down on purpose. The diner settled into its
+hum, and the box sat sealed on a shelf under the winter coats, and the
+memorial stone waited in good ground. A mother and her son went in to an
+ordinary dinner. And out past the square, Emma Hale walked home from the
+building she'd taken back, keeping her own time on her wrist, on her way
+to nothing heavier than supper.
 
 And out past the lake, in the blue hour, a man stood at the waterline
 with his brother's watch in his hand and his brother's ground under his

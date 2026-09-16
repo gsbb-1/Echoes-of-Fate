@@ -19,8 +19,8 @@ mornings filed under regular.
 
 The drive out past the lake was one she had made a small number of times
 in her life and never on purpose. The parcel the company had finally
-broken ground on stretched off the county road, and the staging lights
-burned orange in the middle of the day like a held breath, and the
+broken ground on stretched off the county road, and the staging towers
+stood idle over the track, and the
 machinery stood stopped in a way she recognized from every site she'd ever
 walked, the way a room goes still around something nobody's touched yet:
 the dozer with its blade in the dirt, the crew gathered back off the
@@ -60,7 +60,7 @@ name.
 
 The deputy came over the tape and introduced himself and asked her, in the
 way deputies ask around here, whether she had any reason to expect
-anything under the north bank save the ground it was. Emma Hale stood in
+anything under the north bank but the ground itself. Emma Hale stood in
 the sun on ground her own company had cleared, and she told the deputy,
 steady, exact, every red line in place, that the company had no record of
 anything under that bank, and the deputy wrote it down, and the mountain
@@ -74,10 +74,10 @@ She drove home after the scene was set — the county contacted, the site
 halted, the crews sent back, the words *pending identification* put out
 into the air of the site and coming back to her all the way down the
 county road: pending, pending, pending, the way the whole town would say
-it in a day, the way she'd said it herself for eighteen months in her own
+it in a day, the way she'd said it herself a hundred times in her own
 head. She let herself in. She stood in the doorway of the study where her
 father's desk had been before she'd moved it, and she made herself look at
-the drawer, and she did not open it. She had told herself, eighteen months
+the drawer, and she did not open it. She had told herself, a year and a half
 ago and again a week ago in this same room, that when the ground gave it
 up she would be the one to move first, that she would not let it be found
 like this, in the teeth of a machine, with her name on the company that
@@ -155,10 +155,10 @@ stretch of old ground while other men took the picture he'd had in his
 head.
 
 He didn't go home. He went the other way, down the county road past the
-lake, the long way to the motel off the county road, the same walk he'd
+lake, the long way around to the motel, the same walk he'd
 not made since the morning a man with his brother's whole life in his
 hands had sat one stool over and asked him to look at a postcard. The
-motel stairs crested like every motel stairs Jack had climbed in thirty-one
+motel stairs crested the way they'd crested a thousand times in thirty-one
 years, carrying versions of this same news to versions of this same room.
 
 He stood at Michael Voss's door a long moment, the way you stand at a door

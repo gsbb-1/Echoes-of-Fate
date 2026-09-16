@@ -117,12 +117,32 @@ for the full state of the project.
       father's watch set down in Ch. 25/26; pocket watch engraving
       "To Daniel. The road is long. — M." recovering in Ch. 24; glint
       resolving in Ch. 24 and painted deliberately in Ch. 26).
-- [ ] Prose read-through of all 26 chapters for first-draft clunk
-      (repetition, over-long sentences, register slips). Fixed so far:
-      "had had" → "had kept" (Ch. 21).
+- [x] Prose read-through of all 26 chapters for first-draft clunk (six
+      parallel review passes, 2026-09-16; fixes applied, not committed yet).
+      Real fixes: Ch. 6 "one breathe"→"one breath"; Ch. 23 "owns and
+      exits"→"openings and exits", wall metaphor unknotted; Ch. 24
+      "fifteen years ago"→"eighteen", "his boy's face on a wall" reworked,
+      engraving is **seven** words not nine (Ch. 24/25/outline); Ch. 21
+      photo timeline ("that summer", not "the summer after"), "eighteen
+      years of witness statements", "stood very still" duplication, closing
+      button relabeled "Michael & Olivia" in outline; Ch. 20 photo-order
+      comment ("second"→"first"), "remains…they did", "coppers" anachronism;
+      duplication/repetition thinning in Chs. 1/2/5/9/10/11/12/15/16/17/18/
+      19/20/22/26 ("the whole of it", "for eighteen months", "ordinary",
+      "flat, even", "very quiet/still", "cold, fast thing", "in pieces he
+      decided the weight of", "the finished thing", "the cataloguing look",
+      "bottom drawer" x2, "mis-read" triple, "actual thing" x2, "never once
+      mentioned" x2); Ch. 11 POV scene breaks added; Ch. 26 closing sweep
+      reworked to include Emma and drop the doubled Sarah beat; Ch. 17
+      "painting it his whole life" literal-impossibility fixed. Deliberately
+      left: Ch. 4 "told her nothing" (pre-reveal, correct), Ch. 7 "not by a
+      long way", Ch. 9 "stung more than it used to", and "the whole of" as a
+      book-wide motif. Tests 23/23 passing.
 - [ ] Word-count smoothing — the true outliers are Ch. 3 (~800 words) and
       Ch. 4 (~1,150) vs the ~1,900-2,200 band; Ch. 26 runs light (~1,700).
-      Decide whether to expand Ch. 3-4 or accept a shorter opening pair.
+      Decision (2026-09-16): expand Ch. 3-4, the opening pair, in the
+      established voice, folding in their flagged local notes (Ch. 3
+      "for exactly" x2; Ch. 4 "soft at the edges" self-echo).
 
 ## Publishing (`docs/`)
 

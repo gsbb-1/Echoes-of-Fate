@@ -1,7 +1,7 @@
 # Chapter 20: Liam's Reckoning
 
 The first thing the remains did was make the old case real, and the second
-thing it did was give Liam Marsh a reason to be late for the archive,
+thing they did was give Liam Marsh a reason to be late for the archive,
 which was fine because the archive had stopped being a sentence from a
 judge somewhere in the spring and had become the one place in town his
 name was attached to something nobody was laughing at. He came in with his
@@ -68,7 +68,7 @@ He watched it collect — that was the thing, the small new thing he'd
 lately started letting himself feel: it collected. A comment from someone
 he didn't know, then a share, then the exhibit page's little counter
 moving like a heartbeat. He'd been whoever-volunteers-were in this town
-for a year, and here was his actual thing, his finding, his name on the
+for a year, and here was his actual find, his name on the
 society's page, attached to the story the whole county was telling this
 morning about the ground out at the orchard. He let himself have the
 small heat of that for a moment, the way you let yourself have the first
@@ -76,7 +76,7 @@ thirty seconds of any good thing before you learn what it costs.
 
 The account did the thing accounts do: nothing, for a minute, and then
 the first comment in a voice he didn't know, *your mom?? the girl in the
-second photo*, and then a share, and then a second comment from a name he
+first photo*, and then a share, and then a second comment from a name he
 did recognize, an old man who'd been a fireman here, saying *never knew
 the Voss boy had a girl in town* — and Liam's hand went still on the
 mouse, because that was the first time anyone had said the name into his
@@ -132,11 +132,11 @@ in the workroom, on the society's page, with the comments stacking up
 under the photo of her smile.
 
 She was going to see it. Not today, maybe not tomorrow — his mother
-didn't spend her coppers on the society's page — but it would reach her
+didn't spend her time on the society's page — but it would reach her
 the way everything in this town reached her, through the register,
 through Ruth's voice, through a customer who remembered a face. And she'd
 find out, from the town, that her son had laid her old picture down next
-to the only man she'd never once mentioned, and she'd have to decide, in
+to the only man she never spoke of, and she'd have to decide, in
 public, what to do with the state of him having done it.
 
 He reached for the keyboard to take it down, and his hand stopped, because

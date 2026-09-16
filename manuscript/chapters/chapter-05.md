@@ -170,9 +170,9 @@ and felt the mechanism seat the way it had seated four hundred nights
 before. Out past the edge of town the equipment was staged on the ground
 the report had flagged, waiting for first light. She washed her hands in
 the half-bath off the study — her father's soap, lavender, he'd never let
-anyone change it — and caught hold of the watch on her wrist without
-meaning to, the face still keeping the time he'd set it to the last morning
-he'd wound it. Tomorrow she would stand at the edge of that ground as its
+anyone change it — and caught hold of the watch on her wrist, the one
+that still kept her father's time, the last morning he'd wound it.
+Tomorrow she would stand at the edge of that ground as its
 president, exactly as the board expected, and give a short speech she had
 already written twice, and nothing about the morning would require a
 decision from her, which was, she understood, standing in the dark with the

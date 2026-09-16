@@ -9,9 +9,10 @@ does once it's been told in the open. Men at the diner said Olivia
 Marsh's name the way you say a name you've been carrying wrong for a long
 time: gently, now that they had the right one. Ruth watched the counter
 do what counters always did. The society's tent stood at the head of the
-square with the two photographs in their frames and the corrected crowd
-in front of them, and the story the town had carried for eighteen years
-lay down at last under the weight of the truth that had replaced it.
+square with the two photographs in their frames and the corrected
+captions beneath them, and the story the town had carried for eighteen
+years lay down at last under the weight of the truth that had replaced
+it.
 
 ---
 
@@ -36,9 +37,9 @@ He had carried that box longer than some of the men who'd searched. He
 had taken it down at intervals over eighteen years the way other men went
 to church, and every strand of the web it held had answered to itself at
 last — the accident, the cover-up, the girl, the folder, the boy with the
-postcard — and standing there with the lid he felt what a man feels at
-the end of a held breath, which was the ordinary weight of the air coming
-back in.
+postcard — and standing there with the lid he felt the relief at the
+end of a held breath — not a flood, just the ordinary weight of the air
+coming back in.
 
 He sealed it, and carried it out into the good October cold, and put it
 low on the shelf where the winter coats would stand in front of it, and
@@ -76,7 +77,7 @@ call," and that had been the whole earthquake.
 She took off her father's watch. She'd meant to take it off a dozen
 times over the years, and taking it off had always felt like a decision
 she wasn't ready to make; and now she made it, and set it down on the
-corner of the desk where she could see it, not wore it. The watch kept
+corner of the desk where she could see it, not wear it. The watch kept
 her father's time. She was going to keep her own.
 
 ---
@@ -117,7 +118,8 @@ afternoon with the two watches in front of him on the wood: the cheap
 digital one, cracked face frozen at 4:47, that he'd worn since the day
 they told him Danny was gone — his brother's, found in his room — and
 the pocket watch Jack had walked out of the tent to give him the day
-before, the engraved one, the nine words to Daniel in his own hand, come
+before, the engraved one, the seven words to Daniel in his own hand,
+come
 up out of a pond after eighteen years. Both of his brother's. Both of
 him, in two kinds of time.
 
@@ -129,7 +131,7 @@ had given him his brother back the way the town gives things back —
 slowly, completely, with all the days in between.
 
 He picked up the pocket watch and turned it over, and read the inscription
-he'd had cut when he was nineteen, nine words chosen in a strip-mall shop
+he'd had cut when he was nineteen, seven words chosen in a strip-mall shop
 for a brother who'd claimed he was going to be gone only a season. The
 road had turned out to be the long kind. And Michael had spent eighteen
 years treating every town he passed through as temporary because he'd
@@ -173,7 +175,7 @@ The misread shape of it — eighteen years of believing she'd watched a
 man killed, and the man who'd actually been there small and unspooling
 under a report's warning of unsound ground.
 
-And then the relief of the truth, told out loud in the open air, to the
+And then she told the truth out loud in the open air, to the
 only person she'd ever really needed to have it.
 
 "Everything I did was for you," she said, and said it without the

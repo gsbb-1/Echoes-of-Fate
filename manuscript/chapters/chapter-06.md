@@ -65,7 +65,7 @@ this week. This man was tidy. There's no other record in the whole parcel
 file that just stops. It's going to bother me."
 
 The true sentence was standing behind her teeth, one word off, three words
-off, the sentence that would have explained the entire file in one breathe,
+off, the sentence that would have explained the entire file in one breath,
 and she could feel herself not saying it the way you feel yourself holding
 a door against weather: *He didn't leave, Priya. He was paid —* The county
 commissioner called her name across the gravel, wanting her in the frame of
@@ -104,7 +104,7 @@ it because the board expected her hands on it, and the photographer aimed,
 and the commissioner said the future of the county a second time, and
 dirt — clean, dry, ordinary dirt — fell in a small and satisfactory arc,
 and everyone applauded, and it was done. She took one step back and
-watched her own hands be empty, a clean feeling with nothing in it, and
+watched her own hands go empty, a clean feeling with nothing in it, and
 thought, briefly, that the morning had gone exactly as scheduled, which
 someone would never know and everyone had just assumed.
 

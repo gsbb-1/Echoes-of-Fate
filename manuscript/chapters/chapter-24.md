@@ -33,8 +33,9 @@ edge of the canvas wall with the frozen watch on his wrist, and Liam
 stood at his mother's elbow with his hands flat and his whole face a
 boy's face holding its breath.
 
-Olivia told it flat, even, no wasted word, the way you recount a thing
-you've recited so long it has worn its own groove. "I was seventeen. I'd arranged to meet Daniel
+Olivia told it plain, even, no wasted word, the way you recount a thing
+you've recited so long it has worn its own groove. "I was seventeen. I'd
+arranged to meet Daniel
 at the orchard that night — nobody knew about us, it was the kind of
 thing a girl told nobody about — and I came late from the diner, and I
 came in off the county road by the tree line, and I saw." She stopped,
@@ -61,8 +62,8 @@ testimony. I watched a man die, and I've withheld the witnessing of it
 my whole adult life, and I'll answer for that however this town wants
 to answer for it."
 
-The tent was very quiet. The festival had, itself, gone quiet around
-her, the way a crowd goes quiet when it understands it is hearing
+The tent was quiet. The festival had, itself, gone still around
+her, the way a crowd stills when it understands it is hearing
 history. Mrs. Okafor stood at the accession table with her hands still.
 Emma Hale, come through the canvas at the mouth, stood at the far edge
 with her arms at her sides and the color gone from her face, because
@@ -114,7 +115,7 @@ of fear for something this town has finally, today, — " he let the
 weight of the word sit a moment — "found out wasn't true."
 
 Olivia Marsh stood behind the folding table with her hands flat on the
-wood, and the flat, even composure of her whole life did the thing
+wood, and the plain, level composure of her whole life did the thing
 composure does at the end of a very long road: it went out of her, in a
 single held breath, the way breath goes out before grief. She looked
 from the folder to Jack to her son's white face, and the shape she had
@@ -129,11 +130,11 @@ since.
 "It was Colby," she said, and the words didn't sound like relief, they
 sounded like a woman reading a sentence she had never been allowed to
 see. "It was Colby and the ground gave way. I could have told them that
-fifteen years ago. I could have told this town the one thing it needed
+eighteen years ago. I could have told this town the one thing it needed
 to hear and set a dead man's name free of what I'd put on it." Her hands
 were shaking on the wood. "I've been the one thing between Warren Hale
-and his boy's face on a wall all along, and the thing I was holding was
-a fear I built myself."
+and a dead man's face on this town's wall all along, and the thing I was
+holding was a fear I built myself."
 
 "You were seventeen," Jack said, gently. "And you were scared, and you
 had every right to be, and the man you were scared of was already the
@@ -185,7 +186,8 @@ the one he was going to be home for Thanksgiving, the one that was
 going to be the season that finally came together for him — and Michael
 had saved for months off his own short-haul checks to have the old
 watch engraved at the shop in the strip mall, the way you buy a man the
-one thing he'll never buy himself. Nine words. He'd chosen them himself,
+one thing he'll never buy himself. Seven words. He'd chosen them
+himself,
 standing in the shop, trying to find the sentence that could hold a
 brother of the whole of a long road.
 
@@ -196,16 +198,15 @@ this canvas looking for the last thing his brother had touched — came
 level, at last, with the watch in his hands.
 
 His brother's pocket watch. Lost with him in the pond, buried with him
-in the bank, and put back on a canvas by a girl in a town who had
+in the bank — and put back on a canvas by a girl in a town who had
 painted the whole of eighteen years out of a memory she didn't trust,
-and who had hung it on a wall across from where the man who lost it
-would come looking for it with his hands full of the broken watch of
-their childhood.
+hung across from where the man who lost it would come looking, his hands
+full of the broken watch of their childhood.
 
 Michael stood there a long while, holding the last of his brother, with
 the tent's light coming down on the glint that had finally — after the
 long way around every town he'd ever passed through — resolved into
-what it had always been. Not a secret. Not a door. A brother's nine
+what it had always been. Not a secret. Not a door. A brother's seven
 words, waiting on him in the water all this time.
 
 Sarah came across the tent and stood beside him the way she stood

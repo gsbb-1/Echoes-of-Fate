@@ -102,7 +102,7 @@ Emma heard the true sentence stand up behind her teeth the way it had
 stood up once before, at the edge of a shovel in fresh-turned dirt: *He
 didn't leave, Detective. He was paid —* and she caught it, the way she'd
 caught it that morning and a hundred morning-engineered versions of it
-since, by letting the machinery of herself run a literal, true answer
+since, by letting the machinery of herself run a flat, true answer
 through the perfectly smooth other door. "I wasn't running the company
 then," she said. "I can't tell you what my father ordered or didn't order
 out of an office I was not allowed into. What I can tell you is what the

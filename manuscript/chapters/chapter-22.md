@@ -68,9 +68,9 @@ man they're finding at the pond, and you signed your name to it."
 there. "I know, Mom. I'm sorry. I didn't know what it was until I knew,
 and then it was out."
 
-The kitchen clock did its tick. The bus schedule on the fridge did its
-thing. And Liam looked up at her with the particular look of a boy who
-had just discovered his mother was a person before him, and asked the
+The kitchen clock did its tick. The bus schedule on the fridge held its
+place. And Liam looked up at her with the particular look of a boy who'd
+just caught his mother from a different angle, and asked the
 question she'd been hearing in the dark for eighteen years from her own
 side of the wall, and hearing now from his: "Did you know him?"
 
@@ -135,16 +135,16 @@ that I don't know what to do with."
 
 Olivia's hands went still on the wainscoting. It was a small stillness, a
 half a breath, the old tell retired often and never fully, and Emma
-caught it from the corner of her eye and mis-read it the way every
-mis-reading in that room had ever been misread, as the awkwardness of an
+caught it from the corner of her eye and mis-read it, the way she'd
+mis-read Olivia all month: as the awkwardness of an
 employee being told a boss's private history in a building after hours.
 "— sorry," Emma said, and came back to herself, the composed woman
 reassembling in the good light. "That's a lot to lay on a Tuesday
 cleaning. I should let you work."
 
 "It's a Tuesday night," Olivia said, and the flatness of her own voice
-surprised her, the way her flatness always surprised her when it did the
-telling. "You stay as long as you need. The floor doesn't care."
+surprised her, the way it always did when the flatness was carrying a
+true weight. "You stay as long as you need. The floor doesn't care."
 
 They worked the rest of the room around each other in the quiet — Emma
 sitting at the desk with her hands flat, and Olivia doing the far glass

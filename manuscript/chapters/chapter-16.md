@@ -47,7 +47,7 @@ asking was how you found out.
 you know about him?" Her son, a month ago, at the kitchen table, offhand,
 the way he said most things, two strings of the guitar and his whole
 attention on his phone — and the inside of her chest had done a cold,
-fast thing, and she'd answered, "This town's lost a lot of people, kid,"
+wrong thing, and she'd answered, "This town's lost a lot of people, kid,"
 and had gone on with the soup, which was the version of not-looking that
 lived in the house.
 
@@ -58,11 +58,11 @@ her son in the middle of the archive with a scanner and a notebook, and
 the ground underneath the talk doing what the ground did.
 
 She filled the last order of the shift and hung up her apron, and the
-feeling that came with the walk home was the one she knew best: not sawed
-through, not old — just the thing the day did when the day was about to
+feeling that came with the walk home was the one she knew best: not sharp,
+just the thing the day did when the day was about to
 be Tuesday or Thursday, the bus out to the Hale building, the offices, the
 night. She'd take the bus, she told herself, and she did, and the night
-went the way the night went: the ground floor, the second, the corner
+went the way the days went now: the ground floor, the second, the corner
 office with the desk she dusted around and the credenza she didn't open,
 the rooms gone silent and humming in the empty-building way.
 
@@ -124,7 +124,7 @@ and her legs carrying her fast through the dark, not looking back — the
 not-looking that had kept her breathing for eighteen years.
 
 She stood at the fence and she did not go under it. She stood a long time,
-long enough for the staging lights to go from a held breath to just
+long enough for the staging lights to go from strange to just
 lights, and she made herself name it, the way you name the thing you're
 about to set down so you don't pick it back up: if she went in now, if the
 dirt gave up what she'd believed for eighteen years was under it, that was

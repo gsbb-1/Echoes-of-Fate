@@ -17,11 +17,11 @@ all month.
 Michael Voss came to the festival grounds the evening before, with the
 stalls going up in the cold and the light going out of the valley, and
 walked the length of the square the way he walked every new ground —
-cataloguing it, owns and exits — and stood a long while where the past
+cataloguing it, openings and exits — and stood a long while where the past
 eighteen years had arranged to meet him. At the far end of the square
-the society's tent stood over the archive accessions, and not yet
-printed, in wide dark lines, were the two photographs of the town's
-oldest story. He already knew them by heart. He'd had a month of them.
+the society's tent stood over the archive accessions, the two
+photographs of the town's oldest story set to go up on the wall. He
+already knew them by heart. He'd had a month of them.
 His brother at the corner of a stranger's kept photograph; his brother's
 summer field; the girl he'd stood three yards from, whose name Michael
 had said aloud to her in a diner and watched it settle into a flat no he
@@ -32,7 +32,7 @@ he was walking himself into, and stood beside him with her arms full of
 nothing and her silence keeping space for his. After a while he said,
 "This town's about to put him on a wall."
 
-"That's what festivals are for." She said it gently, quietly, mean for
+"That's what festivals are for." She said it gently, quietly, meant for
 him only. "All the town wants at once in one place. The tent'll do
 double duty — archive accessions one side, and they borrowed the
 painting for the loan corner."
@@ -199,15 +199,14 @@ tent. Sarah, at the edge of the square, saw Liam's face go red and his
 hands do the thing his hands did when he was the center of a room he
 hadn't built; saw the investigator notepaper come out; saw the questions
 go in — whose account, the caption, *your mom* — and knew, with a
-coldness she'd learn the source of only later, that the boy's own
+coldness she couldn't yet name, that the boy's own
 discovery had put his mother's name in the county man's book.
 
 At the tent's far edge, Olivia Marsh watched her son answer for her
 photograph in view of the whole valley, and the wall she'd built as a
 scared seventeen-year-old, and held for eighteen years against every
 pull of it — three interviews, a flat counter, the man who'd asked her
-to look at his brother — stood up straight inside her and came down all
-at once.
+to look at his brother — came down inside her all at once.
 
 "Don't," she said, and it came out too loud over the festival noise,
 and Liam turned, and the investigator turned, and half the tent turned,
