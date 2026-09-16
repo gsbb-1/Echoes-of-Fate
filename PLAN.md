@@ -48,7 +48,7 @@ planning/design work is done and the project is ready for chapter drafting:
 - **Automated checks:** `tests/test_manuscript.py` (23 checks) validates
   outline structure, character-file consistency, plot-map/character-file
   name consistency, and repo text encoding. All passing.
-- **Prose:** Chapters 1-14 drafted. Chs. 1-2 (the old ~470-word montage
+- **Prose:** Chapters 1-16 drafted. Chs. 1-2 (the old ~470-word montage
   rewritten as six real scenes); Chs. 3-4 (Sarah and Michael's first
   meeting); Chs. 5-6 (Emma: the ledger reconciliation and the groundbreaking
   near-tell — timeline fixed so the groundbreaking is week one and Ch. 18's
@@ -60,10 +60,14 @@ planning/design work is done and the project is ready for chapter drafting:
   name-and-mission concealed); Chs. 13-14 (Digging Deeper — unpermitted
   regrade confirmed and the Colby red herring planted, with the
   confrontation deferred to ~Ch. 19; What the File Says — Jack's questions
-  reach the company and the never-opened 2008 ledger is the one near-miss).
-  Parts II (Character Development) and the opening of Part III (Rising
-  Action) are done. 12 chapters remain undrafted. This is the critical
-  path — everything upstream of it is done.
+  reach the company and the never-opened 2008 ledger is the one near-miss);
+  Chs. 15-16 (Closer — the Voss leak lands in parts and becomes theirs,
+  with the painted-ground identification held back for Ch. 17; The Line
+  Olivia Won't Cross — the grading schedule reaches the pond notch "week
+  of," Olivia stands at the fence and does not cross). Parts II (Character
+  Development) and most of Part III (Rising Action) are done. 10 chapters
+  remain undrafted. This is the critical path — everything upstream of it
+  is done.
 
 ## Working loop
 
@@ -77,14 +81,15 @@ the relevant `characters/*.md` file, and "test" means both
 
 ## Next steps (in order)
 
-1. Draft Chapters 15-16 — "Closer" (Sarah & Michael: their relationship
-   deepens; Michael's real reason for being in town starts to leak) and
-   "The Line Olivia Won't Cross" (Olivia: site work advances toward the
-   old pond section; she's pushed toward the choice she's avoided).
-   Continue Part III's rise toward Ch. 17-18 (Sarah's reveal; the remains
-   discovery). Keep the reveal discipline: no folder contents to anyone,
-   no Olivia interpretation, remains unrecovered until Ch. 18, Colby
-   confrontation deferred to ~Ch. 19.
+1. Draft Chapters 17-18 — "What Sarah Finds Out" (Sarah learns what her
+   recurring painted image actually is — a real place her own family sold
+   away; the painting-as-Michael's-brother's-ground identification can
+   land here via his reaction to the hung piece) and "The Weight of It"
+   (Emma & Jack — grading equipment turns up remains at the site; the
+   midpoint escalation and official reopening). This pair pays the Ch.
+   12/15 plants. Keep the reveal discipline: no folder contents to
+   anyone, no Olivia interpretation, Colby confrontation deferred to
+   ~Ch. 19.
 2. Continue chapter-by-chapter per `manuscript/outline.md`, in roughly
    outline order, running `tests/test_manuscript.py` and committing after
    each pass (or small batch of chapters).

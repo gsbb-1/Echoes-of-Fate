@@ -7,17 +7,21 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status: 14 of 26 chapters drafted as of 2026-09-16.** Chapters 13-14
-drafted and committed: "Digging Deeper" (Jack — county records confirm the
-north-bank regrade was never permitted and foreman Hank Colby has no county
-footprint after 2008; asking around unsettles the town; the town line names
-Colby's overnight departure; Jack learns Colby retired back into the valley
-and settles on confronting him) and "What the File Says" (Emma — Jack's
-pointed questions reach the company in person; she shows the safe binder
-layer, holds everything that points at her father, and keeps the 2008
-ledger as the one near-miss; she resolves to move the folder herself before
-it's found). Part III (Rising Action) opened. Working tree clean, all tests
-passing. Chapter drafting remains a steady loop: scene plan
+**Status: 16 of 26 chapters drafted as of 2026-09-16.** Chapters 15-16
+drafted and committed: "Closer" (Sarah & Michael — she finishes the wall
+piece at the gate; the leak lands in parts: Danny, twenty-two, vanished in
+this town, and the surname Voss hangs in the air until she hears it the way
+the town hears it; she keeps his secret and it becomes theirs; short Michael
+coda: he recognizes his brother's ground in the finished canvas and holds
+it back, the pale glint unresolved) and "The Line Olivia Won't Cross"
+(Olivia — crews staged for the pond notch "week of"; the society's
+anniversary exhibit opens at the festival; the site-map week number drops
+into her head on her cleaning shift; she stands at the parcel fence in the
+dark, the fragment strictly sensate, and does not cross; home, she almost
+asks Liam what he's finding and doesn't). Part III (Rising Action)
+continues; the grading stays staged short of the old bank so Ch. 18's
+remains discovery is intact. Working tree clean, all tests passing.
+Chapter drafting remains a steady loop: scene plan
 (`scenes/chapter-NN.md`) → draft (`manuscript/chapters/chapter-NN.md`) →
 `tests/test_manuscript.py` → update `TODO.md` → commit — repeat per
 `AGENTS.md`.
@@ -30,14 +34,16 @@ confession" (`scenes/plot-map.md`) — still needs a home. Proposed: Ch. 19
 "Webs," after Ch. 18's remains discovery. Confirm against the outline when
 that pass is reached.
 
-**Next task to pick up:** Chapters 15-16 — "Closer" (Sarah & Michael:
-their relationship deepens; Michael's real reason for being in town starts
-to leak through) and "The Line Olivia Won't Cross" (Olivia: site work
-advances toward the old pond section and she's pushed toward the choice
-she's avoided for eighteen years). Keep the reveal discipline per
-`research/mystery-plotting.md`: no folder contents to anyone, no Olivia
-interpretation, remains unrecovered until Ch. 18, Colby confrontation
-deferred to ~Ch. 19. See `manuscript/outline.md` and `scenes/plot-map.md`.
+**Next task to pick up:** Chapters 17-18 — "What Sarah Finds Out" (Sarah
+learns what her recurring painted image actually is — a real place her own
+family sold away; the painting's ground-identification with Michael's
+brother can land here via his reaction to the hung piece) and "The Weight
+of It" (Emma & Jack — grading equipment turns up remains at the site; Emma
+confronted by consequence, Jack by an official reopening). This pair pays
+the Ch. 12/15 plants and delivers the midpoint escalation. Keep the reveal
+discipline per `research/mystery-plotting.md`: no folder contents to
+anyone, no Olivia interpretation, Colby confrontation deferred to ~Ch. 19.
+See `manuscript/outline.md` and `scenes/plot-map.md`.
 
 ## History
 
@@ -79,3 +85,10 @@ deferred to ~Ch. 19. See `manuscript/outline.md` and `scenes/plot-map.md`.
   deferred to ~Ch. 19; What the File Says — Jack's questions reach the
   company, the ledger stays the one near-miss). Part III (Rising Action)
   opened. Working tree clean, all tests passing.
+- 2026-09-16 — Drafted Chapters 15-16 (Closer — the Voss leak lands in
+  parts and becomes theirs; the finished canvas shows Michael his
+  brother's ground and the unresolved glint; The Line Olivia Won't Cross —
+  the grading schedule reaches the pond notch "week of," Olivia stands at
+  the fence and does not cross, the near-ask with Liam stays unasked).
+  Removed a stale duplicate Ch. 11-14 block from TODO. Working tree clean,
+  all tests passing.
