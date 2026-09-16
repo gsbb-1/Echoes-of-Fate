@@ -48,7 +48,7 @@ planning/design work is done and the project is ready for chapter drafting:
 - **Automated checks:** `tests/test_manuscript.py` (23 checks) validates
   outline structure, character-file consistency, plot-map/character-file
   name consistency, and repo text encoding. All passing.
-- **Prose:** Chapters 1-16 drafted. Chs. 1-2 (the old ~470-word montage
+- **Prose:** Chapters 1-18 drafted. Chs. 1-2 (the old ~470-word montage
   rewritten as six real scenes); Chs. 3-4 (Sarah and Michael's first
   meeting); Chs. 5-6 (Emma: the ledger reconciliation and the groundbreaking
   near-tell — timeline fixed so the groundbreaking is week one and Ch. 18's
@@ -62,12 +62,15 @@ planning/design work is done and the project is ready for chapter drafting:
   confrontation deferred to ~Ch. 19; What the File Says — Jack's questions
   reach the company and the never-opened 2008 ledger is the one near-miss);
   Chs. 15-16 (Closer — the Voss leak lands in parts and becomes theirs,
-  with the painted-ground identification held back for Ch. 17; The Line
-  Olivia Won't Cross — the grading schedule reaches the pond notch "week
-  of," Olivia stands at the fence and does not cross). Parts II (Character
-  Development) and most of Part III (Rising Action) are done. 10 chapters
-  remain undrafted. This is the critical path — everything upstream of it
-  is done.
+  with the painted-ground identification held back; The Line Olivia Won't
+  Cross — the grading schedule reaches the pond notch "week of," Olivia
+  stands at the fence and does not cross); Chs. 17-18 (What Sarah Finds
+  Out — the identification lands, the fragment is said aloud, and the
+  Hollis sale is opened at last; The Weight of It — the midpoint
+  escalation: remains in the old bank, Emma holds the folder, Jack's case
+  reopens and he takes the news to the motel). Parts II-III and the
+  midpoint of the mystery are complete. 8 chapters remain undrafted. This
+  is the critical path — everything upstream of it is done.
 
 ## Working loop
 
@@ -81,15 +84,16 @@ the relevant `characters/*.md` file, and "test" means both
 
 ## Next steps (in order)
 
-1. Draft Chapters 17-18 — "What Sarah Finds Out" (Sarah learns what her
-   recurring painted image actually is — a real place her own family sold
-   away; the painting-as-Michael's-brother's-ground identification can
-   land here via his reaction to the hung piece) and "The Weight of It"
-   (Emma & Jack — grading equipment turns up remains at the site; the
-   midpoint escalation and official reopening). This pair pays the Ch.
-   12/15 plants. Keep the reveal discipline: no folder contents to
-   anyone, no Olivia interpretation, Colby confrontation deferred to
-   ~Ch. 19.
+1. Draft Chapters 19-20 — "Webs" (Ensemble — now that the remains are
+   found, the six threads start to show their connections; write the Colby
+   confrontation/admission here so it sets the accident-and-cover-up shape
+   ahead of Emma's folder or Olivia's confession) and "Liam's Reckoning"
+   (Liam — not grasping what he has, he posts the archive photo beside his
+   mother's family photo; it reaches Michael within a day). This pair
+   opens Part IV (Midpoint Revelations) and forces the pieces to move.
+   Keep the reveal discipline: no folder contents to anyone, no Olivia
+   interpretation, Emma's folder still at home, Olivia's account still
+   unspoken.
 2. Continue chapter-by-chapter per `manuscript/outline.md`, in roughly
    outline order, running `tests/test_manuscript.py` and committing after
    each pass (or small batch of chapters).

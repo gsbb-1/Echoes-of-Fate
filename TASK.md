@@ -7,43 +7,42 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status: 16 of 26 chapters drafted as of 2026-09-16.** Chapters 15-16
-drafted and committed: "Closer" (Sarah & Michael — she finishes the wall
-piece at the gate; the leak lands in parts: Danny, twenty-two, vanished in
-this town, and the surname Voss hangs in the air until she hears it the way
-the town hears it; she keeps his secret and it becomes theirs; short Michael
-coda: he recognizes his brother's ground in the finished canvas and holds
-it back, the pale glint unresolved) and "The Line Olivia Won't Cross"
-(Olivia — crews staged for the pond notch "week of"; the society's
-anniversary exhibit opens at the festival; the site-map week number drops
-into her head on her cleaning shift; she stands at the parcel fence in the
-dark, the fragment strictly sensate, and does not cross; home, she almost
-asks Liam what he's finding and doesn't). Part III (Rising Action)
-continues; the grading stays staged short of the old bank so Ch. 18's
-remains discovery is intact. Working tree clean, all tests passing.
-Chapter drafting remains a steady loop: scene plan
+**Status: 18 of 26 chapters drafted as of 2026-09-16.** Chapters 17-18
+drafted and committed: "What Sarah Finds Out" (Sarah — the identification
+lands: she's been painting where Danny disappeared; the fragment is said
+aloud; the mother confrontation opens the Hollis sale at last; she carries
+the weight and goes to give Michael his ground with her family's name on
+it) and "The Weight of It" (Emma & Jack — the midpoint escalation: the
+dozer's blade finds bones in the old bank; Emma stalls at her own tape
+line and goes home unable to move the folder; Jack's case leaves his hands
+as the county reopens it, an engraved pocket watch logged in evidence, and
+he walks to the motel to tell Michael before the town can). Parts II-III
+complete; the midpoint of the mystery is reached as planned — the grading
+stay short of the old bank until now per plot-map. Working tree clean, all
+tests passing. Chapter drafting remains a steady loop: scene plan
 (`scenes/chapter-NN.md`) → draft (`manuscript/chapters/chapter-NN.md`) →
 `tests/test_manuscript.py` → update `TODO.md` → commit — repeat per
 `AGENTS.md`.
 
-**Open placement decision:** the Colby red herring is PLANTED in Ch. 13 but
+**Open placement decision:** the Colby red herring is PLANTED in Ch. 13;
 its resolution — Jack or Michael confronting Colby, who admits panic, the
 call to Hale, and silence bought with severance, giving Jack and Michael
 the accident-and-cover-up shape "ahead of Emma's folder or Olivia's
-confession" (`scenes/plot-map.md`) — still needs a home. Proposed: Ch. 19
-"Webs," after Ch. 18's remains discovery. Confirm against the outline when
-that pass is reached.
+confession" (`scenes/plot-map.md`) — is proposed for Ch. 19 "Webs," right
+after Ch. 18's remains discovery. Confirm against the outline now that
+Ch. 18 has landed; Ch. 19 must set the accident shape (via Colby's
+admission to Jack/Michael) without yet confirming how or by whom, and
+without Emma's folder or Olivia's account moving.
 
-**Next task to pick up:** Chapters 17-18 — "What Sarah Finds Out" (Sarah
-learns what her recurring painted image actually is — a real place her own
-family sold away; the painting's ground-identification with Michael's
-brother can land here via his reaction to the hung piece) and "The Weight
-of It" (Emma & Jack — grading equipment turns up remains at the site; Emma
-confronted by consequence, Jack by an official reopening). This pair pays
-the Ch. 12/15 plants and delivers the midpoint escalation. Keep the reveal
-discipline per `research/mystery-plotting.md`: no folder contents to
-anyone, no Olivia interpretation, Colby confrontation deferred to ~Ch. 19.
-See `manuscript/outline.md` and `scenes/plot-map.md`.
+**Next task to pick up:** Chapters 19-20 — "Webs" (Ensemble — the reader,
+and the characters partially, can now see how all six threads connect;
+Daniel is dead but not yet how or by whom; schedule and write the Colby
+confrontation/admission here) and "Liam's Reckoning" (Liam — not grasping
+what he actually has, he posts the archive photo beside his mother's
+family photo; it reaches Michael within a day). Keep the reveal discipline
+per `research/mystery-plotting.md`: no folder contents to anyone, no
+Olivia interpretation, Emma's folder still at home, Olivia's account still
+unspoken. See `manuscript/outline.md` and `scenes/plot-map.md`.
 
 ## History
 
@@ -92,3 +91,10 @@ See `manuscript/outline.md` and `scenes/plot-map.md`.
   the fence and does not cross, the near-ask with Liam stays unasked).
   Removed a stale duplicate Ch. 11-14 block from TODO. Working tree clean,
   all tests passing.
+- 2026-09-16 — Drafted Chapters 17-18 (What Sarah Finds Out — the
+  identification lands via the café hung piece, the fragment is said
+  aloud, and the mother confrontation opens the Hollis sale at last;
+  The Weight of It — the midpoint escalation, remains in the old bank,
+  Emma stalls at her own tape line holding the folder, Jack's case
+  reopens and he takes the news to the motel). Midpoint reached.
+  Working tree clean, all tests passing.

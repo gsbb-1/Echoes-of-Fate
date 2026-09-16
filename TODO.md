@@ -8,7 +8,7 @@ what's actively being worked on right now.
 Goal: expand from the original 13-chapter/~50-page draft to **26
 chapters, ~200 pages** (see `manuscript/outline.md`).
 
-**16 of 26 chapters drafted (Ch. 1-16) as of 2026-09-16.** All
+**18 of 26 chapters drafted (Ch. 1-18) as of 2026-09-16.** All
 planning/design infrastructure below is done; only the "Writing" section
 has open items. See `TASK.md` for the exact resume point and `PLAN.md`
 for the full state of the project.
@@ -82,8 +82,8 @@ for the full state of the project.
 - [x] Ch. 14 — "What the File Says" (Emma: Jack's questions reach the company; the ledger stays the one near-miss)
 - [x] Ch. 15 — "Closer" (Sarah & Michael: the Voss leak; the pact; the painted ground deferred to Ch. 17)
 - [x] Ch. 16 — "The Line Olivia Won't Cross" (Olivia: site work staged to the pond notch; she stands at the line and does not cross)
-- [ ] Ch. 17 — "What Sarah Finds Out"
-- [ ] Ch. 18 — "The Weight of It"
+- [x] Ch. 17 — "What Sarah Finds Out" (Sarah: painting = Hollis ground sold to Hale the same autumn; the cabin fragment settles as a leaving)
+- [x] Ch. 18 — "The Weight of It" (Emma & Jack: remains found in the old bank; Emma holds the folder, Jack reopens the case)
 - [ ] Ch. 19 — "Webs"
 - [ ] Ch. 20 — "Liam's Reckoning"
 - [ ] Ch. 21 — "Alliances"
