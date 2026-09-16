@@ -11,8 +11,10 @@ current chapter-by-chapter structure.
 ## Where the project stands
 
 The book was seeded through ChatGPT brainstorming sessions (archived in
-`archive/chatgpt-sessions/`), not written directly. As of this review, all
-planning/design work is done and the project is ready for chapter drafting:
+`archive/chatgpt-sessions/`), not written directly. As of this review, the
+plotting, planning, and first draft are complete (26 chapters) and the
+project is in revision/publishing; the working loop below applies to
+revision passes and docs/routing upkeep:
 
 - **Outline:** expanded to 26 chapters across the original 6-part thematic
   shape (Introduction → Character Development → Rising Action → Midpoint
@@ -48,7 +50,7 @@ planning/design work is done and the project is ready for chapter drafting:
 - **Automated checks:** `tests/test_manuscript.py` (23 checks) validates
   outline structure, character-file consistency, plot-map/character-file
   name consistency, and repo text encoding. All passing.
-- **Prose:** Chapters 1-18 drafted. Chs. 1-2 (the old ~470-word montage
+- **Prose:** Chapters 1-26 drafted. Chs. 1-2 (the old ~470-word montage
   rewritten as six real scenes); Chs. 3-4 (Sarah and Michael's first
   meeting); Chs. 5-6 (Emma: the ledger reconciliation and the groundbreaking
   near-tell — timeline fixed so the groundbreaking is week one and Ch. 18's
@@ -89,9 +91,26 @@ planning/design work is done and the project is ready for chapter drafting:
   her confession set against the folder and Colby's account reveals the
   accident to everyone at once, and the pocket watch recovered with
   Daniel's remains brings the pale glint in Sarah's painting level with
-  the last thing he touched). The climax is complete. 2 chapters remain
-  undrafted. This is the critical path — everything upstream of it is
-  done.
+  the last thing he touched); Chs. 25-26, the resolution pair (What's
+  Left Standing — the town wakes the morning after the reckoning, and
+  each character's own gain lands separately from the shared reveal:
+  Jack files the box for the last time and walks in for the coffee, not
+  the case; Emma turns the board call from spin into truth and gives the
+  parcel to the town as memorial ground; Sarah and Diane make their first
+  real sentence in front of the Hollis ground; Michael puts the last
+  phone call's guilt down and calls his mother; Liam and Olivia trade the
+  sliver for the whole true version on the apartment steps; Echoes of
+  Fate — some weeks later, the same low gold light as the first morning,
+  the same six in their same tracks and none the same: Sarah paints the
+  glint deliberately for the first time, Olivia opens the bottom drawer
+  and puts the bracelet down, Liam finishes the sixty-second box and
+  finds the fifth chord, Emma keeps her own time, and Michael stands at
+  the lakefront ground with his brother's watch and decides to stay — the
+  road's not long anymore, it's home). **The full 26-chapter first draft
+  is complete as of 2026-09-16**; the climax and resolution per
+  `scenes/plot-map.md` and `research/subplot-weaving.md` landed as
+  designed. Drafting is over; the critical path moves to revision and
+  publishing.
 
 ## Working loop
 
@@ -105,22 +124,22 @@ the relevant `characters/*.md` file, and "test" means both
 
 ## Next steps (in order)
 
-1. Draft Chapters 25-26, the resolution pair — "What's Left Standing"
-   (Ensemble — fallout; each character's own reckoning, distinct from the
-   shared reveal, per `research/subplot-weaving.md`: Olivia's relationship
-   with Liam and her own self-forgiveness; Emma's choice about the company
-   and her father's memory now that hiding is no longer possible; Sarah
-   reckoning with a family history she was never told; Jack finally
-   closing the file; Michael and Sarah past the mystery that brought them
-   together) and "Echoes of Fate" (Ensemble — resolution and reflection
-   on fate, choice, and interconnectedness; final image). No reveal
-   remains to spend; this pair is each character's internal aftermath
-   plus the closing image.
-2. Continue chapter-by-chapter per `manuscript/outline.md`, in roughly
-   outline order, running `tests/test_manuscript.py` and committing after
-   each pass (or small batch of chapters).
-3. Sync `docs/` (GitHub Pages) once a handful of chapters are in a
-   publishable state — not on every draft.
+1. Continuity/revision pass over the full draft. Known items to start
+   with: the Olivia age mismatch (`chapter-08.md` says sixteen vs
+   `characters/olivia.md` eighteen — the Chs. 22/24 text says seventeen,
+   so the canon to reconcile toward is seventeen); reconcile
+   `characters/*.md` front-matter arc lists and status wording now that
+   the book is complete; walk the watch motif, the glint, and the
+   postcard through all 26 chapters for consistency. Then a read-through
+   for prose quality and any first-draft clunk across chapters.
+2. Word-count smoothing. `tests/test_manuscript.py` enforces 700-2600;
+   the aim is a tighter band (~1,900-2,200) across the book. Current
+   outliers to look at: none over the ceiling, but the finale (Ch. 26,
+   ~1,700) runs light.
+3. Publish `docs/` (GitHub Pages) to the drafted manuscript per
+   `docs/workflows/publishing.md` — see the Publishing block of `TODO.md`.
+4. Keep polishing/beta-read as an ongoing activity once continuity is
+   clean.
 
 ## Non-goals for now
 

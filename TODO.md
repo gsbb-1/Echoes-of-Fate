@@ -8,7 +8,8 @@ what's actively being worked on right now.
 Goal: expand from the original 13-chapter/~50-page draft to **26
 chapters, ~200 pages** (see `manuscript/outline.md`).
 
-**24 of 26 chapters drafted (Ch. 1-24) as of 2026-09-16.** All
+**26 of 26 chapters drafted (Ch. 1-26) as of 2026-09-16.** Manuscript
+first-draft complete. All
 planning/design infrastructure below is done; only the "Writing" section
 has open items. See `TASK.md` for the exact resume point and `PLAN.md`
 for the full state of the project.
@@ -90,8 +91,8 @@ for the full state of the project.
 - [x] Ch. 22 — "Fault Lines" (Olivia: the town's version first; Liam's confession, the sliver; the Emma crossing in the corner office)
 - [x] Ch. 23 — "The Gathering Storm" (Emma carries the folder to Jack; the festival assembles all six; Olivia answers for the photograph)
 - [x] Ch. 24 — "Reckoning" (Olivia's confession; the folder + her account reveal the accident; the watch payoff)
-- [ ] Ch. 25 — "What's Left Standing"
-- [ ] Ch. 26 — "Echoes of Fate"
+- [x] Ch. 25 — "What's Left Standing" (each character's own gain: Jack files the case, Emma gives the ground back, Sarah and Diane's first true sentence, Michael's last phone call, Liam and Olivia's whole version)
+- [x] Ch. 26 — "Echoes of Fate" (the same six, same tracks, carrying less; the deliberate glint; *it's home*)
 
 ## Publishing (`docs/`)
 
