@@ -7,18 +7,23 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status: session paused, 2026-09-15.** Chapters 1-4 drafted and
-committed (of 26). Nothing in progress, working tree clean, all tests
-passing. Chapter drafting is a steady loop now: scene plan
+**Status: 6 of 26 chapters drafted as of 2026-09-16.** Chapters 5-6 (Emma)
+drafted and committed: "The Ledger" (the night before the groundbreaking
+she reconciles the folder against her father's ledger and finds the buried
+pattern) and "What Emma Won't Say" (the near-tell with Priya at the
+ceremony; she buries it again). Working tree clean, all tests passing.
+Chapter drafting is a steady loop now: scene plan
 (`scenes/chapter-NN.md`) → draft (`manuscript/chapters/chapter-NN.md`) →
 `tests/test_manuscript.py` → update `TODO.md` → commit — repeat per
 `AGENTS.md`.
 
-**Next task to pick up:** Chapters 5-6 (Emma) — "The Ledger" (finds the
-inconsistency in her father's files) and "What Emma Won't Say" (nearly
-tells someone, buries it again). First chapters in Emma's controlled,
-precise voice; see `characters/emma.md` and `scenes/plot-map.md` for what
-she can and can't reveal at this reveal-tier.
+**Next task to pick up:** Chapters 7-8 (Jack) — "Cold Case" (Michael
+brings Jack the postcard Daniel mailed home days before he vanished; the
+case reopens informally) and "Echoes of the Unsolved" (Jack pulls his old
+case notes; the postcard's line about Hale "not going to like" something
+starts to rhyme with old details). First chapters in Jack's procedural,
+cataloguing voice; see `characters/jack.md` and `scenes/plot-map.md` for
+the two-stage reopening and the suspicion-tier information rules.
 
 ## History
 
@@ -36,3 +41,8 @@ she can and can't reveal at this reveal-tier.
 - 2026-09-15 — Drafted Chapters 3-4 (Sarah and Michael's first meeting,
   first dialogue-heavy chapter). Session paused here for the user to read
   Ch. 1-4 before more chapters are drafted.
+- 2026-09-16 — Drafted Chapters 5-6 (Emma: the ledger reconciliation the
+  night before the groundbreaking; the near-tell with Priya at the
+  ceremony). Reworded the outline's Ch. 16 beat ("groundbreaking is
+  announced") so it stays consistent with Ch. 2's week-one groundbreaking.
+  Working tree clean, all tests passing.

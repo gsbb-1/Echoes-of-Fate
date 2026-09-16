@@ -1,6 +1,6 @@
 # PLAN — Echoes of Fate
 
-_Last reviewed: 2026-09-15_
+_Last reviewed: 2026-09-16_
 
 ## Goal
 
@@ -48,10 +48,17 @@ planning/design work is done and the project is ready for chapter drafting:
 - **Automated checks:** `tests/test_manuscript.py` (21 checks) validates
   outline structure, character-file consistency, plot-map/character-file
   name consistency, and repo text encoding. All passing.
-- **Prose:** Chapters 1-2 drafted (the old ~470-word montage rewritten as
-  six real scenes, three per chapter, ~1,950 words each). 24 chapters
-  remain undrafted. This is the critical path — everything upstream of it
-  is done.
+- **Prose:** Chapters 1-6 drafted. Chs. 1-2 (the old ~470-word montage
+  rewritten as six real scenes, ~1,950 words each); Chs. 3-4 (Sarah and
+  Michael's first meeting, first dialogue-heavy chapters); Chs. 5-6 (Emma:
+  the ledger reconciliation the night before the groundbreaking, and the
+  near-tell at the ceremony — her controlled voice against the folder).
+  20 chapters remain undrafted. This is the critical path — everything
+  upstream of it is done. Note: Ch. 2 establishes the groundbreaking
+  happening in week one; the outline's Ch. 16 beat was reworded
+  accordingly (site work advancing toward the pond section) so it no
+  longer claims the groundbreaking "is announced" — Ch. 18's remains
+  discovery is unchanged.
 
 ## Working loop
 
@@ -65,8 +72,10 @@ the relevant `characters/*.md` file, and "test" means both
 
 ## Next steps (in order)
 
-1. Draft Chapters 3-4 (Sarah/Michael's first meeting) — first chapters
-   needing real scene-writing and dialogue per `research/dialogue-craft.md`.
+1. Draft Chapters 7-8 (Jack) — "Cold Case" and "Echoes of the Unsolved":
+   Michael brings Jack the postcard Daniel mailed home days before he
+   vanished; the case reopens informally. First chapters in Jack's
+   procedural, cataloguing voice.
 2. Continue chapter-by-chapter per `manuscript/outline.md`, in roughly
    outline order, running `tests/test_manuscript.py` and committing after
    each pass (or small batch of chapters).

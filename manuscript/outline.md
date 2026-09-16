@@ -58,8 +58,8 @@ The 26 chapters are distributed across the original 6-part shape:
 | 2 | What the Morning Hides | Ensemble | Drafted | Glimpses of Michael, Emma, and Liam; the town's picturesque surface starts to feel thin. |
 | 3 | The Artist and the Stranger | Sarah | Drafted | Sarah notices Michael around town before they speak; her current painting nags at her. |
 | 4 | A Name Across the Room | Michael | Drafted | Michael and Sarah actually meet; he recognizes something in one of her paintings. |
-| 5 | The Ledger | Emma | Not started | Emma finds an inconsistency in her late father's old company files. |
-| 6 | What Emma Won't Say | Emma | Not started | Emma's discovery nearly surfaces in conversation with someone close to her; she buries it again. |
+| 5 | The Ledger | Emma | Drafted | The night before the groundbreaking, Emma reconciles her father's files against the company ledger and finds the folder's three pieces — unfiled inspection, note to Colby, cancelled severance check — resolve into one buried pattern. |
+| 6 | What Emma Won't Say | Emma | Drafted | At the groundbreaking, her discovery nearly surfaces when Priya notices the gap in Colby's records; Emma pulls it back and buries it again — but the reader has seen the recognition. |
 | 7 | Cold Case | Jack | Not started | Michael brings Jack the postcard Daniel mailed home days before he vanished; the case reopens informally. |
 | 8 | Echoes of the Unsolved | Jack | Not started | Jack reopens his old case notes; the postcard's line about Hale "not going to like" something starts to rhyme with old details. |
 | 9 | Two Jobs, One Boy | Olivia | Not started | Olivia's grinding routine; friction with Liam, who's started digitizing old newspaper archives for community service. |
@@ -69,7 +69,7 @@ The 26 chapters are distributed across the original 6-part shape:
 | 13 | Digging Deeper | Jack | Not started | Jack starts asking around; his questions unsettle people who thought this was long closed. |
 | 14 | What the File Says | Emma | Not started | Jack's questions reach Emma's company; she has to decide how much to reveal. |
 | 15 | Closer | Sarah & Michael | Not started | Sarah and Michael grow closer; Michael's real reason for being in town starts to leak through. |
-| 16 | The Line Olivia Won't Cross | Olivia | Not started | Groundbreaking on the long-stalled lakeside parcel is announced; Olivia is pushed toward the choice she's avoided for eighteen years. |
+| 16 | The Line Olivia Won't Cross | Olivia | Not started | Site work at the parcel advances toward the old pond section; Olivia is pushed toward the choice she's avoided for eighteen years. |
 | 17 | What Sarah Finds Out | Sarah | Not started | Sarah learns what her recurring painted image actually is — a real place her own family sold away. |
 | 18 | The Weight of It | Emma & Jack | Not started | Grading equipment turns up remains at the site; Emma is confronted by consequence, Jack by an official reopening. |
 | 19 | Webs | Ensemble | Not started | The reader (and the characters, partially) can now see how all six threads connect — Daniel is dead, but not yet how or by whom. |
