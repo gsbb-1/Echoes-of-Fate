@@ -48,7 +48,7 @@ planning/design work is done and the project is ready for chapter drafting:
 - **Automated checks:** `tests/test_manuscript.py` (23 checks) validates
   outline structure, character-file consistency, plot-map/character-file
   name consistency, and repo text encoding. All passing.
-- **Prose:** Chapters 1-10 drafted. Chs. 1-2 (the old ~470-word montage
+- **Prose:** Chapters 1-12 drafted. Chs. 1-2 (the old ~470-word montage
   rewritten as six real scenes); Chs. 3-4 (Sarah and Michael's first
   meeting); Chs. 5-6 (Emma: the ledger reconciliation and the groundbreaking
   near-tell); Chs. 7-8 (Jack: Michael brings the postcard and the case
@@ -56,12 +56,16 @@ planning/design work is done and the project is ready for chapter drafting:
   Chs. 9-10 (Olivia/Liam: the last two POVs get their own chapters — Olivia
   absorbs Liam's archive talk about the missing man and stays silent, while
   Liam sits on two images that don't yet mean anything to him, setting up
-  the loud-and-quiet mismatch that Ch. 20 will spring). 16 chapters remain
-  undrafted. This is the critical path — everything upstream of it is done.
-  Note: Ch. 2 establishes the groundbreaking happening in week one; the
-  outline's Ch. 16 beat was reworded accordingly (site work advancing
-  toward the pond section) so it no longer claims the groundbreaking "is
-  announced" — Ch. 18's remains discovery is unchanged.
+  the loud-and-quiet mismatch that Ch. 20 will spring); Chs. 11-12 (Six
+  Crossings — all six make a first active decision; Paths That Shouldn't
+  Cross — Sarah finds the place she paints is real while Michael stays
+  name-and-mission concealed, so the reader holds the irony). Part II
+  (Character Development) is complete. 14 chapters remain undrafted. This
+  is the critical path — everything upstream of it is done. Note: Ch. 2
+  establishes the groundbreaking happening in week one; the outline's Ch. 16
+  beat was reworded accordingly (site work advancing toward the pond
+  section) so it no longer claims the groundbreaking "is announced" — Ch.
+  18's remains discovery is unchanged.
 
 ## Working loop
 
@@ -75,12 +79,13 @@ the relevant `characters/*.md` file, and "test" means both
 
 ## Next steps (in order)
 
-1. Draft Chapters 11-12 — "Six Crossings" (ensemble: each character faces a
-   first real decision point, closing out Part II's Character Development)
-   and "Paths That Shouldn't Cross" (Sarah). From here the threads start
-   actually crossing; keep the reveal discipline from
-   `research/mystery-plotting.md` (no folder contents to others, no Olivia
-   interpretation, Colby's departure stays the Ch. 13 red herring).
+1. Draft Chapters 13-14 — "Digging Deeper" (Jack starts asking around; his
+   questions unsettle people who thought the case was long closed) and
+   "What the File Says" (Emma — Jack's questions reach the company and she
+   decides how much to reveal). This pair opens Part III (Rising Action),
+   plants/cashes the Colby red herring, and stages the Jack/Emma
+   confrontation. Keep the reveal discipline: no folder contents to others,
+   no Olivia interpretation, remains unrecovered until Ch. 18.
 2. Continue chapter-by-chapter per `manuscript/outline.md`, in roughly
    outline order, running `tests/test_manuscript.py` and committing after
    each pass (or small batch of chapters).

@@ -8,7 +8,7 @@ what's actively being worked on right now.
 Goal: expand from the original 13-chapter/~50-page draft to **26
 chapters, ~200 pages** (see `manuscript/outline.md`).
 
-**10 of 26 chapters drafted (Ch. 1-10) as of 2026-09-16.** All
+**12 of 26 chapters drafted (Ch. 1-12) as of 2026-09-16.** All
 planning/design infrastructure below is done; only the "Writing" section
 has open items. See `TASK.md` for the exact resume point and `PLAN.md`
 for the full state of the project.
@@ -76,6 +76,8 @@ for the full state of the project.
 - [x] Ch. 8 — "Echoes of the Unsolved"
 - [x] Ch. 9 — "Two Jobs, One Boy" (last POV, Olivia, to get her own chapter)
 - [x] Ch. 10 — "The Notebook" (Liam holds two images that don't yet mean anything to him)
+- [x] Ch. 11 — "Six Crossings" (ensemble: all six make a first active decision)
+- [x] Ch. 12 — "Paths That Shouldn't Cross" (coincidence resolves into choice at the parcel gate)
 - [ ] Ch. 11 — "Six Crossings"
 - [ ] Ch. 12 — "Paths That Shouldn't Cross"
 - [ ] Ch. 13 — "Digging Deeper"

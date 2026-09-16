@@ -7,28 +7,30 @@ roadmap this is drawn from.
 
 ## Current
 
-**Status: 10 of 26 chapters drafted as of 2026-09-16.** Chapters 9-10
-(Olivia/Liam) drafted and committed: "Two Jobs, One Boy" (Olivia's diner +
-night-cleaning grind, the week-old sight of Jack with a stranger, and
-Liam's archive talk about the missing man brushing against the fragment she
-never names — she absorbs it and stays silent) and "The Notebook" (Liam
-re-logs the search-line photo, gets a half-minted blessing from Jack, and
-finds his mother as a teenager in the same orchard — he feels the two
-images align without grasping what either is; logs both, posts nothing).
-The loud-and-quiet mismatch (Liam will post in Ch. 20; Olivia has been
-silent ~18 years) is now set up from both sides. Working tree clean, all
-tests passing. Chapter drafting is a steady loop: scene plan
-(`scenes/chapter-NN.md`) → draft (`manuscript/chapters/chapter-NN.md`) →
-`tests/test_manuscript.py` → update `TODO.md` → commit — repeat per
-`AGENTS.md`.
+**Status: 12 of 26 chapters drafted as of 2026-09-16.** Chapters 11-12
+drafted and committed: "Six Crossings" (ensemble — Michael reads Emma's
+tell and stays/goes around her; Emma draws a real line under "not yet";
+Olivia takes the festival money and lets Liam keep digging; Sarah finds
+the place she paints is real at the parcel gate; Jack commits to walking
+the ground again; Liam makes the face at the photo's edge his project) and
+"Paths That Shouldn't Cross" (Sarah — coincidence tips into choice at the
+gate; she learns the place is real but NOT its family history, which stays
+reserved for Ch. 17; Michael stays first-name-only to her so the reader
+holds Ch. 7's irony). Working tree clean, all tests passing. Chapter
+drafting remains a steady loop: scene plan (`scenes/chapter-NN.md`) →
+draft (`manuscript/chapters/chapter-NN.md`) → `tests/test_manuscript.py`
+→ update `TODO.md` → commit — repeat per `AGENTS.md`.
 
-**Next task to pick up:** Chapters 11-12 — "Six Crossings" (ensemble:
-each character faces a first real decision point) and "Paths That Shouldn't
-Cross" (Sarah). These end Part II and pull the six threads toward first
-actual crossings; keep the reveal discipline from `research/mystery-plotting.md`
-(no folder contents to others, no Olivia interpretation, Colby's departure
-stays the Ch. 13 red herring). See `manuscript/outline.md` and
-`scenes/plot-map.md`.
+**Next task to pick up:** Chapters 13-14 — "Digging Deeper" (Jack starts
+asking around; his questions unsettle people who thought this was long
+closed) and "What the File Says" (Emma — Jack's questions reach the
+company and she decides how much to reveal). This pair plants/cashes the
+Colby red herring (his abrupt end-of-season departure record — the raw
+material exists already via Priya's Ch. 6 find) and stages the Jack/Emma
+confrontation. Keep the reveal discipline per `research/mystery-plotting.md`:
+the folder's three pieces stay unread by anyone but Emma, Olivia's
+interpretation stays fragmentary, and the remains stay unrecovered until
+Ch. 18. See `manuscript/outline.md` and `scenes/plot-map.md`.
 
 ## History
 
@@ -60,3 +62,8 @@ stays the Ch. 13 red herring). See `manuscript/outline.md` and
   Liam holding two images that don't yet mean anything). Patched a
   typo'd "Ma'am" ('course) out of the Ch. 10 draft. Working tree clean, all
   tests passing.
+- 2026-09-16 — Drafted Chapters 11-12 (Six Crossings — all six make a
+  first active decision; Paths That Shouldn't Cross — Sarah finds the
+  place is real, Michael stays name-and-mission concealed so the reader
+  holds the irony). Part II (Character Development) now complete.
+  Working tree clean, all tests passing.
